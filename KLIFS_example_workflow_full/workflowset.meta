@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><KNIMEMetaInfo nrOfElements="3">
+<element form="text" read-only="false" name="Author">3D-e-Chem (Albert J. Kooistra)</element>
+<element form="date" name="Creation Date" read-only="false">19/4/2016</element>
+<element form="multiline" name="Comments" read-only="false">Example workflow to demonstrate the functionalities for some of the KLIFS KNIME nodes.
+
+This workflow will select all MAPK kinase structures and perform the following functions:
+- Create a barchart representing H-bonding to the residues in the hinge region
+- Create a heatmap of the interaction Fingerprint Similarity
+- Select a ligand pair with the lowest molecular similarity (ECFP-4) and a high IFP similarity (&gt;0.75), retrieve the 3D structure of these ligands from the corresponding crystal structures, and finally show the overlay in MarvinSpace.</element>
+</KNIMEMetaInfo>

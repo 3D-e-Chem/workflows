@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config xmlns="http://www.knime.org/2008/09/XMLConfig" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.knime.org/2008/09/XMLConfig http://www.knime.org/XMLConfig_2008_09.xsd" key="settings.xml">
+<entry key="node_file" type="xstring" value="settings.xml"/>
+<config key="flow_stack"/>
+<config key="internal_node_subsettings">
+<entry key="memory_policy" type="xstring" value="CacheSmallInMemory"/>
+</config>
+<config key="model">
+<entry key="script" type="xstring" value="pairs &lt;- NULL%%00010for (i in 1:length(knime.in$&quot;Tanimoto&quot;)){%%00010%%00009# Filter on high IFP similarity of 0.75%%00010%%00009index &lt;- which(knime.in$&quot;Tanimoto&quot;[[i]]&gt;0.75)%%00010%%00009index &lt;- setdiff(index, 1:i)%%00010%%00009%%00010%%00009if (length(index)&gt;0){%%00010%%00009%%00009# combinations%%00010%%00009%%00009comb &lt;- expand.grid(knime.in$&quot;Structure ID&quot;[i],knime.in$&quot;Structure ID&quot;[index])%%00010%%00009%%00009# add Interaction Fingerprint Similarity%%00010%%00009%%00009comb &lt;- cbind(comb, knime.in$&quot;Tanimoto&quot;[[i]][index])%%00010%%00009%%00009# add Ligand Similarity%%00010%%00009%%00009comb &lt;- cbind(comb, knime.in$&quot;Tanimoto (#1)&quot;[[i]][index])%%00010%%00009%%00009if (is.null(pairs)){%%00010%%00009%%00009%%00009pairs &lt;- comb%%00010%%00009%%00009} else {%%00010%%00009%%00009%%00009pairs &lt;- rbind(pairs,comb)%%00010%%00009%%00009}%%00010%%00009}%%00010}%%00010#colnames(pairs) &lt;- c(&quot;Structure ID 1&quot;, &quot;Structure ID 2&quot;, &quot;IFP similarity&quot;, &quot;ECFP similarity&quot;)%%00010%%00010# output only %%00010minimum &lt;- which(pairs[,4]==min(pairs[,4]))%%00010pairs &lt;- as.matrix(pairs[minimum,1:2])%%00010dim(pairs) &lt;- c(2,1)%%00010"/>
+<entry key="templateUUID" type="xstring" isnull="true" value=""/>
+<entry key="version" type="xstring" value="version 1.x"/>
+<entry key="Output non numbers (NaN, Inf, -Inf) as missing cells" type="xboolean" value="false"/>
+</config>
+<config key="nodeAnnotation">
+<entry key="text" type="xstring" value="Select ligand pair with%%00010lowest chemical similarity %%00010and high IFP similarity%%00010"/>
+<entry key="bgcolor" type="xint" value="16777215"/>
+<entry key="x-coordinate" type="xint" value="1496"/>
+<entry key="y-coordinate" type="xint" value="299"/>
+<entry key="width" type="xint" value="169"/>
+<entry key="height" type="xint" value="80"/>
+<entry key="alignment" type="xstring" value="CENTER"/>
+<entry key="borderSize" type="xint" value="0"/>
+<entry key="borderColor" type="xint" value="16777215"/>
+<entry key="defFontSize" type="xint" value="11"/>
+<entry key="annotation-version" type="xint" value="20151123"/>
+<config key="styles"/>
+</config>
+<entry key="customDescription" type="xstring" isnull="true" value=""/>
+<entry key="state" type="xstring" value="EXECUTED"/>
+<entry key="factory" type="xstring" value="org.knime.r.TableToRNodeFactory"/>
+<entry key="node-name" type="xstring" value="Table to R"/>
+<entry key="node-bundle-name" type="xstring" value="KNIME R-Project nodes"/>
+<entry key="node-bundle-symbolic-name" type="xstring" value="org.knime.r"/>
+<entry key="node-bundle-vendor" type="xstring" value="KNIME GmbH, Konstanz, Germany"/>
+<entry key="node-bundle-version" type="xstring" value="3.1.2.v201603311251"/>
+<entry key="node-feature-name" type="xstring" value="KNIME Interactive R Statistics Integration"/>
+<entry key="node-feature-symbolic-name" type="xstring" value="org.knime.features.r.feature.group"/>
+<entry key="node-feature-vendor" type="xstring" value="KNIME GmbH, Konstanz, Germany"/>
+<entry key="node-feature-version" type="xstring" value="3.1.2.v201603311251"/>
+<config key="factory_settings"/>
+<entry key="name" type="xstring" value="Table to R"/>
+<entry key="hasContent" type="xboolean" value="true"/>
+<entry key="isInactive" type="xboolean" value="false"/>
+<config key="ports">
+<config key="port_1">
+<entry key="index" type="xint" value="1"/>
+<entry key="port_spec_class" type="xstring" value="org.knime.ext.r.node.local.port.RPortObjectSpec"/>
+<entry key="port_object_class" type="xstring" value="org.knime.ext.r.node.local.port.RPortObject"/>
+<entry key="port_object_summary" type="xstring" value="R Object"/>
+<entry key="port_spec_location" type="xstring" value="spec/spec.zip"/>
+<entry key="port_object_location" type="xstring" value="object/portobject.zip"/>
+<entry key="port_dir_location" type="xstring" value="port_1"/>
+</config>
+</config>
+<config key="filestores">
+<entry key="file_store_location" type="xstring" isnull="true" value=""/>
+<entry key="file_store_id" type="xstring" isnull="true" value=""/>
+</config>
+</config>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config xmlns="http://www.knime.org/2008/09/XMLConfig" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.knime.org/2008/09/XMLConfig http://www.knime.org/XMLConfig_2008_09.xsd" key="viewValue">
+<config key="options">
+<entry key="numSettings" type="xint" value="6"/>
+<entry key="mapClass" type="xstring" value="object"/>
+<entry key="key_0" type="xstring" value="catLabel"/>
+<entry key="class_0" type="xstring" value="java.lang.String"/>
+<entry key="value_0" type="xstring" value=""/>
+<entry key="key_1" type="xstring" value="orientation"/>
+<entry key="class_1" type="xstring" value="java.lang.Boolean"/>
+<entry key="value_1" type="xboolean" value="true"/>
+<entry key="key_2" type="xstring" value="freqLabel"/>
+<entry key="class_2" type="xstring" value="java.lang.String"/>
+<entry key="value_2" type="xstring" value=""/>
+<entry key="key_3" type="xstring" value="staggerLabels"/>
+<entry key="class_3" type="xstring" value="java.lang.Boolean"/>
+<entry key="value_3" type="xboolean" value="false"/>
+<entry key="key_4" type="xstring" value="subtitle"/>
+<entry key="class_4" type="xstring" value="java.lang.String"/>
+<entry key="value_4" type="xstring" value=""/>
+<entry key="key_5" type="xstring" value="title"/>
+<entry key="class_5" type="xstring" value="java.lang.String"/>
+<entry key="value_5" type="xstring" value=""/>
+</config>
+<config key="outColumns">
+<entry key="numSettings" type="xint" value="0"/>
+<entry key="mapClass" type="xstring" value="object"/>
+</config>
+<config key="outTables">
+<entry key="numSettings" type="xint" value="0"/>
+<entry key="mapClass" type="xstring" value="object"/>
+</config>
+<config key="variables">
+<entry key="numSettings" type="xint" value="0"/>
+<entry key="mapClass" type="xstring" value="string"/>
+</config>
+</config>
