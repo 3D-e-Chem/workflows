@@ -7,7 +7,7 @@
 </config>
 <config key="model">
 <entry key="driver" type="xstring" value="org.sqlite.JDBC"/>
-<entry key="database" type="xstring" value="jdbc:sqlite:/data/kripo/pdb/kripo.sqlite"/>
+<entry key="database" type="xstring" value="jdbc:sqlite:/data/kripo/pdb/fragments.sqlite"/>
 <entry key="user" type="xstring" value=""/>
 <entry key="password" type="xstring" value=""/>
 <entry key="timezone" type="xstring" value="current"/>
@@ -18,7 +18,7 @@
 <entry key="databaseIdentifier" type="xstring" value="sqlite"/>
 <entry key="kerberos" type="xboolean" value="false"/>
 <config key="sqlite-connection">
-<entry key="path" type="xstring" value="/data/kripo/pdb/kripo.sqlite"/>
+<entry key="path" type="xstring" value="/data/kripo/pdb/fragments.sqlite"/>
 </config>
 </config>
 <config key="nodeAnnotation">
@@ -56,7 +56,7 @@
 <entry key="index" type="xint" value="1"/>
 <entry key="port_spec_class" type="xstring" value="org.knime.core.node.port.database.DatabaseConnectionPortObjectSpec"/>
 <entry key="port_object_class" type="xstring" value="org.knime.core.node.port.database.DatabaseConnectionPortObject"/>
-<entry key="port_object_summary" type="xstring" value="DB: sqlite URL: jdbc:sqlite:/data/kripo/pdb/kripo.sqlite"/>
+<entry key="port_object_summary" type="xstring" value="DB: sqlite URL: jdbc:sqlite:/data/kripo/pdb/fragments.sqlite"/>
 <entry key="port_spec_location" type="xstring" value="spec/spec.zip"/>
 <entry key="port_object_location" type="xstring" value="object/portobject.zip"/>
 <entry key="port_dir_location" type="xstring" value="port_1"/>

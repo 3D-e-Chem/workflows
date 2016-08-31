@@ -25,7 +25,7 @@ Customizable KNIME workflow to extract GPCR ligands from ChEMBL and preparation 
 
 ## GPCR-kinase
 
-TODO
+Workflow to analyze the binding site similarity between all crystallized GPCRs and kinases. PDB IDs are fetched through GPCRdb and KLIFS nodes, and the KRIPO nodes are used to select similar binding pockets and to add ligand structures.
 
 A Pymol session file called 'GPCR-kinase.pse' is stored next to this workflow.
 
