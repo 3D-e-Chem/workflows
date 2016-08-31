@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config xmlns="http://www.knime.org/2008/09/XMLConfig" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.knime.org/2008/09/XMLConfig http://www.knime.org/XMLConfig_2008_09.xsd" key="settings.xml">
+<entry key="node_file" type="xstring" value="settings.xml"/>
+<config key="flow_stack"/>
+<config key="internal_node_subsettings">
+<entry key="memory_policy" type="xstring" value="CacheSmallInMemory"/>
+</config>
+<config key="model">
+<config key="column-filter">
+<entry key="filter-type" type="xstring" value="STANDARD"/>
+<config key="included_names">
+<entry key="array-size" type="xint" value="3"/>
+<entry key="0" type="xstring" value="frag_id"/>
+<entry key="1" type="xstring" value="smiles"/>
+<entry key="2" type="xstring" value="uniprot_name"/>
+</config>
+<config key="excluded_names">
+<entry key="array-size" type="xint" value="15"/>
+<entry key="0" type="xstring" value="atom_codes"/>
+<entry key="1" type="xstring" value="ec_number"/>
+<entry key="2" type="xstring" value="frag_nr"/>
+<entry key="3" type="xstring" value="hash_code"/>
+<entry key="4" type="xstring" value="het_chain"/>
+<entry key="5" type="xstring" value="het_code"/>
+<entry key="6" type="xstring" value="het_seq_nr"/>
+<entry key="7" type="xstring" value="mol"/>
+<entry key="8" type="xstring" value="nr_r_groups"/>
+<entry key="9" type="xstring" value="pdb_code"/>
+<entry key="10" type="xstring" value="pdb_title"/>
+<entry key="11" type="xstring" value="prot_chain"/>
+<entry key="12" type="xstring" value="prot_name"/>
+<entry key="13" type="xstring" value="rowid"/>
+<entry key="14" type="xstring" value="uniprot_acc"/>
+</config>
+<entry key="enforce_option" type="xstring" value="EnforceExclusion"/>
+<config key="name_pattern">
+<entry key="pattern" type="xstring" value=""/>
+<entry key="type" type="xstring" value="Wildcard"/>
+<entry key="caseSensitive" type="xboolean" value="true"/>
+</config>
+<config key="datatype">
+<config key="typelist">
+<entry key="org.knime.core.data.BooleanValue" type="xboolean" value="false"/>
+<entry key="org.knime.core.data.date.DateAndTimeValue" type="xboolean" value="false"/>
+<entry key="org.knime.core.data.DoubleValue" type="xboolean" value="false"/>
+<entry key="org.knime.core.data.IntValue" type="xboolean" value="false"/>
+<entry key="org.knime.core.data.LongValue" type="xboolean" value="false"/>
+<entry key="org.knime.core.data.StringValue" type="xboolean" value="false"/>
+<entry key="org.rdkit.knime.types.RDKitMolValue" type="xboolean" value="false"/>
+<entry key="org.knime.chem.types.SmilesValue" type="xboolean" value="false"/>
+</config>
+</config>
+</config>
+</config>
+<config key="nodeAnnotation">
+<entry key="text" type="xstring" value="clean table"/>
+<entry key="bgcolor" type="xint" value="16777215"/>
+<entry key="x-coordinate" type="xint" value="2093"/>
+<entry key="y-coordinate" type="xint" value="359"/>
+<entry key="width" type="xint" value="134"/>
+<entry key="height" type="xint" value="20"/>
+<entry key="alignment" type="xstring" value="CENTER"/>
+<entry key="borderSize" type="xint" value="0"/>
+<entry key="borderColor" type="xint" value="16777215"/>
+<entry key="defFontSize" type="xint" value="11"/>
+<entry key="annotation-version" type="xint" value="20151123"/>
+<config key="styles"/>
+</config>
+<entry key="customDescription" type="xstring" isnull="true" value=""/>
+<entry key="state" type="xstring" value="EXECUTED"/>
+<entry key="factory" type="xstring" value="org.knime.base.node.preproc.filter.column.DataColumnSpecFilterNodeFactory"/>
+<entry key="node-name" type="xstring" value="Column Filter"/>
+<entry key="node-bundle-name" type="xstring" value="KNIME Base Nodes"/>
+<entry key="node-bundle-symbolic-name" type="xstring" value="org.knime.base"/>
+<entry key="node-bundle-vendor" type="xstring" value="KNIME GmbH, Konstanz, Germany"/>
+<entry key="node-bundle-version" type="xstring" value="3.2.0.v201607050924"/>
+<entry key="node-feature-name" type="xstring" value="Lhasa Metabolism Feature"/>
+<entry key="node-feature-symbolic-name" type="xstring" value="org.lhasalimited.knime.metabolism.feature.feature.group"/>
+<entry key="node-feature-vendor" type="xstring" value="Lhasa Limited (http://www.lhasalimited.org)"/>
+<entry key="node-feature-version" type="xstring" value="1.1.0.v201607041447"/>
+<config key="factory_settings"/>
+<entry key="name" type="xstring" value="Column Filter"/>
+<entry key="hasContent" type="xboolean" value="true"/>
+<entry key="isInactive" type="xboolean" value="false"/>
+<config key="ports">
+<config key="port_1">
+<entry key="index" type="xint" value="1"/>
+<entry key="port_spec_class" type="xstring" value="org.knime.core.data.DataTableSpec"/>
+<entry key="port_object_class" type="xstring" value="org.knime.core.node.BufferedDataTable"/>
+<entry key="port_object_summary" type="xstring" value="Rows: 450, Cols: 3"/>
+<entry key="port_dir_location" type="xstring" value="port_1"/>
+</config>
+</config>
+<config key="filestores">
+<entry key="file_store_location" type="xstring" isnull="true" value=""/>
+<entry key="file_store_id" type="xstring" value="f38f093e-2db4-4f0c-9318-682ace8574f2"/>
+</config>
+</config>
