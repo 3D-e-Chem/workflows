@@ -12,7 +12,7 @@
 <entry key="x-coordinate" type="xint" value="2693"/>
 <entry key="y-coordinate" type="xint" value="259"/>
 <entry key="width" type="xint" value="134"/>
-<entry key="height" type="xint" value="19"/>
+<entry key="height" type="xint" value="20"/>
 <entry key="alignment" type="xstring" value="CENTER"/>
 <entry key="borderSize" type="xint" value="0"/>
 <entry key="borderColor" type="xint" value="16777215"/>
@@ -27,11 +27,11 @@
 <entry key="node-bundle-name" type="xstring" value="KNIME Base Nodes"/>
 <entry key="node-bundle-symbolic-name" type="xstring" value="org.knime.base"/>
 <entry key="node-bundle-vendor" type="xstring" value="KNIME GmbH, Konstanz, Germany"/>
-<entry key="node-bundle-version" type="xstring" value="3.2.0.v201607050924"/>
-<entry key="node-feature-name" type="xstring" value="Lhasa Metabolism Feature"/>
-<entry key="node-feature-symbolic-name" type="xstring" value="org.lhasalimited.knime.metabolism.feature.feature.group"/>
-<entry key="node-feature-vendor" type="xstring" value="Lhasa Limited (http://www.lhasalimited.org)"/>
-<entry key="node-feature-version" type="xstring" value="1.1.0.v201607041447"/>
+<entry key="node-bundle-version" type="xstring" value="3.2.2.v201610031220"/>
+<entry key="node-feature-name" type="xstring" value="KNIME Core"/>
+<entry key="node-feature-symbolic-name" type="xstring" value="org.knime.features.base.feature.group"/>
+<entry key="node-feature-vendor" type="xstring" value="KNIME GmbH, Konstanz, Germany"/>
+<entry key="node-feature-version" type="xstring" value="3.2.2.v201610031220"/>
 <config key="factory_settings"/>
 <entry key="name" type="xstring" value="Interactive Table"/>
 <entry key="hasContent" type="xboolean" value="true"/>
@@ -49,6 +49,6 @@
 </config>
 <config key="filestores">
 <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-<entry key="file_store_id" type="xstring" value="93e09429-74fe-488e-b973-1e5dc6fd00ba"/>
+<entry key="file_store_id" type="xstring" value="91516e33-e1e6-4d43-8fdc-8525d775774d"/>
 </config>
 </config>

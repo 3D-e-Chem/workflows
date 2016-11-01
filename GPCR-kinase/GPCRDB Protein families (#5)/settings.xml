@@ -18,7 +18,7 @@
 <entry key="x-coordinate" type="xint" value="-47"/>
 <entry key="y-coordinate" type="xint" value="199"/>
 <entry key="width" type="xint" value="134"/>
-<entry key="height" type="xint" value="20"/>
+<entry key="height" type="xint" value="19"/>
 <entry key="alignment" type="xstring" value="CENTER"/>
 <entry key="borderSize" type="xint" value="0"/>
 <entry key="borderColor" type="xint" value="16777215"/>
@@ -33,7 +33,7 @@
 <entry key="node-bundle-name" type="xstring" value="GPCRDB Nodes"/>
 <entry key="node-bundle-symbolic-name" type="xstring" value="nl.esciencecenter.e3dchem.gpcrdb"/>
 <entry key="node-bundle-vendor" type="xstring" value="Netherlands eScience Center"/>
-<entry key="node-bundle-version" type="xstring" value="1.0.12"/>
+<entry key="node-bundle-version" type="xstring" value="1.0.13"/>
 <entry key="node-feature-name" type="xstring" isnull="true" value=""/>
 <entry key="node-feature-symbolic-name" type="xstring" isnull="true" value=""/>
 <entry key="node-feature-vendor" type="xstring" isnull="true" value=""/>
@@ -53,6 +53,6 @@
 </config>
 <config key="filestores">
 <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-<entry key="file_store_id" type="xstring" isnull="true" value=""/>
+<entry key="file_store_id" type="xstring" value="888a31b5-4d5e-444c-83ea-468aba716e1a"/>
 </config>
 </config>

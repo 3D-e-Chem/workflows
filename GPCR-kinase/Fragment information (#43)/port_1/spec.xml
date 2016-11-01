@@ -254,7 +254,7 @@
 </config>
 <config key="column_domain">
 <config key="possible_values">
-<entry key="array-size" type="xint" value="48"/>
+<entry key="array-size" type="xint" value="54"/>
 <config key="0">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
@@ -528,19 +528,55 @@
 <config key="45">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="Chimera protein of Soluble cytochrome b562 and Type-1 angiotensin II receptor"/>
+<entry key="StringCell" type="xstring" value="human OX1R fusion protein to P.abysii glycogen synthase"/>
 </config>
 </config>
 <config key="46">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="Mu-type opioid receptor"/>
+<entry key="StringCell" type="xstring" value="Chimera protein of Soluble cytochrome b562 and Type-1 angiotensin II receptor"/>
 </config>
 </config>
 <config key="47">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="Mu-type opioid receptor"/>
+</config>
+</config>
+<config key="48">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
 <entry key="StringCell" type="xstring" value="Metabotropic glutamate receptor 5,Endolysin,Metabotropic glutamate receptor 5"/>
+</config>
+</config>
+<config key="49">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="Beta-2 adrenergic receptor,Endolysin,Beta-2 adrenergic receptor"/>
+</config>
+</config>
+<config key="50">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="Nociceptin receptor-Cytochrome b562 Chimera"/>
+</config>
+</config>
+<config key="51">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="GPCR-BRIL Chimera"/>
+</config>
+</config>
+<config key="52">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="Muscarinic acetylcholine receptor M4,Endolysin,Endolysin,Muscarinic acetylcholine receptor M4"/>
+</config>
+</config>
+<config key="53">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="Beta-1 adrenergic receptor"/>
 </config>
 </config>
 </config>
@@ -565,7 +601,7 @@
 <config key="upper_bound">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.IntCell"/>
 <config key="org.knime.core.data.def.IntCell">
-<entry key="IntCell" type="xint" value="449712"/>
+<entry key="IntCell" type="xint" value="482962"/>
 </config>
 </config>
 </config>
@@ -592,7 +628,7 @@
 </config>
 <config key="column_domain">
 <config key="possible_values">
-<entry key="array-size" type="xint" value="35"/>
+<entry key="array-size" type="xint" value="38"/>
 <config key="0">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
@@ -794,13 +830,31 @@
 <config key="33">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="P42866"/>
+<entry key="StringCell" type="xstring" value="O43613#Q9V2J8"/>
 </config>
 </config>
 <config key="34">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="P42866"/>
+</config>
+</config>
+<config key="35">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
 <entry key="StringCell" type="xstring" value="P00720#P41594"/>
+</config>
+</config>
+<config key="36">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="C8TP59#P41146"/>
+</config>
+</config>
+<config key="37">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="P00720#P08173"/>
 </config>
 </config>
 </config>
@@ -817,7 +871,7 @@
 </config>
 <config key="column_domain">
 <config key="possible_values">
-<entry key="array-size" type="xint" value="34"/>
+<entry key="array-size" type="xint" value="37"/>
 <config key="0">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
@@ -1013,13 +1067,31 @@
 <config key="32">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="Mu-type opioid receptor"/>
+<entry key="StringCell" type="xstring" value="O43613:#Orexin receptor type 1#null"/>
 </config>
 </config>
 <config key="33">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="Mu-type opioid receptor"/>
+</config>
+</config>
+<config key="34">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
 <entry key="StringCell" type="xstring" value="P00720:#Endolysin#P41594:#Metabotropic glutamate receptor 5"/>
+</config>
+</config>
+<config key="35">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="null#P41146:#Nociceptin receptor"/>
+</config>
+</config>
+<config key="36">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="P00720:#Endolysin#P08173:#Muscarinic acetylcholine receptor M4"/>
 </config>
 </config>
 </config>

@@ -111,19 +111,19 @@
 <config key="14">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="2.7.12.2"/>
+<entry key="StringCell" type="xstring" value="2.7.11.30"/>
 </config>
 </config>
 <config key="15">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="2.7.11.13"/>
+<entry key="StringCell" type="xstring" value="2.7.12.2"/>
 </config>
 </config>
 <config key="16">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="2.7.11.30"/>
+<entry key="StringCell" type="xstring" value="2.7.11.13"/>
 </config>
 </config>
 </config>
