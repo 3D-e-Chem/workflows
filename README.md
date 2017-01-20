@@ -49,4 +49,8 @@ Data is fetched from http://klifs.vu-compmedchem.nl/
 
 Bioisosteric replacement workflow using [Kripo Knime nodes](https://github.com/3D-e-Chem/3D-e-Chem-VM/wiki/Software#kripodb).
 
+## SyGMa-example 
+
+Example for the SyGMa metabolites node: predicting the metabolites of 5 (drug) molecules.
+
 A Pymol session file called `KRIPO_3rze_2aot.pse` with 3rze + 2aot Kripo fragment alignment is stored next to this workflow.
