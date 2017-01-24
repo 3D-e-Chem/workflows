@@ -15,10 +15,10 @@
 <config key="nodeAnnotation">
 <entry key="text" type="xstring" value="Calculate IFP Similiarity"/>
 <entry key="bgcolor" type="xint" value="16777215"/>
-<entry key="x-coordinate" type="xint" value="1242"/>
+<entry key="x-coordinate" type="xint" value="1264"/>
 <entry key="y-coordinate" type="xint" value="159"/>
-<entry key="width" type="xint" value="157"/>
-<entry key="height" type="xint" value="20"/>
+<entry key="width" type="xint" value="113"/>
+<entry key="height" type="xint" value="13"/>
 <entry key="alignment" type="xstring" value="CENTER"/>
 <entry key="borderSize" type="xint" value="0"/>
 <entry key="borderColor" type="xint" value="16777215"/>
@@ -27,32 +27,29 @@
 <config key="styles"/>
 </config>
 <entry key="customDescription" type="xstring" isnull="true" value=""/>
-<entry key="state" type="xstring" value="EXECUTED"/>
+<entry key="state" type="xstring" value="IDLE"/>
 <entry key="factory" type="xstring" value="org.openscience.cdk.knime.nodes.fingerprints.similarity.SimilarityNodeFactory"/>
 <entry key="node-name" type="xstring" value="Fingerprint Similarity"/>
 <entry key="node-bundle-name" type="xstring" value="KNIME CDK Integration"/>
 <entry key="node-bundle-symbolic-name" type="xstring" value="org.openscience.cdk.knime"/>
 <entry key="node-bundle-vendor" type="xstring" value="KNIME GmbH, Konstanz and EMBL-EBI, Cambridge"/>
-<entry key="node-bundle-version" type="xstring" value="1.5.400.v201511291629"/>
-<entry key="node-feature-name" type="xstring" value="KNIME-CDK"/>
-<entry key="node-feature-symbolic-name" type="xstring" value="org.openscience.cdk.knime.feature.feature.group"/>
-<entry key="node-feature-vendor" type="xstring" value="University Konstanz and EBI"/>
-<entry key="node-feature-version" type="xstring" value="1.5.400.v201511291629"/>
+<entry key="node-bundle-version" type="xstring" value="1.5.600.v201607162102"/>
+<entry key="node-feature-name" type="xstring" isnull="true" value=""/>
+<entry key="node-feature-symbolic-name" type="xstring" isnull="true" value=""/>
+<entry key="node-feature-vendor" type="xstring" isnull="true" value=""/>
+<entry key="node-feature-version" type="xstring" value="0.0.0"/>
 <config key="factory_settings"/>
 <entry key="name" type="xstring" value="Fingerprint Similarity"/>
-<entry key="hasContent" type="xboolean" value="true"/>
+<entry key="hasContent" type="xboolean" value="false"/>
 <entry key="isInactive" type="xboolean" value="false"/>
 <config key="ports">
 <config key="port_1">
 <entry key="index" type="xint" value="1"/>
-<entry key="port_spec_class" type="xstring" value="org.knime.core.data.DataTableSpec"/>
-<entry key="port_object_class" type="xstring" value="org.knime.core.node.BufferedDataTable"/>
-<entry key="port_object_summary" type="xstring" value="Rows: 98, Cols: 41"/>
-<entry key="port_dir_location" type="xstring" value="port_1"/>
+<entry key="port_dir_location" type="xstring" isnull="true" value=""/>
 </config>
 </config>
 <config key="filestores">
 <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-<entry key="file_store_id" type="xstring" value="320380ba-6666-4247-bacb-16a492dff94c"/>
+<entry key="file_store_id" type="xstring" isnull="true" value=""/>
 </config>
 </config>

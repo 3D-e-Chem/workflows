@@ -27,32 +27,29 @@
 <config key="styles"/>
 </config>
 <entry key="customDescription" type="xstring" isnull="true" value=""/>
-<entry key="state" type="xstring" value="EXECUTED"/>
+<entry key="state" type="xstring" value="IDLE"/>
 <entry key="factory" type="xstring" value="nl.vu_compmedchem.klifs.ligands.LigandsListNodeFactory"/>
 <entry key="node-name" type="xstring" value="Ligands Overview Retriever"/>
 <entry key="node-bundle-name" type="xstring" value="KNIME 3D-e-Chem Contributions"/>
 <entry key="node-bundle-symbolic-name" type="xstring" value="nl.vu_compmedchem.klifs"/>
 <entry key="node-bundle-vendor" type="xstring" value="3D-e-Chem"/>
-<entry key="node-bundle-version" type="xstring" value="1.0.11"/>
-<entry key="node-feature-name" type="xstring" isnull="true" value=""/>
-<entry key="node-feature-symbolic-name" type="xstring" isnull="true" value=""/>
+<entry key="node-bundle-version" type="xstring" value="1.0.16"/>
+<entry key="node-feature-name" type="xstring" value="KLIFS KNIME nodes"/>
+<entry key="node-feature-symbolic-name" type="xstring" value="nl.vu_compmedchem.klifs.feature.feature.group"/>
 <entry key="node-feature-vendor" type="xstring" isnull="true" value=""/>
-<entry key="node-feature-version" type="xstring" value="0.0.0"/>
+<entry key="node-feature-version" type="xstring" value="1.0.16"/>
 <config key="factory_settings"/>
 <entry key="name" type="xstring" value="Ligands Overview Retriever"/>
-<entry key="hasContent" type="xboolean" value="true"/>
+<entry key="hasContent" type="xboolean" value="false"/>
 <entry key="isInactive" type="xboolean" value="false"/>
 <config key="ports">
 <config key="port_1">
 <entry key="index" type="xint" value="1"/>
-<entry key="port_spec_class" type="xstring" value="org.knime.core.data.DataTableSpec"/>
-<entry key="port_object_class" type="xstring" value="org.knime.core.node.BufferedDataTable"/>
-<entry key="port_object_summary" type="xstring" value="Rows: 276, Cols: 5"/>
-<entry key="port_dir_location" type="xstring" value="port_1"/>
+<entry key="port_dir_location" type="xstring" isnull="true" value=""/>
 </config>
 </config>
 <config key="filestores">
 <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-<entry key="file_store_id" type="xstring" value="74512eaa-5ffc-4010-ba8e-1c63b804d19e"/>
+<entry key="file_store_id" type="xstring" isnull="true" value=""/>
 </config>
 </config>

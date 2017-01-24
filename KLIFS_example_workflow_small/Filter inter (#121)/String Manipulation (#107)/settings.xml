@@ -28,32 +28,29 @@
 <config key="styles"/>
 </config>
 <entry key="customDescription" type="xstring" isnull="true" value=""/>
-<entry key="state" type="xstring" value="EXECUTED"/>
+<entry key="state" type="xstring" value="IDLE"/>
 <entry key="factory" type="xstring" value="org.knime.base.node.preproc.stringmanipulation.StringManipulationNodeFactory"/>
 <entry key="node-name" type="xstring" value="String Manipulation"/>
 <entry key="node-bundle-name" type="xstring" value="KNIME Java Snippet Nodes"/>
 <entry key="node-bundle-symbolic-name" type="xstring" value="org.knime.jsnippets"/>
 <entry key="node-bundle-vendor" type="xstring" value="KNIME GmbH, Konstanz, Germany"/>
-<entry key="node-bundle-version" type="xstring" value="3.1.2.v201603040957"/>
-<entry key="node-feature-name" type="xstring" isnull="true" value=""/>
-<entry key="node-feature-symbolic-name" type="xstring" isnull="true" value=""/>
-<entry key="node-feature-vendor" type="xstring" isnull="true" value=""/>
-<entry key="node-feature-version" type="xstring" value="0.0.0"/>
+<entry key="node-bundle-version" type="xstring" value="3.3.1.v201612191959"/>
+<entry key="node-feature-name" type="xstring" value="KNIME Core"/>
+<entry key="node-feature-symbolic-name" type="xstring" value="org.knime.features.base.feature.group"/>
+<entry key="node-feature-vendor" type="xstring" value="KNIME GmbH, Konstanz, Germany"/>
+<entry key="node-feature-version" type="xstring" value="3.3.1.v201612192115"/>
 <config key="factory_settings"/>
 <entry key="name" type="xstring" value="String Manipulation"/>
-<entry key="hasContent" type="xboolean" value="true"/>
+<entry key="hasContent" type="xboolean" value="false"/>
 <entry key="isInactive" type="xboolean" value="false"/>
 <config key="ports">
 <config key="port_1">
 <entry key="index" type="xint" value="1"/>
-<entry key="port_spec_class" type="xstring" value="org.knime.core.data.DataTableSpec"/>
-<entry key="port_object_class" type="xstring" value="org.knime.core.node.BufferedDataTable"/>
-<entry key="port_object_summary" type="xstring" value="Rows: 464, Cols: 4"/>
-<entry key="port_dir_location" type="xstring" value="port_1"/>
+<entry key="port_dir_location" type="xstring" isnull="true" value=""/>
 </config>
 </config>
 <config key="filestores">
 <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-<entry key="file_store_id" type="xstring" value="4b8c0468-49cf-415f-bddf-61a77d9ea54a"/>
+<entry key="file_store_id" type="xstring" isnull="true" value=""/>
 </config>
 </config>

@@ -21,10 +21,10 @@
 <config key="nodeAnnotation">
 <entry key="text" type="xstring" value="Create Hinge H-bonding barchart"/>
 <entry key="bgcolor" type="xint" value="16777215"/>
-<entry key="x-coordinate" type="xint" value="1431"/>
+<entry key="x-coordinate" type="xint" value="1820"/>
 <entry key="y-coordinate" type="xint" value="19"/>
-<entry key="width" type="xint" value="219"/>
-<entry key="height" type="xint" value="20"/>
+<entry key="width" type="xint" value="161"/>
+<entry key="height" type="xint" value="13"/>
 <entry key="alignment" type="xstring" value="CENTER"/>
 <entry key="borderSize" type="xint" value="0"/>
 <entry key="borderColor" type="xint" value="16777215"/>
@@ -33,34 +33,29 @@
 <config key="styles"/>
 </config>
 <entry key="customDescription" type="xstring" isnull="true" value=""/>
-<entry key="state" type="xstring" value="EXECUTED"/>
+<entry key="state" type="xstring" value="IDLE"/>
 <entry key="factory" type="xstring" value="org.knime.r.RViewNodeFactory"/>
 <entry key="node-name" type="xstring" value="R View (Table)"/>
 <entry key="node-bundle-name" type="xstring" value="KNIME R-Project nodes"/>
 <entry key="node-bundle-symbolic-name" type="xstring" value="org.knime.r"/>
 <entry key="node-bundle-vendor" type="xstring" value="KNIME GmbH, Konstanz, Germany"/>
-<entry key="node-bundle-version" type="xstring" value="3.1.2.v201603311251"/>
+<entry key="node-bundle-version" type="xstring" value="3.3.0.v201612012034"/>
 <entry key="node-feature-name" type="xstring" value="KNIME Interactive R Statistics Integration"/>
 <entry key="node-feature-symbolic-name" type="xstring" value="org.knime.features.r.feature.group"/>
 <entry key="node-feature-vendor" type="xstring" value="KNIME GmbH, Konstanz, Germany"/>
-<entry key="node-feature-version" type="xstring" value="3.1.2.v201603311251"/>
+<entry key="node-feature-version" type="xstring" value="3.3.0.v201612012034"/>
 <config key="factory_settings"/>
 <entry key="name" type="xstring" value="R View (Table)"/>
-<entry key="hasContent" type="xboolean" value="true"/>
+<entry key="hasContent" type="xboolean" value="false"/>
 <entry key="isInactive" type="xboolean" value="false"/>
 <config key="ports">
 <config key="port_1">
 <entry key="index" type="xint" value="1"/>
-<entry key="port_spec_class" type="xstring" value="org.knime.core.node.port.image.ImagePortObjectSpec"/>
-<entry key="port_object_class" type="xstring" value="org.knime.core.node.port.image.ImagePortObject"/>
-<entry key="port_object_summary" type="xstring" value="PNG Image 800 x 600 with 22 KB"/>
-<entry key="port_spec_location" type="xstring" value="spec/spec.zip"/>
-<entry key="port_object_location" type="xstring" value="object/portobject.zip"/>
-<entry key="port_dir_location" type="xstring" value="port_1"/>
+<entry key="port_dir_location" type="xstring" isnull="true" value=""/>
 </config>
 </config>
 <config key="filestores">
 <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-<entry key="file_store_id" type="xstring" value="214b079e-81be-4c2d-9bfd-2097a7200cc8"/>
+<entry key="file_store_id" type="xstring" isnull="true" value=""/>
 </config>
 </config>

@@ -25,32 +25,29 @@
 <config key="styles"/>
 </config>
 <entry key="customDescription" type="xstring" isnull="true" value=""/>
-<entry key="state" type="xstring" value="EXECUTED"/>
+<entry key="state" type="xstring" value="IDLE"/>
 <entry key="factory" type="xstring" value="org.openscience.cdk.knime.nodes.fingerprints.FingerprintNodeFactory"/>
 <entry key="node-name" type="xstring" value="Fingerprints"/>
 <entry key="node-bundle-name" type="xstring" value="KNIME CDK Integration"/>
 <entry key="node-bundle-symbolic-name" type="xstring" value="org.openscience.cdk.knime"/>
 <entry key="node-bundle-vendor" type="xstring" value="KNIME GmbH, Konstanz and EMBL-EBI, Cambridge"/>
-<entry key="node-bundle-version" type="xstring" value="1.5.400.v201511291629"/>
+<entry key="node-bundle-version" type="xstring" value="1.5.600.v201607162102"/>
 <entry key="node-feature-name" type="xstring" isnull="true" value=""/>
 <entry key="node-feature-symbolic-name" type="xstring" isnull="true" value=""/>
 <entry key="node-feature-vendor" type="xstring" isnull="true" value=""/>
 <entry key="node-feature-version" type="xstring" value="0.0.0"/>
 <config key="factory_settings"/>
 <entry key="name" type="xstring" value="Fingerprints"/>
-<entry key="hasContent" type="xboolean" value="true"/>
+<entry key="hasContent" type="xboolean" value="false"/>
 <entry key="isInactive" type="xboolean" value="false"/>
 <config key="ports">
 <config key="port_1">
 <entry key="index" type="xint" value="1"/>
-<entry key="port_spec_class" type="xstring" value="org.knime.core.data.DataTableSpec"/>
-<entry key="port_object_class" type="xstring" value="org.knime.core.node.BufferedDataTable"/>
-<entry key="port_object_summary" type="xstring" value="Rows: 276, Cols: 6"/>
-<entry key="port_dir_location" type="xstring" value="port_1"/>
+<entry key="port_dir_location" type="xstring" isnull="true" value=""/>
 </config>
 </config>
 <config key="filestores">
 <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-<entry key="file_store_id" type="xstring" value="a32d1e97-633d-4002-a7d3-95090c2766ab"/>
+<entry key="file_store_id" type="xstring" isnull="true" value=""/>
 </config>
 </config>
