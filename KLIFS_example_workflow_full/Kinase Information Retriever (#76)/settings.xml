@@ -6,6 +6,11 @@
 <entry key="memory_policy" type="xstring" value="CacheSmallInMemory"/>
 </config>
 <config key="model">
+<config key="Base path_Internals">
+<entry key="SettingsModelID" type="xstring" value="SMID_string"/>
+<entry key="EnabledStatus" type="xboolean" value="true"/>
+</config>
+<entry key="Base path" type="xstring" value="http://klifs.vu-compmedchem.nl/api"/>
 <config key="Input Column (optional)_Internals">
 <entry key="SettingsModelID" type="xstring" value="SMID_string"/>
 <entry key="EnabledStatus" type="xboolean" value="true"/>
@@ -38,11 +43,11 @@
 <entry key="node-bundle-name" type="xstring" value="KNIME 3D-e-Chem Contributions"/>
 <entry key="node-bundle-symbolic-name" type="xstring" value="nl.vu_compmedchem.klifs"/>
 <entry key="node-bundle-vendor" type="xstring" value="3D-e-Chem"/>
-<entry key="node-bundle-version" type="xstring" value="1.0.16"/>
+<entry key="node-bundle-version" type="xstring" value="1.1.0"/>
 <entry key="node-feature-name" type="xstring" value="KLIFS KNIME nodes"/>
 <entry key="node-feature-symbolic-name" type="xstring" value="nl.vu_compmedchem.klifs.feature.feature.group"/>
 <entry key="node-feature-vendor" type="xstring" isnull="true" value=""/>
-<entry key="node-feature-version" type="xstring" value="1.0.16"/>
+<entry key="node-feature-version" type="xstring" value="1.1.0"/>
 <config key="factory_settings"/>
 <entry key="name" type="xstring" value="Kinase Information Retriever"/>
 <entry key="hasContent" type="xboolean" value="false"/>

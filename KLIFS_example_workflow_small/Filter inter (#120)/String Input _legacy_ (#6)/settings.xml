@@ -8,12 +8,6 @@
 <entry key="class" type="xstring" value="STRING"/>
 <entry key="value" type="xstring" value="Hinge H-Bonding counts"/>
 </config>
-<config key="Variable_1">
-<entry key="type" type="xstring" value="variable"/>
-<entry key="name" type="xstring" value="title"/>
-<entry key="class" type="xstring" value="STRING"/>
-<entry key="value" type="xstring" value="Hinge H-Bonding counts"/>
-</config>
 </config>
 <config key="internal_node_subsettings">
 <entry key="memory_policy" type="xstring" value="CacheSmallInMemory"/>

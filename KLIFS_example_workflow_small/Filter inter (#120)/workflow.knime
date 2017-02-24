@@ -248,10 +248,10 @@
 </config>
 </config>
 <config key="workflow_editor_settings">
-<entry key="workflow.editor.snapToGrid" type="xboolean" value="false"/>
-<entry key="workflow.editor.ShowGrid" type="xboolean" value="false"/>
-<entry key="workflow.editor.gridX" type="xint" value="-1"/>
-<entry key="workflow.editor.gridY" type="xint" value="-1"/>
+<entry key="workflow.editor.snapToGrid" type="xboolean" value="true"/>
+<entry key="workflow.editor.ShowGrid" type="xboolean" value="true"/>
+<entry key="workflow.editor.gridX" type="xint" value="20"/>
+<entry key="workflow.editor.gridY" type="xint" value="20"/>
 <entry key="workflow.editor.zoomLevel" type="xdouble" value="1.0"/>
 <entry key="workflow.editor.curvedConnections" type="xboolean" value="false"/>
 <entry key="workflow.editor.connectionWidth" type="xint" value="1"/>
