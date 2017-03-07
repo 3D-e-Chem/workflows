@@ -3,7 +3,7 @@
 <entry key="spec_name" type="xstring" value="default"/>
 <entry key="number_columns" type="xint" value="6"/>
 <config key="column_spec_0">
-<entry key="column_name" type="xstring" value="hit_frag_id"/>
+<entry key="column_name" type="xstring" value="query_frag_id"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
 </config>
@@ -14,7 +14,7 @@
 <config key="column_properties"/>
 </config>
 <config key="column_spec_1">
-<entry key="column_name" type="xstring" value="query_frag_id"/>
+<entry key="column_name" type="xstring" value="hit_frag_id"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
 </config>
