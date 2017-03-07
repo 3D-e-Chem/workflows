@@ -6,21 +6,16 @@
 <entry key="memory_policy" type="xstring" value="CacheSmallInMemory"/>
 </config>
 <config key="model">
-<config key="(Optional) Kinase ID column_Internals">
-<entry key="SettingsModelID" type="xstring" value="SMID_string"/>
-<entry key="EnabledStatus" type="xboolean" value="true"/>
-</config>
-<entry key="(Optional) Kinase ID column" type="xstring" value="Kinase ID"/>
 <config key="Base path_Internals">
 <entry key="SettingsModelID" type="xstring" value="SMID_string"/>
 <entry key="EnabledStatus" type="xboolean" value="true"/>
 </config>
 <entry key="Base path" type="xstring" value="http://klifs.vu-compmedchem.nl/api"/>
-<config key="Timeout_Internals">
-<entry key="SettingsModelID" type="xstring" value="SMID_integer"/>
+<config key="(Optional) Kinase ID column_Internals">
+<entry key="SettingsModelID" type="xstring" value="SMID_string"/>
 <entry key="EnabledStatus" type="xboolean" value="true"/>
 </config>
-<entry key="Timeout" type="xint" value="10"/>
+<entry key="(Optional) Kinase ID column" type="xstring" value="Kinase ID"/>
 </config>
 <config key="nodeAnnotation">
 <entry key="text" type="xstring" value=""/>
@@ -43,11 +38,11 @@
 <entry key="node-bundle-name" type="xstring" value="KNIME 3D-e-Chem Contributions"/>
 <entry key="node-bundle-symbolic-name" type="xstring" value="nl.vu_compmedchem.klifs"/>
 <entry key="node-bundle-vendor" type="xstring" value="3D-e-Chem"/>
-<entry key="node-bundle-version" type="xstring" value="1.1.0"/>
+<entry key="node-bundle-version" type="xstring" value="1.1.1"/>
 <entry key="node-feature-name" type="xstring" value="KLIFS KNIME nodes"/>
 <entry key="node-feature-symbolic-name" type="xstring" value="nl.vu_compmedchem.klifs.feature.feature.group"/>
 <entry key="node-feature-vendor" type="xstring" isnull="true" value=""/>
-<entry key="node-feature-version" type="xstring" value="1.1.0"/>
+<entry key="node-feature-version" type="xstring" value="1.1.1"/>
 <config key="factory_settings"/>
 <entry key="name" type="xstring" value="Ligands Overview Retriever"/>
 <entry key="hasContent" type="xboolean" value="false"/>

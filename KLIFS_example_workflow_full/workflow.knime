@@ -7,7 +7,7 @@
 <entry key="authored-by" type="xstring" value="Albert"/>
 <entry key="authored-when" type="xstring" value="2016-05-17 08:34:12 +0200"/>
 <entry key="lastEdited-by" type="xstring" value="Albert"/>
-<entry key="lastEdited-when" type="xstring" value="2017-02-24 13:18:47 +0100"/>
+<entry key="lastEdited-when" type="xstring" value="2017-03-07 16:48:30 +0100"/>
 </config>
 <entry key="customDescription" type="xstring" isnull="true" value=""/>
 <entry key="state" type="xstring" value="IDLE"/>
@@ -273,7 +273,7 @@
 <entry key="array-size" type="xint" value="4"/>
 <entry key="0" type="xint" value="1764"/>
 <entry key="1" type="xint" value="237"/>
-<entry key="2" type="xint" value="97"/>
+<entry key="2" type="xint" value="60"/>
 <entry key="3" type="xint" value="89"/>
 </config>
 </config>
