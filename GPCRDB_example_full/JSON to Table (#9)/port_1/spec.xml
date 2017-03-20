@@ -371,7 +371,7 @@
 <config key="column_properties"/>
 </config>
 <config key="column_spec_11">
-<entry key="column_name" type="xstring" value="Wang"/>
+<entry key="column_name" type="xstring" value="Wootten"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
 </config>
@@ -382,7 +382,7 @@
 <config key="column_properties"/>
 </config>
 <config key="column_spec_12">
-<entry key="column_name" type="xstring" value="Wootten"/>
+<entry key="column_name" type="xstring" value="Wang"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
 </config>

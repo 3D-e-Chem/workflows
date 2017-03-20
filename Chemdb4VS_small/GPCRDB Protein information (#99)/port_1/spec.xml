@@ -12,7 +12,7 @@
 </config>
 <config key="column_domain">
 <config key="possible_values">
-<entry key="array-size" type="xint" value="45"/>
+<entry key="array-size" type="xint" value="47"/>
 <config key="0">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
@@ -22,19 +22,19 @@
 <config key="1">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="hrh1_cavpo"/>
+<entry key="StringCell" type="xstring" value="hrh1_gorgo"/>
 </config>
 </config>
 <config key="2">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="q195j2_danre"/>
+<entry key="StringCell" type="xstring" value="f7dvd0_calja"/>
 </config>
 </config>
 <config key="3">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="h0xet7_otoga"/>
+<entry key="StringCell" type="xstring" value="a0a0d9sbu1_chlsb"/>
 </config>
 </config>
 <config key="4">
@@ -46,241 +46,253 @@
 <config key="5">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="h2pa21_ponab"/>
+<entry key="StringCell" type="xstring" value="m3wta1_felca"/>
 </config>
 </config>
 <config key="6">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="a5d795_bovin"/>
+<entry key="StringCell" type="xstring" value="w5py26_sheep"/>
 </config>
 </config>
 <config key="7">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="f1nen2_chick"/>
+<entry key="StringCell" type="xstring" value="hrh1_cavpo"/>
 </config>
 </config>
 <config key="8">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="g3x2a1_sarha"/>
+<entry key="StringCell" type="xstring" value="hrh1_mouse"/>
 </config>
 </config>
 <config key="9">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="f6ps14_horse"/>
+<entry key="StringCell" type="xstring" value="g3v6x5_rat"/>
 </config>
 </config>
 <config key="10">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="g1sb86_nomle"/>
+<entry key="StringCell" type="xstring" value="h0z158_taegu"/>
 </config>
 </config>
 <config key="11">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="f1sqa5_pig"/>
+<entry key="StringCell" type="xstring" value="h2pa21_ponab"/>
 </config>
 </config>
 <config key="12">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="m3z8r7_muspf"/>
+<entry key="StringCell" type="xstring" value="d2i5b2_ailme"/>
 </config>
 </config>
 <config key="13">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="w5py26_sheep"/>
+<entry key="StringCell" type="xstring" value="g1kjv1_anoca"/>
 </config>
 </config>
 <config key="14">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="hrh1_mouse"/>
+<entry key="StringCell" type="xstring" value="f6xk97_ornan"/>
 </config>
 </config>
 <config key="15">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="g3v6x5_rat"/>
+<entry key="StringCell" type="xstring" value="a5d795_bovin"/>
 </config>
 </config>
 <config key="16">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="f6qjp0_macmu"/>
+<entry key="StringCell" type="xstring" value="q91v66_rat"/>
 </config>
 </config>
 <config key="17">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="hrh1_ponpy"/>
+<entry key="StringCell" type="xstring" value="i3kx93_oreni"/>
 </config>
 </config>
 <config key="18">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="f1prr2_canfa"/>
+<entry key="StringCell" type="xstring" value="u6crd5_neovi"/>
 </config>
 </config>
 <config key="19">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="hrh1_bovin"/>
+<entry key="StringCell" type="xstring" value="u3iw30_anapl"/>
 </config>
 </config>
 <config key="20">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="g1kjv1_anoca"/>
+<entry key="StringCell" type="xstring" value="u3kib4_fical"/>
 </config>
 </config>
 <config key="21">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="k9ivw0_pig"/>
+<entry key="StringCell" type="xstring" value="f6qjp0_macmu"/>
 </config>
 </config>
 <config key="22">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="hrh1_gorgo"/>
+<entry key="StringCell" type="xstring" value="k7cqf5_pantr"/>
 </config>
 </config>
 <config key="23">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="f6xk97_ornan"/>
+<entry key="StringCell" type="xstring" value="hrh1_rat"/>
 </config>
 </config>
 <config key="24">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="u6crd5_neovi"/>
+<entry key="StringCell" type="xstring" value="f1nen2_chick"/>
 </config>
 </config>
 <config key="25">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="u3kib4_fical"/>
+<entry key="StringCell" type="xstring" value="i3mph4_icttr"/>
 </config>
 </config>
 <config key="26">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="hrh1_rat"/>
+<entry key="StringCell" type="xstring" value="g1n021_melga"/>
 </config>
 </config>
 <config key="27">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="g1n021_melga"/>
+<entry key="StringCell" type="xstring" value="g1sgd8_rabit"/>
 </config>
 </config>
 <config key="28">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="h2r8f8_pantr"/>
+<entry key="StringCell" type="xstring" value="g3x2a1_sarha"/>
 </config>
 </config>
 <config key="29">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="f6r275_xentr"/>
+<entry key="StringCell" type="xstring" value="hrh1_ponpy"/>
 </config>
 </config>
 <config key="30">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="a0a0d9sbu1_chlsb"/>
+<entry key="StringCell" type="xstring" value="hrh1_pantr"/>
 </config>
 </config>
 <config key="31">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="u3iw30_anapl"/>
+<entry key="StringCell" type="xstring" value="f6ps14_horse"/>
 </config>
 </config>
 <config key="32">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="k7cqf5_pantr"/>
+<entry key="StringCell" type="xstring" value="f6nwf1_danre"/>
 </config>
 </config>
 <config key="33">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="g3uck0_loxaf"/>
+<entry key="StringCell" type="xstring" value="h2r8f8_pantr"/>
 </config>
 </config>
 <config key="34">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="g1q3x1_myolu"/>
+<entry key="StringCell" type="xstring" value="g1sb86_nomle"/>
 </config>
 </config>
 <config key="35">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="h0z158_taegu"/>
+<entry key="StringCell" type="xstring" value="k7exk3_pelsi"/>
 </config>
 </config>
 <config key="36">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="q91v66_rat"/>
+<entry key="StringCell" type="xstring" value="g3uck0_loxaf"/>
 </config>
 </config>
 <config key="37">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="g1sgd8_rabit"/>
+<entry key="StringCell" type="xstring" value="f1prr2_canlf"/>
 </config>
 </config>
 <config key="38">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="m3wta1_felca"/>
+<entry key="StringCell" type="xstring" value="f1sqa5_pig"/>
 </config>
 </config>
 <config key="39">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="k7exk3_pelsi"/>
+<entry key="StringCell" type="xstring" value="e6zfb7_dicla"/>
 </config>
 </config>
 <config key="40">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="f7dvd0_calja"/>
+<entry key="StringCell" type="xstring" value="h2zty3_latch"/>
 </config>
 </config>
 <config key="41">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="d2i5b2_ailme"/>
+<entry key="StringCell" type="xstring" value="q195j2_danre"/>
 </config>
 </config>
 <config key="42">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="i3mph4_icttr"/>
+<entry key="StringCell" type="xstring" value="hrh1_bovin"/>
 </config>
 </config>
 <config key="43">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="hrh1_pantr"/>
+<entry key="StringCell" type="xstring" value="f6r275_xentr"/>
 </config>
 </config>
 <config key="44">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="e6zfb7_dicla"/>
+<entry key="StringCell" type="xstring" value="h0xet7_otoga"/>
+</config>
+</config>
+<config key="45">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="m3z8r7_muspf"/>
+</config>
+</config>
+<config key="46">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="k9ivw0_pig"/>
 </config>
 </config>
 </config>
@@ -297,7 +309,7 @@
 </config>
 <config key="column_domain">
 <config key="possible_values">
-<entry key="array-size" type="xint" value="45"/>
+<entry key="array-size" type="xint" value="47"/>
 <config key="0">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
@@ -307,19 +319,19 @@
 <config key="1">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="P31389"/>
+<entry key="StringCell" type="xstring" value="Q9N2B1"/>
 </config>
 </config>
 <config key="2">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="Q195J2"/>
+<entry key="StringCell" type="xstring" value="F7DVD0"/>
 </config>
 </config>
 <config key="3">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="H0XET7"/>
+<entry key="StringCell" type="xstring" value="A0A0D9SBU1"/>
 </config>
 </config>
 <config key="4">
@@ -331,241 +343,253 @@
 <config key="5">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="H2PA21"/>
+<entry key="StringCell" type="xstring" value="M3WTA1"/>
 </config>
 </config>
 <config key="6">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="A5D795"/>
+<entry key="StringCell" type="xstring" value="W5PY26"/>
 </config>
 </config>
 <config key="7">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="F1NEN2"/>
+<entry key="StringCell" type="xstring" value="P31389"/>
 </config>
 </config>
 <config key="8">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="G3X2A1"/>
+<entry key="StringCell" type="xstring" value="P70174"/>
 </config>
 </config>
 <config key="9">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="F6PS14"/>
+<entry key="StringCell" type="xstring" value="G3V6X5"/>
 </config>
 </config>
 <config key="10">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="G1SB86"/>
+<entry key="StringCell" type="xstring" value="H0Z158"/>
 </config>
 </config>
 <config key="11">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="F1SQA5"/>
+<entry key="StringCell" type="xstring" value="H2PA21"/>
 </config>
 </config>
 <config key="12">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="M3Z8R7"/>
+<entry key="StringCell" type="xstring" value="D2I5B2"/>
 </config>
 </config>
 <config key="13">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="W5PY26"/>
+<entry key="StringCell" type="xstring" value="G1KJV1"/>
 </config>
 </config>
 <config key="14">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="P70174"/>
+<entry key="StringCell" type="xstring" value="F6XK97"/>
 </config>
 </config>
 <config key="15">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="G3V6X5"/>
+<entry key="StringCell" type="xstring" value="A5D795"/>
 </config>
 </config>
 <config key="16">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="F6QJP0"/>
+<entry key="StringCell" type="xstring" value="Q91V66"/>
 </config>
 </config>
 <config key="17">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="Q9N2B0"/>
+<entry key="StringCell" type="xstring" value="I3KX93"/>
 </config>
 </config>
 <config key="18">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="F1PRR2"/>
+<entry key="StringCell" type="xstring" value="U6CRD5"/>
 </config>
 </config>
 <config key="19">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="P30546"/>
+<entry key="StringCell" type="xstring" value="U3IW30"/>
 </config>
 </config>
 <config key="20">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="G1KJV1"/>
+<entry key="StringCell" type="xstring" value="U3KIB4"/>
 </config>
 </config>
 <config key="21">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="K9IVW0"/>
+<entry key="StringCell" type="xstring" value="F6QJP0"/>
 </config>
 </config>
 <config key="22">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="Q9N2B1"/>
+<entry key="StringCell" type="xstring" value="K7CQF5"/>
 </config>
 </config>
 <config key="23">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="F6XK97"/>
+<entry key="StringCell" type="xstring" value="P31390"/>
 </config>
 </config>
 <config key="24">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="U6CRD5"/>
+<entry key="StringCell" type="xstring" value="F1NEN2"/>
 </config>
 </config>
 <config key="25">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="U3KIB4"/>
+<entry key="StringCell" type="xstring" value="I3MPH4"/>
 </config>
 </config>
 <config key="26">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="P31390"/>
+<entry key="StringCell" type="xstring" value="G1N021"/>
 </config>
 </config>
 <config key="27">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="G1N021"/>
+<entry key="StringCell" type="xstring" value="G1SGD8"/>
 </config>
 </config>
 <config key="28">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="H2R8F8"/>
+<entry key="StringCell" type="xstring" value="G3X2A1"/>
 </config>
 </config>
 <config key="29">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="F6R275"/>
+<entry key="StringCell" type="xstring" value="Q9N2B0"/>
 </config>
 </config>
 <config key="30">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="A0A0D9SBU1"/>
+<entry key="StringCell" type="xstring" value="Q9N2B2"/>
 </config>
 </config>
 <config key="31">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="U3IW30"/>
+<entry key="StringCell" type="xstring" value="F6PS14"/>
 </config>
 </config>
 <config key="32">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="K7CQF5"/>
+<entry key="StringCell" type="xstring" value="F6NWF1"/>
 </config>
 </config>
 <config key="33">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="G3UCK0"/>
+<entry key="StringCell" type="xstring" value="H2R8F8"/>
 </config>
 </config>
 <config key="34">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="G1Q3X1"/>
+<entry key="StringCell" type="xstring" value="G1SB86"/>
 </config>
 </config>
 <config key="35">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="H0Z158"/>
+<entry key="StringCell" type="xstring" value="K7EXK3"/>
 </config>
 </config>
 <config key="36">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="Q91V66"/>
+<entry key="StringCell" type="xstring" value="G3UCK0"/>
 </config>
 </config>
 <config key="37">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="G1SGD8"/>
+<entry key="StringCell" type="xstring" value="F1PRR2"/>
 </config>
 </config>
 <config key="38">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="M3WTA1"/>
+<entry key="StringCell" type="xstring" value="F1SQA5"/>
 </config>
 </config>
 <config key="39">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="K7EXK3"/>
+<entry key="StringCell" type="xstring" value="E6ZFB7"/>
 </config>
 </config>
 <config key="40">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="F7DVD0"/>
+<entry key="StringCell" type="xstring" value="H2ZTY3"/>
 </config>
 </config>
 <config key="41">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="D2I5B2"/>
+<entry key="StringCell" type="xstring" value="Q195J2"/>
 </config>
 </config>
 <config key="42">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="I3MPH4"/>
+<entry key="StringCell" type="xstring" value="P30546"/>
 </config>
 </config>
 <config key="43">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="Q9N2B2"/>
+<entry key="StringCell" type="xstring" value="F6R275"/>
 </config>
 </config>
 <config key="44">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="E6ZFB7"/>
+<entry key="StringCell" type="xstring" value="H0XET7"/>
+</config>
+</config>
+<config key="45">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="M3Z8R7"/>
+</config>
+</config>
+<config key="46">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="K9IVW0"/>
 </config>
 </config>
 </config>
@@ -624,7 +648,7 @@
 </config>
 <config key="column_domain">
 <config key="possible_values">
-<entry key="array-size" type="xint" value="38"/>
+<entry key="array-size" type="xint" value="39"/>
 <config key="0">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
@@ -634,19 +658,19 @@
 <config key="1">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="Cavia porcellus"/>
+<entry key="StringCell" type="xstring" value="Gorilla gorilla gorilla"/>
 </config>
 </config>
 <config key="2">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="Danio rerio"/>
+<entry key="StringCell" type="xstring" value="Callithrix jacchus"/>
 </config>
 </config>
 <config key="3">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="Otolemur garnettii"/>
+<entry key="StringCell" type="xstring" value="Chlorocebus sabaeus"/>
 </config>
 </config>
 <config key="4">
@@ -658,109 +682,109 @@
 <config key="5">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="Pongo abelii"/>
+<entry key="StringCell" type="xstring" value="Felis catus"/>
 </config>
 </config>
 <config key="6">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="Bos taurus"/>
+<entry key="StringCell" type="xstring" value="Ovis aries"/>
 </config>
 </config>
 <config key="7">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="Gallus gallus"/>
+<entry key="StringCell" type="xstring" value="Cavia porcellus"/>
 </config>
 </config>
 <config key="8">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="Sarcophilus harrisii"/>
+<entry key="StringCell" type="xstring" value="Rattus norvegicus"/>
 </config>
 </config>
 <config key="9">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="Equus caballus"/>
+<entry key="StringCell" type="xstring" value="Taeniopygia guttata"/>
 </config>
 </config>
 <config key="10">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="Nomascus leucogenys"/>
+<entry key="StringCell" type="xstring" value="Pongo abelii"/>
 </config>
 </config>
 <config key="11">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="Sus scrofa"/>
+<entry key="StringCell" type="xstring" value="Ailuropoda melanoleuca"/>
 </config>
 </config>
 <config key="12">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="Mustela putorius furo"/>
+<entry key="StringCell" type="xstring" value="Anolis carolinensis"/>
 </config>
 </config>
 <config key="13">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="Ovis aries"/>
+<entry key="StringCell" type="xstring" value="Ornithorhynchus anatinus"/>
 </config>
 </config>
 <config key="14">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="Rattus norvegicus"/>
+<entry key="StringCell" type="xstring" value="Bos taurus"/>
 </config>
 </config>
 <config key="15">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="Macaca mulatta"/>
+<entry key="StringCell" type="xstring" value="Oreochromis niloticus"/>
 </config>
 </config>
 <config key="16">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="Pongo pygmaeus"/>
+<entry key="StringCell" type="xstring" value="Neovison vison"/>
 </config>
 </config>
 <config key="17">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="Canis familiaris"/>
+<entry key="StringCell" type="xstring" value="Anas platyrhynchos"/>
 </config>
 </config>
 <config key="18">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="Anolis carolinensis"/>
+<entry key="StringCell" type="xstring" value="Ficedula albicollis"/>
 </config>
 </config>
 <config key="19">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="Gorilla gorilla gorilla"/>
+<entry key="StringCell" type="xstring" value="Macaca mulatta"/>
 </config>
 </config>
 <config key="20">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="Ornithorhynchus anatinus"/>
+<entry key="StringCell" type="xstring" value="Pan troglodytes"/>
 </config>
 </config>
 <config key="21">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="Neovison vison"/>
+<entry key="StringCell" type="xstring" value="Gallus gallus"/>
 </config>
 </config>
 <config key="22">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="Ficedula albicollis"/>
+<entry key="StringCell" type="xstring" value="Ictidomys tridecemlineatus"/>
 </config>
 </config>
 <config key="23">
@@ -772,85 +796,91 @@
 <config key="24">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="Pan troglodytes"/>
+<entry key="StringCell" type="xstring" value="Oryctolagus cuniculus"/>
 </config>
 </config>
 <config key="25">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="Xenopus tropicalis"/>
+<entry key="StringCell" type="xstring" value="Sarcophilus harrisii"/>
 </config>
 </config>
 <config key="26">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="Chlorocebus sabaeus"/>
+<entry key="StringCell" type="xstring" value="Pongo pygmaeus"/>
 </config>
 </config>
 <config key="27">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="Anas platyrhynchos"/>
+<entry key="StringCell" type="xstring" value="Equus caballus"/>
 </config>
 </config>
 <config key="28">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="Loxodonta africana"/>
+<entry key="StringCell" type="xstring" value="Danio rerio"/>
 </config>
 </config>
 <config key="29">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="Myotis lucifugus"/>
+<entry key="StringCell" type="xstring" value="Nomascus leucogenys"/>
 </config>
 </config>
 <config key="30">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="Taeniopygia guttata"/>
+<entry key="StringCell" type="xstring" value="Pelodiscus sinensis"/>
 </config>
 </config>
 <config key="31">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="Oryctolagus cuniculus"/>
+<entry key="StringCell" type="xstring" value="Loxodonta africana"/>
 </config>
 </config>
 <config key="32">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="Felis catus"/>
+<entry key="StringCell" type="xstring" value="Canis lupus familiaris"/>
 </config>
 </config>
 <config key="33">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="Pelodiscus sinensis"/>
+<entry key="StringCell" type="xstring" value="Sus scrofa"/>
 </config>
 </config>
 <config key="34">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="Callithrix jacchus"/>
+<entry key="StringCell" type="xstring" value="Dicentrarchus labrax"/>
 </config>
 </config>
 <config key="35">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="Ailuropoda melanoleuca"/>
+<entry key="StringCell" type="xstring" value="Latimeria chalumnae"/>
 </config>
 </config>
 <config key="36">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="Ictidomys tridecemlineatus"/>
+<entry key="StringCell" type="xstring" value="Xenopus tropicalis"/>
 </config>
 </config>
 <config key="37">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="Dicentrarchus labrax"/>
+<entry key="StringCell" type="xstring" value="Otolemur garnettii"/>
+</config>
+</config>
+<config key="38">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="Mustela putorius furo"/>
 </config>
 </config>
 </config>
@@ -915,7 +945,7 @@
 </config>
 <config key="column_domain">
 <config key="possible_values">
-<entry key="array-size" type="xint" value="43"/>
+<entry key="array-size" type="xint" value="45"/>
 <config key="0">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
@@ -925,19 +955,19 @@
 <config key="1">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="MSFLPGMTPVTLSNFSWALEDRMLEGNSTTTPTRQLMPLVVVLSSVSLVTVALNLLVLYAVRSERKLHTVGNLYIVSLSVADLIVGAVVMPMSILYLHRSAWILGRPLCLFWLSMDYVASTASIFSVFILCIDRYRSVQQPLRYLRYRTKTRASATILGAWLLSFLWVIPILGWHHFMAPTSEPREKKCETDFYDVTWFKVMTAIINFYLPTLLMLWFYIRIYKAVRRHCQHRQLINSSLPSFSEMKLKLENAKVDTRRMGKESPWEDPKRCSKDASGVHTPMPSSQHLVDMPCAAVLSEDEGGEVGTRQMPMLAVGDGRCCEALNHMHSQLELSGQSRATHSISARPEEWTVVDGQSFPITDSDTSTEAAPMGGQPRSGSNSGLDYIKFTWRRLRSHSRQYTSGLHLNRERKAAKQLGCIMAAFILCWIPYFVFFMVIAFCKSCSNEPVHMFTIWLGYLNSTLNPLIYPLCNENFRKTFKRILRIPP"/>
+<entry key="StringCell" type="xstring" value="MSLPNSSCLLEDKMCESNKTTMASPQLMPLVVVLSTICLVTVGLNLLVLYAVRSERKLHTVGNLYIVSLSVADLIVGAVVMPMNILYLLMSKWSLGRPLCLFWLSMDYVASTASIFSVFILCIDRYRSVQQPLRYLKYRTKTRASATILGAWFLSFLWVIPILGWNHFMQQTSVRREDKCETDFYDVTWFKVMTAIINFYLPTLLMLWFYAKIYKAVRQHCQHRELINGSLPSFSEIKLRPENPKGDAKKPGKESPWEVLKRKPKDAGGGSVLKSPSQTPKEMKSPVVFSQEDDREVDKLHCFPLDIVHMQTAAEGSSRDYVAVNQSHGQLKTDEQGLNTHGASEISEDQMLGDSQSFSRTDSDTTTETASGKGKLRSGSNTGLGYIKFTWKRLRSHSRQYVSGLHMNRERKAAKQLGFIMAAFILCWIPYFIFFMVIAFCKNCCNEHLHMFTIWLGYINSTLNPLIYPLCNENFKKTFKRILHIRS"/>
 </config>
 </config>
 <config key="2">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="MCFLTTLTSCDTLERPMESTTTLTTANSQFKRIDNTTLLIPSAPLHHHINNAVLGIFLGMLSLLTVIMNLLVLFAVRKERTLHTVGNLYIVSLSIADLIVGATVMPLNLVYLLEDQWKLGHVVCQFWLVMDYVASTASIFSLFILCLDRYRSVRHPLQYLKYRTRGRATLLICSAWLLSMTWTIPILGWRMFASVDKKTELENQCDTDFRFVTWFKVLTAILNFYIPSFLMLVFYSQIFIAVRDHYREWENFAGPALKTDATDTLTNGLQLQITKASEKESLALNAYSQNEGLLDQYSLEQPYNSRENTEEMTSEPKRKMCYKKKAIFNLSKRMRKSVPDSEISFQSDDGETVAEGRPSLSLAFLQSENTAQPQTFINVSDCNVLVPNSVGNICESAPTVDIHNYTAVLCTPPSPPSPWAENSPPLDASIALPAKQSWQKLCEQSKQSIHSMRIRKERKAARQLGFIIGVFMVCWIPYFITFMVMALCETCVHHDLHMFTIWLGYINSTLNPFIYPLCNENFKRVFKKIFHMSR"/>
+<entry key="StringCell" type="xstring" value="MTFPNSSCLLEDKMCEGNKTTMASPQLMPLVVVLSTISLVTVGLNLLVLYAVRSERKLHTVGNLYIVSLSVADLIVGAVVMPMNILYLLMSRWSLGRPLCLFWLSMDYVASTASIFSVFILCIDRYRSVQQPLRYLKYRTKTRASATILGAWFLSFLWVIPILGWNHFMRQTSVRREDKCETDFYDVTWFKVMTAIINFYLPTLLMLWFYAKIYKAVRQHCQHRELINGSLPSFSEIKLRPENPKGGVKKPGKESPWEVLKRKPKDAGGGSVLKSPSQTPEEMKSPVVFSQEDDGEVDKLHCLPLDIVQMQTVAEGSSRDYAASNQSHGQLKMEEQGLNTHGASETSEDHMLGDSQSFSRTDSDTTTETAPGKGKLRSGSNTGLDYIKFTWKRLRSHSRQYVSGLHMNRERKAAKQLGFIMAAFILCWIPYFIFFMVIAFCKNCCNEHLHMFTIWLGYINSTLNPLIYPLCNENFRKTFKKILHIRS"/>
 </config>
 </config>
 <config key="3">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="MTLPNSSCIFEDNMCEGNKTTMASPQWMPLVVVLSTISLVTVGLNLLVLYAVHSERKLHTVGNLYIVSLSVADLIVGAVVMPMNILYLLMSRWSLGRPLCLFWLSMDYVASTASIFSVFILCIDRYRSVQQPLRYLKYRTKTRASATILGAWFLSFLWVIPILGWHRFMSNTSARRQDKCETDFYDVTWFKIMTAIINFYLPTLLMLWFYAKIYKAVRQHCQHRELINGSLPSFSEIKLRPENPKVGAKKPGKESSWEVLKMKLKDAGGGPVLKPPRRDSKEVKSPVSFSQEEDGEVAKGDITQMQIVEEADGEGYLAVTQSETQLEMDEQGLDTHGVRKISEDLVLGDSQSFSQTESDTPTGPAARKGKLKSGSNTALDYIKFTWKRFRAHSREYVSGLQLNRERKAAKQLGFIMAAFILCWIPYFIFFMVIAFCENCCNEHVHMFTIWLGYINSTLNPLIYPLCNENFKKTFKKILHIRS"/>
+<entry key="StringCell" type="xstring" value="MTLPNSSCLLEDKMCEGNKTTMASPQLMPLVVVLSTISLVTVGLNLLVLYAVRSERKLHTVGNLYIVSLSVADLIVGAVVMPMNILYLLTSKWLLGRPFCLFWLSMDYVASTASIFSVFILCIDRYRSVQQPLRYLKYRTKTRASATILGAWFLSFLWVIPILGWNHFMQQTSVRREDKCETDFYDVTWFKVMTAIINFYLPTLLMLWFYAKIYKAVQQHCQHRELINGSLPSFSEIKLRPENPKVGTKKPGKESPWEVLKRKPKDAGGGSVLKSPSQTPKEMKSPVVFSQEDDGEVDKLHCFPLDIVQMQTAAEGSSRDCVAVNQSHGQLKTDEQGLNTHEASEMPEDQMLGDSQSFSRTDSDTITETAPGKGKLRSGSNTGLDYIKFTWKRLRSHSRQYVSGLHMNRERKAAKQLGFIMAAFILCWIPYFIFFMVIAFCKSCCNEHLHMFTIWLGYINSTLNPLIYPLCNENFKKTFKRILHIRS"/>
 </config>
 </config>
 <config key="4">
@@ -949,121 +979,121 @@
 <config key="5">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="MSLPNSSCLLEDKMCEGNKTTMASPQLMPLVVVLSTISLVTVGLNLLVLYAVRSERKLHTVGNLYIVSLSVADLIVGAVVMPMNILYLLMSKWSLGRPLCLFWLSMDYVASTASIFSVFILCIDRYRSVQQPLRYLKYRTKTRASATILGAWFLSFLWVIPILGWNHFRQQISVRREDKCETDFYDVTWFKVMTAIINFYLPTLLMLWFYAKIYKAVQKHCQHRELINGSLPSFSEIKLRPENPKGDAKKPGKESPWEVLKRKPKDAGGGSVLKSPSQTPKEMKSPVVFSQEDDGEVDKLHCFPLDIVQMQTVAEGSSRDYVAINQSHGQLKTDEQGLNTHGASEISEDQMLGDSQSFSRTDSDTTTETAPGKGKLRSGSNTGLDYIKFTWKRLRSHSRQYVSGLHMNRERKAAKQLGFIMAAFILCWIPYFIFFMVIAFCKNCCNEHLHMFTIWLGYINSTLNPLIYPLCNENFKKTFKRILHIRS"/>
+<entry key="StringCell" type="xstring" value="MTLPNSSCVVEDKMCEGNKTTIANPQLMPLVVFLSAISLVTVGLNLLVLYAVRSERKLHTVGNLYIVSLSVADLIVGAVVMPMNILYLLMSRWSLGHPLCLFWLSMDYVASTASIFSVFILCIDRYRSVQQPLRYLKYRTKTRASATILGAWFLSFLWVIPILGWHHFMSPVSGHREDKCETDFYDVTWFKIMTAIINFYLPTLLMLWFYAKIYKAVRQHCQHRELINGSLPSFSEIKLKPENPKVGAKKPGKESPWEVLKRKSKDASGEPVMKPPSQDSEEMKCPGVFSQEEDKEMDKLHCFPLNIVQMQTEAEGSGRSYAAINQSQGQLEIDEQSLRMRAANEISEDQILGDSQSFSRTDSDTPPESASGKSKPRSGSSTGLDYIKYTWKRLRSHSRQYVSGLHMNRERKAAKQLGFIMAAFILCWIPYFIFFMVIAFCKSCCNEHVHMFTIWLGYINSTLNPLIYPLCNENFKKTFKKILHIRS"/>
 </config>
 </config>
 <config key="6">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="MTCPNSSCVFEDKMCEGNKTAPANNAQLTPLVVVLSTISLVTVGLNLLVLYAVRSERKLHTVGNLYIVSLSVADLIVGVVVMPMNILYLLMSRWSLGRPLCLFWLSMDYVASTASIFSVFILCIDRYRSVQQPLKYLRYRTKTRASITILAAWFLSFLWIIPILGWRHFQPKTPEPREDKCETDFYNVTWFKVMTAIINFYLPTLLMLWFYAKIYKAVRQHCQHRELINGSFPSFSDMKMKPENLQVGTKKPGKESPWEVLKRKPKDTGGGPVLKPPSQEPKEVTSPGVFSQEKEEKDGELGKYYCFPLDTVQAQPEAEGSGRGYAAINQSQNQLEMGEQGLSMPGAKEALEDQILGDSQSFSRTDSDTPAEPALAKGKSRSESSTGLEYIKFTWKRLRSHSRQYVSGLHMNRERKAAKQLGFIMAAFIICWIPYFIFFMVIAFCESCCNQHVHMFTIWLGYINSTLNPLIYPLCNENFKKTFKKILHIRS"/>
+<entry key="StringCell" type="xstring" value="MTCPNSSCIFEDEMCEGNKTAPASDAQLMPLVVVLSAISLVTVGLNLLVLYAVRSERKLHTVGNLYIVSLSVADLIVGVVVMPMNIIYLLRCRWSLGRPLCLFWLSMDYVASTASIFSVFILCIDRYRSVQQPLKYLRYRTKTRASITILAAWFLSFLWIIPILSWRHFQLKTPEPLGHKCETDFYKVTWFKIMTAIVNFYLPTLLMLWFYAKIYKAVRQHCQHRELINGSFPSFSDVKMKPENLQVGAKKPGKESPWEVLKRKPKDTGGGPVLKPPSQEPKEVTSLGVFSQEKDGEPDNFYCFPLDTVQTQPEAEGSGRGYAAINQSQNQFEMGEQGLNMPGAKEALEDQIQGDSQSFSRTDSDTPAEPAAPGKGKSRSESSTGLEYIKFTWKRLRSHSRQYVSGLHMNRERKAAKQLGFIMAAFIVCWIPYFVFFMVVAFCESCSNERVHMFTIWLGYINSTLNPLIYPLCNENFKKTFKKILHIRS"/>
 </config>
 </config>
 <config key="7">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="MSKNTTENSNYTHSALLGFLLASISLITVVMNILVLCAVKTEKKLQTVGNLYIVSLSIADLIVGAAVMPLNIVYLLNRVWTLGLTACLFWLSMDYVASTASIFSLFILCLDRYRSVQQPLKYLQYRTKMRASLVILGAWLLSSLWVIPILWWHDSANDEKRKGKANCDTQFSHVTWFKVLTAIVNFYLPSIIMLWLYCKIFRAVRKHCQQREVVTGSYCSFSENKNVIHGKTKDKQNICLQKQILHENTSHKDKQMSSEHKSTAAKYHFSNSDKSSKAFVSSSNSKAFQCSCLPLTTAQSEPDLEKAGKKCVCVKKDNKNEEDPHSQDSDLSATSDSDTFTENVPSGEQSNPNPDRACSPQENKENRDFRGLSYLRKTWQTLHTHSKSRLRRQHVSREWKAAKQLGVIMAAFMLCWIPYFVLYMVTVFQHREQFYTLHMFTIWLGYVNSTLNPFLYPLCNENFKKTFKKILHIQ"/>
+<entry key="StringCell" type="xstring" value="MSFLPGMTPVTLSNFSWALEDRMLEGNSTTTPTRQLMPLVVVLSSVSLVTVALNLLVLYAVRSERKLHTVGNLYIVSLSVADLIVGAVVMPMSILYLHRSAWILGRPLCLFWLSMDYVASTASIFSVFILCIDRYRSVQQPLRYLRYRTKTRASATILGAWLLSFLWVIPILGWHHFMAPTSEPREKKCETDFYDVTWFKVMTAIINFYLPTLLMLWFYIRIYKAVRRHCQHRQLINSSLPSFSEMKLKLENAKVDTRRMGKESPWEDPKRCSKDASGVHTPMPSSQHLVDMPCAAVLSEDEGGEVGTRQMPMLAVGDGRCCEALNHMHSQLELSGQSRATHSISARPEEWTVVDGQSFPITDSDTSTEAAPMGGQPRSGSNSGLDYIKFTWRRLRSHSRQYTSGLHLNRERKAAKQLGCIMAAFILCWIPYFVFFMVIAFCKSCSNEPVHMFTIWLGYLNSTLNPLIYPLCNENFRKTFKRILRIPP"/>
 </config>
 </config>
 <config key="8">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="LPLPPISYRLQEGTMCEVNRTDIANKPHLVPLVVVLSTISLVTVGLNLLVLYAVRTEKKLHTVGNLYIVSLSVADLIVGAAVMPLNIVYLLKSLVRPLCLFWLSMDYVASTASIFSVFILCIDRYRSVQQPLKYLRYRTKTRATITILITWFLASLWIIPILGWRSFWSDNNTSKSDKCETDFYKVTWFKVMTAIINFYLPTLLMLWFYSRIYRAVRQHCQHREFINGSFPSFSEGTVNHKKHRICLPKQGKDASLEALKRKPEDNFYPINNSIPPKTQDPAKEKAPKGFEQEEGEVVVKDHYYHVDLVQAEPGMEETEKYMSIHESQSNSKELSPATQYASETSEETIFAEAPSNPIDSNAIAESATVMSAEDQAKTKATFGLDYLTFTWKRLRSHSRQYIKGLHMNRERKAAKQLGCIMAAFILCWIPYFIFFMVIAYCKKCCNEDVQMFTMWLGYINSTLNPLIYPLCNENFKKAFKKIFHIRS"/>
+<entry key="StringCell" type="xstring" value="MSFANTSSTFEDKMCEGNRTAMASPQLLPLVVVLSSISLVTVGLNLLVLYAVHSERKLHTVGNLYIVSLSVADLIVGAVVMPMNILYLIMTKWSLGRPLCLFWLSMDYVASTASIFSVFILCIDRYRSVQQPLRYLRYRTKTRASATILGAWFFSFLWVIPILGWHHFMPPAPELREDKCETDFYNVTWFKIMTAIINFYLPTLLMLWFYVKIYKAVRRHCQHRQLTNGSLPSFSELKLRSDDTKEGAKKPGRESPWGVLKRPSRDPSVGLDQKSTSEDPKMTSPTVFSQEGERETRPCFRLDIMQKQSMAEGDVRGSKANDQALSQPKMDEQSLNTCRRISETSEDQTLVDQQSFSRTTDSDTSIEPGPGRVKSRSGSNSGLDYIKITWKRLRSHSRQYVSGLHLNRERKAAKQLGFIMAAFILCWIPYFIFFMVIAFCKSCCSEPVHMFTIWLGYINSTLNPLIYPLCNENFKKTFKKILHIRS"/>
 </config>
 </config>
 <config key="9">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="MTCLNSSSDLEDKMCEGNKTTIASPQLMPLVVVLSTISLVTVALNLLVLYAVRSERKLHTVGNLYIVSLSVADLIVGAVVMPMNILYLFTSKWPLGRPLCLFWLSMDYVASTASIFSVFILCIDRYRSVQQPLRYLRYRTKTRASATILGAWFLSFLWVIPIWGWHHFVSQTWNRQEDKCETDFYDVTWFKIMTAIINFYLPTLLMLWFYTKIYKAVRQHCQHRDLINGSLPSFSDVKLKPENPKVDAKKSEESPWEVLKRKPKDAGGGSVLKLPSEDPKEMKSPAVFSQEEVGEVDNLHCFPLNTVQMHTEAEGNDRGYVAINQSQSQLEMGEQGLNMREANEMPEDQILGDSPSFSQTDLDTPPEPASGKGKPRGGSNTGLDYIRFTWKRLRSHSRQCVSGLHMNRERKAAKQLGFIMAAFILCWIPYFIFFMVIAFCKSCCNEHVHMFTIWLGYINSTLNPLIYPLCNENFKKTFKKILHIRS"/>
+<entry key="StringCell" type="xstring" value="LLLGGISLVTIVMNILVLCAVKMEKKLQTVGNLYIVSLSIADLIVGAAVMPLNIVDLLSPAWPLGLEACLFWLSMDYVASTASIFNLFILCVDRYRSVQQPLKYLKYRTKMRASLLILGVWLLSFTWVIPILGWHLFANNGQRTVEENKCETEFFKVTWFKVLAAIFNFYLPSLLMLWFYCKIFRAVQKHCQHRELNNRSHWSSTEKNTVHQTKTKDDKNICLQEQILGENTPGADKKNSPETQKVEAELHFSHPDKASKALCNGKVLKWSCFSLTTAKAEPGLDKAGKRGACATKKPGDKEQPDCPDSDSSGASDNHTFTEVAPQAEPSPEGACLPQGSTRDSRGTTFLRQTWHALHSHSRSIHRHGNRDRKAAKQLGVIMAAFMICWIPYFVLFMVITFHDHKQLLELHRGTIWLGYINSTLNPFLYPLCNQNFKKTFKKILHI"/>
 </config>
 </config>
 <config key="10">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="MSLPNSSCLLEDKMCEGNKTTMASPQLMPLVVVLSTICLVTVGLNLLVLYAVRSERKLHTVGNLYIVSLSVADLIVGAVVMPMNILYLLMSKWSLGRPVCLFWLSMDYVASTASIFSVFILCIDRYRSVQQPLRYLKYRTKTRASATILGAWFLSFLWIIPILGWNHFMQQTSVRREDKCETDFYDVTWFKVMTAIINFYLPTLLMLWFYAKIYKAVQQHCQHRELINGSLPSFSEIKLRPENPKGDAKKPGKESPWEVLKRKPKDAGGGSVLKSPSQTPKEMKSPVVFSQEDDGEVDKLHCFPLDIVQMQTAAEGSSRDYVAVNQSHGQLKTDEQGLNTHGASEISEDQMLGDSQSFSRTDSDTTTETAPGKGKLRSGSNTGLDYIKFTWKRLRLHSRQYVSGLHMNRERKAAKQLGFIMAAFILCWIPYFIFFMVIAFCKNCCNEHLHMFTIWLGYINSTLNPLIYPLCNENFKKTFKRILHIRS"/>
+<entry key="StringCell" type="xstring" value="MSLPNSSCLLEDKMCEGNKTTMASPQLMPLVVVLSTISLVTVGLNLLVLYAVRSERKLHTVGNLYIVSLSVADLIVGAVVMPMNILYLLMSKWSLGRPLCLFWLSMDYVASTASIFSVFILCIDRYRSVQQPLRYLKYRTKTRASATILGAWFLSFLWVIPILGWNHFRQQISVRREDKCETDFYDVTWFKVMTAIINFYLPTLLMLWFYAKIYKAVQKHCQHRELINGSLPSFSEIKLRPENPKGDAKKPGKESPWEVLKRKPKDAGGGSVLKSPSQTPKEMKSPVVFSQEDDGEVDKLHCFPLDIVQMQTVAEGSSRDYVAINQSHGQLKTDEQGLNTHGASEISEDQMLGDSQSFSRTDSDTTTETAPGKGKLRSGSNTGLDYIKFTWKRLRSHSRQYVSGLHMNRERKAAKQLGFIMAAFILCWIPYFIFFMVIAFCKNCCNEHLHMFTIWLGYINSTLNPLIYPLCNENFKKTFKRILHIRS"/>
 </config>
 </config>
 <config key="11">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="MTFPNSSFTLEDNMCEANKTTMANPKLMPLVVVLSAVSLVTVGLNLLVLCAVRSERKLHTVGNLYIVSLSVADLIVGAIVMPMNILYLLMSRWSLGRPLCLFWLSMDYVASTASIFSVFILCIDRYRSVQQPLRYLRYRTKTRASATILVAWLFSFLWVIPILGWHRFVSRTSRRREDKCETDFYDVTWFKVMTAIINFYLPTLLMLWFYAKIYKAVRRHCQHRELINGSLPSFSEIKLKPENPKVGAKKAGKESPWEVLKRKPKDAGGGPVLKPSSQDSVEMKSPGVSSQEDGELDKFHCFTLNIVQTQMEAEGSSKGYVAVIHSQSQLEMDEQGLNMRGANEISEDQTLGDSQSSRTDSDTPTEPVPGKSKPRSGSSTGLDYIKLTWKRLRSHSRQYVSGLHMNRERKAAKQLGFIMAAFILCWIPYFIFFMVIAFCKSCCNEHVHMFTIWLGYINSTLNPLIYPLCNENFKKTFKKILHIRS"/>
+<entry key="StringCell" type="xstring" value="MTLPNSSCTFEDKMCEGNKTTIASPQLMPLVVVLSAISLVTVGLNLLVLYAVRSERKLHTVGNLYIVSLSVADLIVGAVVMPMNILYLLMSRWSLGQPLCLFWLSMDYVASTASIFSVFILCIDRYRSVQQPLRYLKYRTKTRASVTILGAWFLSFLWIIPILGWHHFMSQSSGHRDDRCETDFYDVTWFKIMTAIINFYLPTLLMLWFYAKIYKAVRQHCQHRELINGSLPSFSEIKLKPENPKAGAKKPGKESPWEVLKRKSKDASGEPVLKPPSQDPDEMKSPGVFSQEEDREVDKLQCFPLNIVQVQTEAEGSGRSFVAIDQSQSPVGMDEQSLNMHVPNEMSEDQILGDSQSFSRTDSDTPTESTSGKGKPRSGSSTGLDYIKFTWKRLRSHSRQYVSGLHMNRERKAAKQLGFIMAAFILCWIPYFIFFMVIAFCKSCCNERVHMFTIWLGYINSTLNPLIYPLCNENFKKTFKKILHIRS"/>
 </config>
 </config>
 <config key="12">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="MTLPNSSCTFEDKMCEGNKTTIASPQLMPLVVVLSAISLVTVALNLLVLYAVRSERKLHTVGNLYIVSLSVADLIVGAVVMPMNILYLLMSRWSWGQPLCLFWLSMDYVASTASIFSVFILCIDRYRSVQQPLRYLKYRTKTRASATILGAWFLSFLWIIPILGWHHFMSQSSGHREDKCETDFYDVTWFKIMTAIINFYLPTLLMLWFYAKIYKAVRQHCQHRELINGSLPSFSDIKMKPENPKAGPKKSGKESPWEVLKRKSKDASGEPVLKPPSQDPEEMKSPGVFSREEDREVDKLPCFPLNIVQVQTEAEGSGRSYVAIDQSQGPLGMDEQSVNMHGANEISEDQIIGDSQSFSRTDSDTPTESASGKGKPRSASSTGLDYIKFTWKRLRSHSRQYVSGLHMNRERKAAKQLGFIMAAFILCWIPYFIFFMVIAFCKSCCNERVHMFTIWLGYINSTLNPLIYPLCNENFKKTFKKILHIRS"/>
+<entry key="StringCell" type="xstring" value="FDSSSSVFRQKMCVNERETDKNSTQVQSVLGLVLGGISLTTVVMNILVLYAVKTEKKLQTVGNLYIVSLACADVIVGAAVMPLNIVYLLKDKWVLAREACLFWLSMDYVASTASIFSLFVLCIDRYHSVQQPLQYLKYRTKTRASVMISIAWLLSFMWVIPILGWHKFTHDNSTISRTNNETICETDFCKVTWFKVLTAMINFYVPSALMLWFYAKIYTTVRRHCQQREFVNGLFRSASDRTVVHNGKLQEIQQTYPQSLNKEVDCVMKGNNPNKRMEDQYPLSKFIKIPNGFQRGGDQEVGVVKLSCFPQTIAQDDMSIGRTDSKYAYVNDHIQNTESHCPQDYEFSKVSEELTFADRYSSRKNSNSTQEQDCSLGNCFSQHTNKKDSTSLQYLKKPWRRLRTHSISSQGLHGNKERKAAKQLGVIMVTFMLCWFPYFVLFLVMAYCGNCYNRTVHMFTIWLGYLNSTLNPIIYPLCNENFKKAFKKIFHIKF"/>
 </config>
 </config>
 <config key="13">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="MTCPNSSCIFEDEMCEGNKTAPASDAQLMPLVVVLSAISLVTVGLNLLVLYAVRSERKLHTVGNLYIVSLSVADLIVGVVVMPMNIIYLLRCRWSLGRPLCLFWLSMDYVASTASIFSVFILCIDRYRSVQQPLKYLRYRTKTRASITILAAWFLSFLWIIPILSWRHFQLKTPEPLGHKCETDFYKVTWFKIMTAIVNFYLPTLLMLWFYAKIYKAVRQHCQHRELINGSFPSFSDVKMKPENLQVGAKKPGKESPWEVLKRKPKDTGGGPVLKPPSQEPKEVTSLGVFSQEKDGEPDNFYCFPLDTVQTQPEAEGSGRGYAAINQSQNQFEMGEQGLNMPGAKEALEDQIQGDSQSFSRTDSDTPAEPAAPGKGKSRSESSTGLEYIKFTWKRLRSHSRQYVSGLHMNRERKAAKQLGFIMAAFIVCWIPYFVFFMVVAFCESCSNERVHMFTIWLGYINSTLNPLIYPLCNENFKKTFKKILHIRS"/>
+<entry key="StringCell" type="xstring" value="VSLSQMPVAEGETMCEGNELTPINTTQTHLAPLAVVLGGVSLVTVSLNLLVLYAVKTDRKLHTVGNLYIVSLSVADLIVGAAVMPLNIMYLLEPPKTFGQPLCLFWLSMDYVASTASIFSVFILCVDRYRSVQQPLKYLKYRTKTRASTMISGAWLLSLLWIIPILGWRGAQGEKSGAGDTKCETGFHKVTWFKVMTAIINFYLPTFLMLWFYTKIYKAVRRHCQHRELINGSFRSFSEVKLMQDKKVCTKKQKKKPGPKSSGPPVDPSCHANNNLAPRQDPVVTLQPAEKSAKVVIKEQDGDVVVKEQDGEGVTQHCFPITIVQNQPPLEEAEGESVPAKRDQPSQENLAPATLEPSDTSDEHTFADLTSCQTDSESPVEPAAAPESQEQPKGPSGLGGYLKYTWKRLRSHSRQYLPALHMNRERKAAKQLGFIMAAFIICWIPYFVFFMVIAFCTDCCNENFHMFTIWLGYVNSTLNPLIYPLCNENFKKTFKRILHLRS"/>
 </config>
 </config>
 <config key="14">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="MSFANTSSTFEDKMCEGNRTAMASPQLLPLVVVLSSISLVTVGLNLLVLYAVHSERKLHTVGNLYIVSLSVADLIVGAVVMPMNILYLIMTKWSLGRPLCLFWLSMDYVASTASIFSVFILCIDRYRSVQQPLRYLRYRTKTRASATILGAWFFSFLWVIPILGWHHFMPPAPELREDKCETDFYNVTWFKIMTAIINFYLPTLLMLWFYVKIYKAVRRHCQHRQLTNGSLPSFSELKLRSDDTKEGAKKPGRESPWGVLKRPSRDPSVGLDQKSTSEDPKMTSPTVFSQEGERETRPCFRLDIMQKQSMAEGDVRGSKANDQALSQPKMDEQSLNTCRRISETSEDQTLVDQQSFSRTTDSDTSIEPGPGRVKSRSGSNSGLDYIKITWKRLRSHSRQYVSGLHLNRERKAAKQLGFIMAAFILCWIPYFIFFMVIAFCKSCCSEPVHMFTIWLGYINSTLNPLIYPLCNENFKKTFKKILHIRS"/>
+<entry key="StringCell" type="xstring" value="MTCPNSSCVFEDKMCEGNKTAPANNAQLTPLVVVLSTISLVTVGLNLLVLYAVRSERKLHTVGNLYIVSLSVADLIVGVVVMPMNILYLLMSRWSLGRPLCLFWLSMDYVASTASIFSVFILCIDRYRSVQQPLKYLRYRTKTRASITILAAWFLSFLWIIPILGWRHFQPKTPEPREDKCETDFYNVTWFKVMTAIINFYLPTLLMLWFYAKIYKAVRQHCQHRELINGSFPSFSDMKMKPENLQVGTKKPGKESPWEVLKRKPKDTGGGPVLKPPSQEPKEVTSPGVFSQEKEEKDGELGKYYCFPLDTVQAQPEAEGSGRGYAAINQSQNQLEMGEQGLSMPGAKEALEDQILGDSQSFSRTDSDTPAEPALAKGKSRSESSTGLEYIKFTWKRLRSHSRQYVSGLHMNRERKAAKQLGFIMAAFIICWIPYFIFFMVIAFCESCCNQHVHMFTIWLGYINSTLNPLIYPLCNENFKKTFKKILHIRS"/>
 </config>
 </config>
 <config key="15">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="MTLPNSSCLLEDKMCEGNKTTMASPQLMPLVVVLSTISLVTVGLNLLVLYAVRSERKLHTVGNLYIVSLSVADLIVGAVVMPMNILYLLTSKWLLGRPLCLFWLSMDYVASTASIFSVFILCIDRYRSVQQPLRYLKYRTKTRASATILGAWFLSFLWVIPILGWNHFMQQTSVRREDKCETDFYDVTWFKVMTAIINFYLPTLLMLWFYAKIYKAVQQHCQHRELINGSLPSFSEIKLRPENPKVGTKKPGKESPWEVLKRKPKDAGGGSVLKSPSQTPKEMKSPVVFSQEDDGEVDKLHCFPLDIVQMQTAAEGSSRDCVADNQSHGQLKTDEQGLNTHEASEMPEDQMLGDSQSFSRTDSDTITETAPGKGKLRSGSNTGLDYIKFTWKRLRSHSRQYVSGLHMNRERKAAKQLGFIMAAFILCWIPYFIFFMVIAFCKSCCNEHLHMFTIWLGYINSTLNPLIYPLCNENFKKTFKRILRIRS"/>
+<entry key="StringCell" type="xstring" value="MSLPNTSSASEDKMCEGNRTAMASPQLLPLVVVLSSISLVTVGLNLLVLYAVRSERKLHTVGNLYIVSLSVADLIVGAVVMPMNILYLIMTKWSLGRPLCLFWLSMDYVASTASIFSVFILCIDRYRSVQQPLRYLRYRTKTRASATILGAWFLSFLWVIPILGWHHFTPLAPELREDKCETDFYNVTWFKIMTAIINFYLPTLLMLWFYVKIYKAVRRHCQHRQLTNGSLPTFLEIKLRSEDAKEGAKKPGKESPWGVQKRPSRDPTGGLDQKSTSEDPKVTSPTVFSQEGERETVTRPCFRLDVMQTQPVPEGDARGSKANDQTLSQPKMDEQSLSTCRRISETSEDQTLVDRQSSSRTTDSDTSIEPGLGKVKARSRSNSGLDYIKVTWKRLRSHSRQYVSGLHLNRERKAAKQLGCIMAAFILCWIPYFIFFMVIAFCNSCCSEPVHMFTIWLGYINSTLNPLIYPLCNENFKKTFKKILHIRS"/>
 </config>
 </config>
 <config key="16">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="MNLPNSSCIFEDKMCEGNKTTIANPKLMPLVVFLSAISLVTVGLNLLVLYAVRSERKLHTVGNLYIVSLSVADLIVGAVVMPMNILYLLMSRWSLGQPLCLFWLSMDYVASTASIFSVFILCIDRYRSVRQPLRYLKYRTKTRASATILGAWFLSFLWIIPILGWHHFMSQTSGHREDKCETDFYDVTWFKIMTAIINFYLPTLLMLWFYARIYKAVRQHCQHRELINGSLPSFSEPKLKPENPKAGAKKPGKESPWEFLKRKSKDASGEPVLKPPSQDSEEMKSPSVFRQEEDREVDKLQCFPLNIVQVQTEAEGSVRSYVAINQSQSMLEMDEQGLNMRGANETSEDQILGDSQSFSRTDSDTPTESGSGKGKPRSESSTGLDYIKFTWKRLRSHSRQYVSGLHMNRERKAAKQLGFIMAAFILCWIPYFIFFMVIAFCKSCCNERVHMFTIWLGYINSTLNPLIYPLCNENFKKTFKKILHIRS"/>
+<entry key="StringCell" type="xstring" value="MMESSLSPSTDPQHHNASSYVNFSNSSWSGLRDGDSLRNNQTLTFHDRINSALLGVFLGFLSLLTIIMNLLVLYAVKREKSLHTVGNLYIVSLSVADLIVGTTVMPLNLVYLLEDEWKLGRAVCQFWLIMDYVASTASIFSLFILCLDRYRSVRQPLKYLKYRTRGKASVMISGAWLLSMMWIIPILGWRSFTHVDLKPEEENKCDTDFRFVTWFKVITAVFNFYVPSVLMLWFYTYIYLAVRQHLRDRERIIHPTDSFGENDNGQNPQTPVKNDSKSPKRESEVLMKGSKTEKLLDRNTLEQTDPLEDADKNSKTALSRAHRKIGVKCQQTSLLAMTTKGLRMARKTKRCSLSPEEKQPDCEVPQSQPSAPQDGICSGGNNENKLQASLNECHVTVPNPVSGVCDTNKVSDVQRYTSVLSNNYDPSQALPWPEEGVEDAKLDADNEITLRQAWQRFIDQSRHRIHSLRIHKEHKAAKQLGFIIAAFLLCWIPYFIAFMVMAFCRECVHHDLHMFTIWLGYINSTLNPFIYPLCNGNFKRVFKNILNIPL"/>
 </config>
 </config>
 <config key="17">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="MTCPNSSCVFEDKMCQGNKTAPANDAQLTPLVVVLSTISLVTVGLNLLVLYAVRSERKLHTVGNLYIVSLSVADLIVGVVVMPMNILYLLMSRWSLGRPLCLFWLSMDYVASTASIFSVFILCIDRYRSVQQPLKYLRYRTKTRASITILAAWFLSFLWIIPILGWRHFQPKTPEPREDKCETDFYNVTWFKVMTAIINFYLPTLLMLWFYAKIYKAVRQHCQHRELINGSFPSFSDMKMKPENLQVGAKKPGKESPWEVLKRKPKDTGGGPVLKPPSQEPKEVTSPGVFSQEKEEKDGELGKFYCFPLDTVQAQPEAEGSGRGYATINQSQNQLEMGEQGLSMPGAKEALEDQILGDSQSFSRTDSDTPAEPAPAKGKSRSESSTGLEYIKFTWKRLRSHSRQYVSGLHMNRERKAAKQLGFIMAAFIICWIPYFIFFMVIAFCESCCNQHVHMFTIWLGYINSTLNPLIYPLCNENFKKTFKKILHIRS"/>
+<entry key="StringCell" type="xstring" value="MTLPNSSCTFEDKMCEGNKTTIASPQLMPLVVVLSAISLVTVVLNLLVLYAVRSERKLHTVGNLYIVSLSVADLIVGAVVMPMNILYLLMSRWSWGQPLCLFWLSMDYVASTASIFSVFILCIDRYRSVQQPLRYLKYRTKTRASATILGAWFLSFLWIIPILGWHHFMSQSSGHREDKCETDFYDVTWFKIMTAIINFYLPTLLMLWFYAKIYKAVRQHCQHRELINGSLPSFSDIKMKPENPKAGAKKSGKESPWEVLKRKSKDASGEPVLKPPSQDPEEMKSPGVFSREEDREVDKLPCFPLNIVQVQTEAEGSGRSYVAIDQSQSPLGMEEQSLNMHGANEISEDQIIGDSQSFSRTDSDTPTESASGKGKPRSASSTGLDYIKFTWKRLRSHSRQYVSGLHMNRERKAAKQLGFIMAAFILCWIPYFIFFMVIAFCKSCCNERVHMFTIWLGYINSTLNPLIYPLCNENFKKTFKKILHIRS"/>
 </config>
 </config>
 <config key="18">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="FDSSSSVFRQKMCVNERETDKNSTQVQSVLGLVLGGISLTTVVMNILVLYAVKTEKKLQTVGNLYIVSLACADVIVGAAVMPLNIVYLLKDKWVLAREACLFWLSMDYVASTASIFSLFVLCIDRYHSVQQPLQYLKYRTKTRASVMISIAWLLSFMWVIPILGWHKFTHDNSTISRTNNETICETDFCKVTWFKVLTAMINFYVPSALMLWFYAKIYTTVRRHCQQREFVNGLFRSASDRTVVHNGKLQEIQQTYPQSLNKEVDCVMKGNNPNKRMEDQYPLSKFIKIPNGFQRGGDQEVGVVKLSCFPQTIAQDDMSIGRTDSKYAYVNDHIQNTESHCPQDYEFSKVSEELTFADRYSSRKNSNSTQEQDCSLGNCFSQHTNKKDSTSLQYLKKPWRRLRTHSISSQGLHGNKERKAAKQLGVIMVTFMLCWFPYFVLFLVMAYCGNCYNRTVHMFTIWLGYLNSTLNPIIYPLCNENFKKAFKKIFHIKF"/>
+<entry key="StringCell" type="xstring" value="LGLFLGSISLITVVMNILVLCAVKTEKKLQTVGNLYIVSLSVADLIVGAAVMPLNIVYLLNSYVWTLGVTACSFWLSMDYVASTASIFNLFILCIDRYRSVQQPLKYLKYRTKMRALLMILGAWLLSFLWVIPILGWHIFAGAEKKKEIVKCETDFSTVTWFKVFTAFVNFYLPSILMLCFYCKIFIAVRKHCQHRELINRSYLSFSESKSVQPGKTKDKQSICLQKQILDENTPPRDKQRSPQPKNTEAKLHFSDPDSSSKVIVSRRNSEVLKWSCFPLTTAQSEPGLDKTGEKSVTKDNKNEEDLFSQDSDLSDASDSQTFTEEVPCGEESSPNPERACSPQEKTENRDSKGLTYLRKTWQRLHTRSKNHLRRLHVNRERKAAKQLGVIMAAFMLCWIPYFVLYMVIAFHHDERYSTLQMVTIWLGYLNSTLNPFLYPLCNHNFKKTFKKILHI"/>
 </config>
 </config>
 <config key="19">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="MCEANKTTMANPKLMPLVVVLSAVSLVTVGLNLLVLCAVRSERKLHTVGNLYIVSLSVADLIVGAIVMPMNILYLLMSRWSLGRPLCLFWLSMDYVASTASIFSVFILCIDRYRSVQQPLRYLRYRTKTRASATILVAWLFSFLWVIPILGWHRFVSRTSRRREDKCETDFYDVTWFKVMTAIINFYLPTLLMLWFYAKIYKAVRRHCQHRELINGSLPSFSEIKLKPENPKVGAKKAGKESPWEVLKRKPKDAGGGPVLKPSSQDSVEMKSPGISSQEDGELDKFHCFTLNIVQTQMEAEGSSKGYVAVIHSQSQLEMDEQGLNMRGANEISEDQTLGDSQSSRTDSDTPTEPVPGKSKPRSGSSTGLDYIKLTWKRLRSHSRQYVSGLHMNRERKAAKQLGFIMAAFILCWIPYFIFFMVIAFCKSCCNEHVHMFTIWLGYINSTLNPLIYPLCNENFKKTFKKILHIRS"/>
+<entry key="StringCell" type="xstring" value="MSNNTTENSSNAPSALLGLFLGSISLITIVMNILVLCAVKTEKKLQTVGNLYIVSLSIADLIVGAAVMPLHIVDLLSPRWPLGLAACLFWLSMDYVASTASIFNLFVLCMDRYRSVQQPLKYLKYRTKMRASLLILGVWLLSFTWVIPILGWHVFANSGKRNVAGDKCETEFFQVTWFKVLTAIFNFYLPSLLMLWFYCKIFRTVRKHCQHRELTDGSYWSAMEKNVHQTKTKDEKNICLQKQILGENSPGTDKQAEPQRMEAELHFSHPDKAPKALSNGKVPKWSCLSLSTAKPEPGSDKAGKKGACATRKAGDKEQPDSQDSDSSVASDTHTFTEVTPRAEQPSPSPSPTGACCPQARTERRDSRALGLLRKTWHTLHSHSRSIHQHRNREKKAAKQLGVIMAAFMLCWIPYFVLFMVVTFQDHQQLSELHRVTIWLGYINSTLNPFLYPLCNHNFKKTFKKILHIH"/>
 </config>
 </config>
 <config key="20">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="MSLPNSSCLLEDKMCESNKTTMASPQLMPLVVVLSTICLVTVGLNLLVLYAVRSERKLHTVGNLYIVSLSVADLIVGAVVMPMNILYLLMSKWSLGRPLCLFWLSMDYVASTASIFSVFILCIDRYRSVQQPLRYLKYRTKTRASATILGAWFLSFLWVIPILGWNHFMQQTSVRREDKCETDFYDVTWFKVMTAIINFYLPTLLMLWFYAKIYKAVRQHCQHRELINGSLPSFSEIKLRPENPKGDAKKPGKESPWEVLKRKPKDAGGGSVLKSPSQTPKEMKSPVVFSQEDDREVDKLHCFPLDIVHMQTAAEGSSRDYVAVNQSHGQLKTDEQGLNTHGASEISEDQMLGDSQSFSRTDSDTTTETASGKGKLRSGSNTGLGYIKFTWKRLRSHSRQYVSGLHMNRERKAAKQLGFIMAAFILCWIPYFIFFMVIAFCKNCCNEHLHMFTIWLGYINSTLNPLIYPLCNENFKKTFKRILHIRS"/>
+<entry key="StringCell" type="xstring" value="MTLPNSSCLLEDKMCEGNKTTMASPQLMPLVVVLSTISLVTVGLNLLVLYAVRSERKLHTVGNLYIVSLSVADLIVGAVVMPMNILYLLTSKWLLGRPLCLFWLSMDYVASTASIFSVFILCIDRYRSVQQPLRYLKYRTKTRASATILGAWFLSFLWVIPILGWNHFMQQTSVRREDKCETDFYDVTWFKVMTAIINFYLPTLLMLWFYAKIYKAVQQHCQHRELINGSLPSFSEIKLRPENPKVGTKKPGKESPWEVLKRKPKDAGGGSVLKSPSQTPKEMKSPVVFSQEDDGEVDKLHCFPLDIVQMQTAAEGSSRDCVADNQSHGQLKTDEQGLNTHEASEMPEDQMLGDSQSFSRTDSDTITETAPGKGKLRSGSNTGLDYIKFTWKRLRSHSRQYVSGLHMNRERKAAKQLGFIMAAFILCWIPYFIFFMVIAFCKSCCNEHLHMFTIWLGYINSTLNPLIYPLCNENFKKTFKRILRIRS"/>
 </config>
 </config>
 <config key="21">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="VSLSQMPVAEGETMCEGNELTPINTTQTHLAPLAVVLGGVSLVTVSLNLLVLYAVKTDRKLHTVGNLYIVSLSVADLIVGAAVMPLNIMYLLEPPKTFGQPLCLFWLSMDYVASTASIFSVFILCVDRYRSVQQPLKYLKYRTKTRASTMISGAWLLSLLWIIPILGWRGAQGEKSGAGDTKCETGFHKVTWFKVMTAIINFYLPTFLMLWFYTKIYKAVRRHCQHRELINGSFRSFSEVKLMQDKKVCTKKQKKKPGPKSSGPPVDPSCHANNNLAPRQDPVVTLQPAEKSAKVVIKEQDGDVVVKEQDGEGVTQHCFPITIVQNQPPLEEAEGESVPAKRDQPSQENLAPATLEPSDTSDEHTFADLTSCQTDSESPVEPAAAPESQEQPKGPSGLGGYLKYTWKRLRSHSRQYLPALHMNRERKAAKQLGFIMAAFIICWIPYFVFFMVIAFCTDCCNENFHMFTIWLGYVNSTLNPLIYPLCNENFKKTFKRILHLRS"/>
+<entry key="StringCell" type="xstring" value="MSLPNSSCLLEDKMCEGNKTTMASPQLMPLVVVLSTICLVTVGLNLLVLYAVRSERKLHTVGNLYIVSLSVADLIVGAVVMPMNILYLLMSKWSLGRPLCLFWLSMDYVASTASIFSVFILCIDRYRSVQQPLRYLKYRTKTRASATILGAWFLSFLWVIPILGWNHFMQQTSVRREDKCETDFYDVTWFKVMTAIINFYLPTLLMLWFYAKIYKAVRQHCQHRELINGSLPSFSEIKLRPENPKGDAKKPGKESPWEVLKRKPKDAGGGSVLKSPSQTPKEMKSPVVFSQEDDREVDKLHCFPLDIVPMQTAAEGSSRDYVAVNQSHGQLKTDEQGLNTHGASEISEDQMLGDSQSFSRTDSDTTTETAPGKGKLRSGSNTGLDYIKFTWKRLRSHSRQYVSGLHMNRERKAAKQLGFIMAAFILCWIPYFIFFMVIAFCKNCCNEHLHMFTIWLGYINSTLNPLIYPLCNENFKKTFKRILHIRS"/>
 </config>
 </config>
 <config key="22">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="MTLPNSSCTFEDKMCEGNKTTIASPQLMPLVVVLSAISLVTVVLNLLVLYAVRSERKLHTVGNLYIVSLSVADLIVGAVVMPMNILYLLMSRWSWGQPLCLFWLSMDYVASTASIFSVFILCIDRYRSVQQPLRYLKYRTKTRASATILGAWFLSFLWIIPILGWHHFMSQSSGHREDKCETDFYDVTWFKIMTAIINFYLPTLLMLWFYAKIYKAVRQHCQHRELINGSLPSFSDIKMKPENPKAGAKKSGKESPWEVLKRKSKDASGEPVLKPPSQDPEEMKSPGVFSREEDREVDKLPCFPLNIVQVQTEAEGSGRSYVAIDQSQSPLGMEEQSLNMHGANEISEDQIIGDSQSFSRTDSDTPTESASGKGKPRSASSTGLDYIKFTWKRLRSHSRQYVSGLHMNRERKAAKQLGFIMAAFILCWIPYFIFFMVIAFCKSCCNERVHMFTIWLGYINSTLNPLIYPLCNENFKKTFKKILHIRS"/>
+<entry key="StringCell" type="xstring" value="MSFANTSSTFEDKMCEGNRTAMASPQLLPLVVVLSSISLVTVGLNLLVLYAVHSERKLHTVGNLYIVSLSVADLIVGAVVMPMNILYLIMTKWSLGRPLCLFWLSMDYVASTASIFSVFILCIDRYRSVQQPLRYLRYRTKTRASATILGAWFFSFLWVIPILGWHHFMPPAPELREDKCETDFYNVTWFKIMTAIINFYLPTLLMLWFYVKIYKAVRRHCQHRQLTNGSLPSFSELKLRSDDTKEGAKKPGRESPWGVLKRPSRDPSVGLDQKSTSEDPKMTSPTVFSQEGERETRPCFRLDIMQKQSVAEGDVRGSKANDQALSQPKMDEQSLNTCRRISETSEDQTLVDQQSFSRTTDSDTSIEPGPGRVKSRSGSNSGLDYIKITWKRLRSHSRQYVSGLHLNRERKAAKQLGFIMAAFILCWIPYFIFFMVIAFCKSCCSEPMHMFTIWLGYINSTLNPLIYPLCNENFKKTFKKILHIRS"/>
 </config>
 </config>
 <config key="23">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="MSNNTTENSSNAPSALLGLFLGSISLITIVMNILVLCAVKTEKKLQTVGNLYIVSLSIADLIVGAAVMPLHIVDLLSPRWPLGLAACLFWLSMDYVASTASIFNLFVLCMDRYRSVQQPLKYLKYRTKMRASLLILGVWLLSFTWVIPILGWHVFANSGKRNVAGDKCETEFFQVTWFKVLTAIFNFYLPSLLMLWFYCKIFRTVRKHCQHRELTDGSYWSAMEKNVHQTKTKDEKNICLQKQILGENSPGTDKQAEPQRMEAELHFSHPDKAPKALSNGKVPKWSCLSLSTAKPEPGSDKAGKKGACATRKAGDKEQPDSQDSDSSVASDTHTFTEVTPRAEQPSPSPSPTGACCPQARTERRDSRALGLLRKTWHTLHSHSRSIHQHRNREKKAAKQLGVIMAAFMLCWIPYFVLFMVVTFQDHQQLSELHRVTIWLGYINSTLNPFLYPLCNHNFKKTFKKILHIH"/>
+<entry key="StringCell" type="xstring" value="MSKNTTENSNYTHSALLGFLLASISLITVVMNILVLCAVKTEKKLQTVGNLYIVSLSIADLIVGAAVMPLNIVYLLNRVWTLGLTACLFWLSMDYVASTASIFSLFILCLDRYRSVQQPLKYLQYRTKMRASLVILGAWLLSSLWVIPILWWHDSANDEKRKGKANCDTQFSHVTWFKVLTAIVNFYLPSIIMLWLYCKIFRAVRKHCQQREVVTGSYCSFSENKNVIHGKTKDKQNICLQKQILHENTSHKDKQMSSEHKSTAAKYHFSNSDKSSKAFVSSSNSKAFQCSCLPLTTAQSEPDLEKAGKKCVCVKKDNKNEEDPHSQDSDLSATSDSDTFTENVPSGEQSNPNPDRACSPQENKENRDFRGLSYLRKTWQTLHTHSKSRLRRQHVSREWKAAKQLGVIMAAFMLCWIPYFVLYMVTVFQHREQFYTLHMFTIWLGYVNSTLNPFLYPLCNENFKKTFKKILHIQ"/>
 </config>
 </config>
 <config key="24">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="MSFANTSSTFEDKMCEGNRTAMASPQLLPLVVVLSSISLVTVGLNLLVLYAVHSERKLHTVGNLYIVSLSVADLIVGAVVMPMNILYLIMTKWSLGRPLCLFWLSMDYVASTASIFSVFILCIDRYRSVQQPLRYLRYRTKTRASATILGAWFFSFLWVIPILGWHHFMPPAPELREDKCETDFYNVTWFKIMTAIINFYLPTLLMLWFYVKIYKAVRRHCQHRQLTNGSLPSFSELKLRSDDTKEGAKKPGRESPWGVLKRPSRDPSVGLDQKSTSEDPKMTSPTVFSQEGERETRPCFRLDIMQKQSVAEGDVRGSKANDQALSQPKMDEQSLNTCRRISETSEDQTLVDQQSFSRTTDSDTSIEPGPGRVKSRSGSNSGLDYIKITWKRLRSHSRQYVSGLHLNRERKAAKQLGFIMAAFILCWIPYFIFFMVIAFCKSCCSEPMHMFTIWLGYINSTLNPLIYPLCNENFKKTFKKILHIRS"/>
+<entry key="StringCell" type="xstring" value="MTLPNSSYVLEDKMCEGNKTTMASPQLMPLVVVLSSISLVTVALNLLVLYAVRSERKLHTVGNLYIVSLSVADLIVGAVVMPMNILYLVMTKWSLGRPLCLFWLSMDYVASTASIFSVFILCIDRYRSVQQPLRYLKYRTKTRASATILGAWFLSFLWVIPILGWHHFMSHTSRRRDDKCETDFYDVTWFKIMTAIINFYLPTLLMLWFYFKIYKAVRRHCQHRELINGSLPTFSEIKQKPENSKVGPKKSEKESPWEAPKRESKDASGGPIFKPSFQDTKEKKSPDSLSQEEDGEAAKLPCFPLDLVETQTAAKGDGRGCEAVDKSQSQLKTEGQSLNTRRVSEISVDHTLVESQSIGRMTDSDTSTEPALGRDKLRSGSNPGLDYIKFTWKRLRSHSRQYISGLHVNRERKAAKQLGFIMAAFILCWIPYFIFFMVIAFCESCCNEQVHMFTIWLGYINSTLNPLIYPLCNENFKKTFKKILHIRS"/>
 </config>
 </config>
 <config key="25">
@@ -1075,103 +1105,115 @@
 <config key="26">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="MSLPNSSCLLEDKMCEGNKTTMASPQLMPLVVVLSTICLVTVGLNLLVLYAVRSERKLHTVGNLYIVSLSVADLIVGAVVMPMNILYLLMSKWSLGRPLCLFWLSMDYVASTASIFSVFILCIDRYRSVQQPLRYLKYRTKTRASATILGAWFLSFLWVIPILGWNHFMQQTSVRREDKCETDFYDVTWFKVMTAIINFYLPTLLMLWFYAKIYKAVQQHCQHRELINGSLPSFSEIKLRPENPKGDAKKPGKESPWEVLKRKPKDAGGGSVLKSPSQTPKEMKSPVVFSQEDDREVDKLHCFPLDIVPMQTAAEGSSRDYVAVNQSHGQLKTDEQGLNTHGASEISEDQMLGDSQSFSRTDSDTTTETAPGKGKLRSGSNTGLDYIKFTWKRLRSHSRQYVSGLHMNRERKAAKQLGFIMAAFILCWIPYFIFFMVIAFCKNCCNEHLHMFTIWLGYINSTLNPLIYPLCNENFKKTFKRILHIRS"/>
+<entry key="StringCell" type="xstring" value="MTLPNSSCISEDRMCEGNKTTMANVQLTPLVVVLSTISLVTVGLNLLVLCAVRSERKLHTVGNLYIVSLSAADLIVGAAVMPMNILYLLMTRWSLGRPLCLFWLSMDYVASTASIFSVFILCIDRYRSVQQPLRYLRYRTKTRASVTILGAWFLSCLWIIPIVGWRRFLPHSPRPRDDKCETDFYDVTWFKIMTAIINFYLPTVLMLWFYARIYRAVRQHCQHRELISRSLPAFLEINLRPENPKVGGKKPGKESPWEVTKRRPKDAGGGPASKSPSQVPAETKSPAGLSREEAGEEATLHCFPVNMVQTAMVAQGSSPGYAAIGQPRSQLAAGEQSLGARHISELSEDQTLGDSQSLSRTMDSDATTEPAPARGTLRSGSSTGLDYIKFTWKRLRSHSRQYTSGLHMSRERKAAKQLGFIMAAFILCWIPYFIFFMVIAFCKSCCNEHVHMFTIWLGYINSTLNPLIYPLCNENFKKTFKRLLHIRS"/>
 </config>
 </config>
 <config key="27">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="IHSASLGLALGTISALTVVLNILVLYAVRTERKLHTVGNLYIVSLSIADLIVGAAVMPLNIVYLLNREWILGRPACLFWLSMDYVASTASIFSLFILCIDRYRSIQQPLRYLKYRTKTRASLMISGAWLLSFTWVVPILGWHVFANGGVRSVPESTCETEFHKVTWFKVLTATLNFYIPSLLMLWFYAKIYKAVREHYQHREVVNGSFQLFYDSKLVQSVRVLKGQQSCTKTQCKDGNLTVPEMNFPAQYTPISKEFRQSRSTQEKDPVEDYGKQKGFSHCDNNVFKLHCFPLAIIQGSPQECRNYVTVTRGALEEHNCLRPRQREEISEEHTFAEAASCMVDLSQVGKSNMEAPGRTEARLSGNFRYLKHTWERFRTHSKQHIQGLHMNRERKAAKQLGFIMAAFMLCWIPYFVLFMVIAFCHNCCNHNFHMFTIWLGYINSTLNPLIYPLCNENFKKTFKKIFHVEL"/>
+<entry key="StringCell" type="xstring" value="LPLPPISYRLQEGTMCEVNRTDIANKPHLVPLVVVLSTISLVTVGLNLLVLYAVRTEKKLHTVGNLYIVSLSVADLIVGAAVMPLNIVYLLKSLVRPLCLFWLSMDYVASTASIFSVFILCIDRYRSVQQPLKYLRYRTKTRATITILITWFLASLWIIPILGWRSFWSDNNTSKSDKCETDFYKVTWFKVMTAIINFYLPTLLMLWFYSRIYRAVRQHCQHREFINGSFPSFSEGTVNHKKHRICLPKQGKDASLEALKRKPEDNFYPINNSIPPKTQDPAKEKAPKGFEQEEGEVVVKDHYYHVDLVQAEPGMEETEKYMSIHESQSNSKELSPATQYASETSEETIFAEAPSNPIDSNAIAESATVMSAEDQAKTKATFGLDYLTFTWKRLRSHSRQYIKGLHMNRERKAAKQLGCIMAAFILCWIPYFIFFMVIAYCKKCCNEDVQMFTMWLGYINSTLNPLIYPLCNENFKKAFKKIFHIRS"/>
 </config>
 </config>
 <config key="28">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="MTLPNSSCLLEDKMCEGNKTTMASPQLMPLVVVLSTISLVTVGLNLLVLYAVRSERKLHTVGNLYIVSLSVADLIVGAVVMPMNILYLLTSKWLLGRPFCLFWLSMDYVASTASIFSVFILCIDRYRSVQQPLRYLKYRTKTRASATILGAWFLSFLWVIPILGWNHFMQQTSVRREDKCETDFYDVTWFKVMTAIINFYLPTLLMLWFYAKIYKAVQQHCQHRELINGSLPSFSEIKLRPENPKVGTKKPGKESPWEVLKRKPKDAGGGSVLKSPSQTPKEMKSPVVFSQEDDGEVDKLHCFPLDIVQMQTAAEGSSRDCVAVNQSHGQLKTDEQGLNTHEASEMPEDQMLGDSQSFSRTDSDTITETAPGKGKLRSGSNTGLDYIKFTWKRLRSHSRQYVSGLHMNRERKAAKQLGFIMAAFILCWIPYFIFFMVIAFCKSCCNEHLHMFTIWLGYINSTLNPLIYPLCNENFKKTFKRILHIRS"/>
+<entry key="StringCell" type="xstring" value="MSLPNSSCLLEDKMCEGNKTTMASPQLMPLVVVLSTICLVTVGLNLLVLYAVRSERKLHTVGNLYIVSLSVADLIVGAVVMPMNILYLLMSKWSLGRPLCLFWLSMDYVASTASIFSVFILCIDRYRSVQQPLRYLKYRTKTRASATILGAWFLSFLWVIPILGWNHFMQQTSVRREDKCETDFYDVTWFKVMTAIINFYLPTLLMLWFYAKIYKAVRQHCQHRELINGSLPSFSEIKLRPENPKGDAKKPGKESPWEVLKRKPKDAGGGSVLKSPSQTXKEMKSPVVFSQEDDREVDKLHCFPLDIVPMQTAAEGSSRDYVAVNQSHGQLKTDEQGLNTHGASEISEDQMLGDSQSFSRTDSDTTTETAPGKGKLRSGSNTGLDYIKFTWKRLRSHSRQYVSGLHMNRERKAAKQLGFIMAAFILCWIPYFIFFMVIAFCKNCCNEHLHMFTIWLGYINSTLNPLIYPLCNENFKKTFKRILHIRS"/>
 </config>
 </config>
 <config key="29">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="LGLFLGSISLITVVMNILVLCAVKTEKKLQTVGNLYIVSLSVADLIVGAAVMPLNIVYLLNSYVWTLGVTACSFWLSMDYVASTASIFNLFILCIDRYRSVQQPLKYLKYRTKMRALLMILGAWLLSFLWVIPILGWHIFAGAEKKKEIVKCETDFSTVTWFKVFTAFVNFYLPSILMLCFYCKIFIAVRKHCQHRELINRSYLSFSESKSVQPGKTKDKQSICLQKQILDENTPPRDKQRSPQPKNTEAKLHFSDPDSSSKVIVSRRNSEVLKWSCFPLTTAQSEPGLDKTGEKSVTKDNKNEEDLFSQDSDLSDASDSQTFTEEVPCGEESSPNPERACSPQEKTENRDSKGLTYLRKTWQRLHTRSKNHLRRLHVNRERKAAKQLGVIMAAFMLCWIPYFVLYMVIAFHHDERYSTLQMVTIWLGYLNSTLNPFLYPLCNHNFKKTFKKILHI"/>
+<entry key="StringCell" type="xstring" value="MTCLNSSSDLEDKMCEGNKTTIASPQLMPLVVVLSTISLVTVALNLLVLYAVRSERKLHTVGNLYIVSLSVADLIVGAVVMPMNILYLFTSKWPLGRPLCLFWLSMDYVASTASIFSVFILCIDRYRSVQQPLRYLRYRTKTRASATILGAWFLSFLWVIPIWGWHHFVSQTWNRQEDKCETDFYDVTWFKIMTAIINFYLPTLLMLWFYTKIYKAVRQHCQHRDLINGSLPSFSDVKLKPENPKVDAKKSEESPWEVLKRKPKDAGGGSVLKLPSEDPKEMKSPAVFSQEEVGEVDNLHCFPLNTVQMHTEAEGNDRGYVAINQSQSQLEMGEQGLNMREANEMPEDQILGDSPSFSQTDLDTPPEPASGKGKPRGGSNTGLDYIRFTWKRLRSHSRQCVSGLHMNRERKAAKQLGFIMAAFILCWIPYFIFFMVIAFCKSCCNEHVHMFTIWLGYINSTLNPLIYPLCNENFKKTFKKILHIRS"/>
 </config>
 </config>
 <config key="30">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="MSLPNSSCLLEDKMCEGNKTTMASPQLMPLVVVLSTICLVTVGLNLLVLYAVRSERKLHTVGNLYIVSLSVADLIVGAVVMPMNILYLLMSKWSLGRPLCLFWLSMDYVASTASIFSVFILCIDRYRSVQQPLRYLKYRTKTRASATILGAWFLSFLWVIPILGWNHFMQQTSVRREDKCETDFYDVTWFKVMTAIINFYLPTLLMLWFYAKIYKAVRQHCQHRELINGSLPSFSEIKLRPENPKGDAKKPGKESPWEVLKRKPKDAGGGSVLKSPSQTPKEMKSPVVFSQEDDREVDKLHCFPLDIVPMQTAAEGSSRDYVAVNQSHGQLKTDEQGLNTHGASEISEDQMLGDSQSFSRTDSDTTTETAPGKGKLRSGSNTGLDYIKFTWKRLRSHSRQYVSGLHMNRERKAAKQLGFIMAAFILCWIPYFIFFMVIAFCKNCCNEHLHMFTIWLGYINSTLNPLIYPLCNENFKKTFKRILHIRS"/>
+<entry key="StringCell" type="xstring" value="MCFLTTLTSCDTLERPMESTTTLTTANSQFKRIDNTTLLIPSAPLHHHINNAVLGIFLGMLSLLTVIMNLLVLFAVRKERTLHTVGNLYIVSLSIADLIVGATVMPLNLVYLLEDQWKLGHVVCQFWLVMDYVASTASIFSLFILCLDRYRSVRHPLQYLKYRTRGRATLLICSAWLLSMTWTIPILGWRMFASVDKKTELENQCDTDFRFVTWFKVLTAILNFYIPSFLMLVFYSQIFIAVRDHYREWENFAGPALKTDATDTLTNGLQLQITKASEKESLALNAYSQNEGLLDQYSLEQPYNSRENTEEMISEPKRKMCYKKKAIFNLSKRMRKSVPDSEISFQSDDGETVAEGRPSLSLAFLQSENTAQPQTFINVSDCNVLVPNSVGNICESTPTVDIHNYTAVLCTPPSPPSPWAENSPPLDASIALPAKQSWQKLCEQSKQSIHSMRIRKERKAARQLGFIIGVFMVCWIPYFITFMVMALCETCVHHDLHMFTIWLGYINSTLNPFIYPLCNENFKRVFKKIFHMSR"/>
 </config>
 </config>
 <config key="31">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="MTLPNSSRVIEDKMCEGNKTTTDSPQLMPLVVVLSSISLVTVGLNLLVLYAIRNERKLHTVGNLYIVSLSVADLIVGAVVMPMNIIYLHRSKWSLGRPLCLFWLSMDYVASTASIFSVFILCIDRYRSVQQPLRYLRYRTKTRASATIMGAWFLSFLWIIPILGWHRFISGGSKYQQDKCETDFYDVTWFKIMTAIINFYLPTLLMLWFYAKIYKAVQQHCQHRELTDGSLPSFSEIRQRPENPKVGAKKPGRESFSEVLKRKCKDASGGPALKPPSQDPGEMKSPVVFSQEEDGEVAKLHGFPLNVVPIQTMVEEGGREYVAINQTQLEIDKQGLNTHGAGKTSEDQTLGKSQPFSKADLNTHTEPASGKGKLKSGPGTSLDYIKFTWKRLRSHSRQFVSGLHVNRERKAAKQLGFIMAAFIICWTPYFIFFMVIAFCESCFSERAHMFTIWLGYINSTLNPLIYPLCNENFKKTFKKILHIHC"/>
+<entry key="StringCell" type="xstring" value="MSLPNSSCLLEDKMCEGNKTTMASPQLMPLVVVLSTICLVTVGLNLLVLYAVRSERKLHTVGNLYIVSLSVADLIVGAVVMPMNILYLLMSKWSLGRPLCLFWLSMDYVASTASIFSVFILCIDRYRSVQQPLRYLKYRTKTRASATILGAWFLSFLWVIPILGWNHFMQQTSVRREDKCETDFYDVTWFKVMTAIINFYLPTLLMLWFYAKIYKAVQQHCQHRELINGSLPSFSEIKLRPENPKGDAKKPGKESPWEVLKRKPKDAGGGSVLKSPSQTPKEMKSPVVFSQEDDREVDKLHCFPLDIVPMQTAAEGSSRDYVAVNQSHGQLKTDEQGLNTHGASEISEDQMLGDSQSFSRTDSDTTTETAPGKGKLRSGSNTGLDYIKFTWKRLRSHSRQYVSGLHMNRERKAAKQLGFIMAAFILCWIPYFIFFMVIAFCKNCCNEHLHMFTIWLGYINSTLNPLIYPLCNENFKKTFKRILHIRS"/>
 </config>
 </config>
 <config key="32">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="NDSPNSSSILEDKMCEGNKTTMASHQLIPLVVVLSTISLVTVGLNLLVLCAVRSERKLHTVGNLYIISLSVADLIVGAVVMPMNIIYLFMSKWSLGRPLCLFWLSMDYVASTASIFSVFILCIDRYRSVQQPLKYLKYRTKTRASATILGAWFLSFLWIIPIQGWRHFMPHNLKPREDKCETDFYDVTWFKIMTAIINFYLPTLLMLWFYAKIYKAVRRHCQHRELMNGSLPSFSEIKVKPENPKIGAMKPGKKSLWEVLKRKQKVAGGEPVSKSPSQDPNEMKSSGVYSQEEDEEVDKLHCFPLNIVQTQTEAEGSGKDYIAINQSQSQLEIDEQSLTIHGASEVSEDQTLGDSQSFSPADSDIPTESASGKGKPRSESSIGLDYIKFTWKRLRSHSRQYMSGLQLNRERKAAKQLGFIMAAFILCWSPYFIFFMVIAFCKSCCNEHVHMFTIWLGYINSTLNPLIYPLCNENFKKTFKRILHIRS"/>
+<entry key="StringCell" type="xstring" value="MSLPNSSCLLEDKMCEGNKTTMASPQLMPLVVVLSTICLVTVGLNLLVLYAVRSERKLHTVGNLYIVSLSVADLIVGAVVMPMNILYLLMSKWSLGRPVCLFWLSMDYVASTASIFSVFILCIDRYRSVQQPLRYLKYRTKTRASATILGAWFLSFLWIIPILGWNHFMQQTSVRREDKCETDFYDVTWFKVMTAIINFYLPTLLMLWFYAKIYKAVQQHCQHRELINGSLPSFSEIKLRPENPKGDAKKPGKESPWEVLKRKPKDAGGGSVLKSPSQTPKEMKSPVVFSQEDDGEVDKLHCFPLDIVQMQTAAEGSSRDYVAVNQSHGQLKTDEQGLNTHGASEISEDQMLGDSQSFSRTDSDTTTETAPGKGKLRSGSNTGLDYIKFTWKRLRLHSRQYVSGLHMNRERKAAKQLGFIMAAFILCWIPYFIFFMVIAFCKNCCNEHLHMFTIWLGYINSTLNPLIYPLCNENFKKTFKRILHIRS"/>
 </config>
 </config>
 <config key="33">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="LLLGGISLVTIVMNILVLCAVKMEKKLQTVGNLYIVSLSIADLIVGAAVMPLNIVDLLSPAWPLGLEACLFWLSMDYVASTASIFNLFILCVDRYRSVQQPLKYLKYRTKMRASLLILGVWLLSFTWVIPILGWHLFANNGQRTVEENKCETEFFKVTWFKVLAAIFNFYLPSLLMLWFYCKIFRAVQKHCQHRELNNRSHWSSTEKNTVHQTKTKDDKNICLQEQILGENTPGADKKNSPETQKVEAELHFSHPDKASKALCNGKVLKWSCFSLTTAKAEPGLDKAGKRGACATKKPGDKEQPDCPDSDSSGASDNHTFTEVAPQAEPSPEGACLPQGSTRDSRGTTFLRQTWHALHSHSRSIHRHGNRDRKAAKQLGVIMAAFMICWIPYFVLFMVITFHDHKQLLELHRGTIWLGYINSTLNPFLYPLCNQNFKKTFKKILHI"/>
+<entry key="StringCell" type="xstring" value="CPDFCSVTLGKKMCELNKNTTNNSTVTHPIPLGLVLGSISLITVIMNILVLYAVKTERKLQTVGNLYIVSLSVADLIVGAAVMPLNMMYLLKGKWVLGSLACLFWLSMDYVASTASIFSLFILCIDRYRSVQQPLNYLKYRTKTRALVMISGAWLISLLWIIPIQGWHAFANIRNRTVGEVTCETEFSQVTWFKVLTAIVNFYVPSLLMLWFYAKIYKAVRKHCQHRELINGSFRSFSENKSVHHKGQEKQKICHKKSNKDIPSSLLKGSSADPCCNVNLHFPQSKRMEAKLQLGSFDNCPNTLITEDDSKVVNRSCFPLAIAQTQSGPDKVGIKYVSVKKGPELSDTSDEHTFIEGVLCKNDSYSTLEPTSSAEDKTNKGLGYLKSTWLRLRTQSMQGVHLNREKKAAKQLGFIMAAFMLCWIPYFVLFMVIAYCQSCCNQGFYMFTIWLGYVNSTLNPFIYPLCNENFKTTFKKILHIHS"/>
 </config>
 </config>
 <config key="34">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="MSLPNTSSASEDKMCEGNRTAMASPQLLPLVVVLSSISLVTVGLNLLVLYAVRSERKLHTVGNLYIVSLSVADLIVGAVVMPMNILYLIMTKWSLGRPLCLFWLSMDYVASTASIFSVFILCIDRYRSVQQPLRYLRYRTKTRASATILGAWFLSFLWVIPILGWHHFTPLAPELREDKCETDFYNVTWFKIMTAIINFYLPTLLMLWFYVKIYKAVRRHCQHRQLTNGSLPTFLEIKLRSEDAKEGAKKPGKESPWGVQKRPSRDPTGGLDQKSTSEDPKVTSPTVFSQEGERETVTRPCFRLDVMQTQPVPEGDARGSKANDQTLSQPKMDEQSLSTCRRISETSEDQTLVDRQSSSRTTDSDTSIEPGLGKVKARSRSNSGLDYIKVTWKRLRSHSRQYVSGLHLNRERKAAKQLGCIMAAFILCWIPYFIFFMVIAFCNSCCSEPVHMFTIWLGYINSTLNPLIYPLCNENFKKTFKKILHIRS"/>
+<entry key="StringCell" type="xstring" value="MTLPNSSRVIEDKMCEGNKTTTDSPQLMPLVVVLSSISLVTVGLNLLVLYAIRNERKLHTVGNLYIVSLSVADLIVGAVVMPMNIIYLHRSKWSLGRPLCLFWLSMDYVASTASIFSVFILCIDRYRSVQQPLRYLRYRTKTRASATIMGAWFLSFLWIIPILGWHRFISGGSKYQQDKCETDFYDVTWFKIMTAIINFYLPTLLMLWFYAKIYKAVQQHCQHRELTDGSLPSFSEIRQRPENPKVGAKKPGRESFSEVLKRKCKDASGGPALKPPSQDPGEMKSPVVFSQEEDGEVAKLHGFPLNVVPIQTMVEEGGREYVAINQTQLEIDKQGLNTHGAGKTSEDQTLGKSQPFSKADLNTHTEPASGKGKLKSGPGTSLDYIKFTWKRLRSHSRQFVSGLHVNRERKAAKQLGFIMAAFIICWTPYFIFFMVIAFCESCFSERAHMFTIWLGYINSTLNPLIYPLCNENFKKTFKKILHIHC"/>
 </config>
 </config>
 <config key="35">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="MTLPNSSCISEDRMCEGNKTTMANVQLTPLVVVLSTISLVTVGLNLLVLCAVRSERKLHTVGNLYIVSLSAADLIVGAAVMPMNILYLLMTRWSLGRPLCLFWLSMDYVASTASIFSVFILCIDRYRSVQQPLRYLRYRTKTRASVTILGAWFLSCLWIIPIVGWRRFLPHSPRPRDDKCETDFYDVTWFKIMTAIINFYLPTVLMLWFYARIYRAVRQHCQHRELISRSLPAFLEINLRPENPKVGGKKPGKESPWEVTKRRPKDAGGGPASKSPSQVPAETKSPAGLSREEAGEEATLHCFPVNMVQTAMVAQGSSPGYAAIGQPRSQLAAGEQSLGARHISELSEDQTLGDSQSLSRTMDSDATTEPAPARGTLRSGSSTGLDYIKFTWKRLRSHSRQYTSGLHMSRERKAAKQLGFIMAAFILCWIPYFIFFMVIAFCKSCCNEHVHMFTIWLGYINSTLNPLIYPLCNENFKKTFKRLLHIRS"/>
+<entry key="StringCell" type="xstring" value="MNLPNSSCIFEDKMCEGNKTTIANPKLMPLVVFLSAISLVTVGLNLLVLYAVRSERKLHTVGNLYIVSLSVADLIVGAVVMPMNILYLLMSRWSLGQPLCLFWLSMDYVASTASIFSVFILCIDRYRSVRQPLRYLKYRTKTRASATILGAWFLSFLWIIPILGWHHFMSQTSGHREDKCETDFYDVTWFKIMTAIINFYLPTLLMLWFYARIYKAVRQHCQHRELINGSLPSFSEPKLKPENPKAGAKKPGKESPWEFLKRKSKDASGEPVLKPPSQDSEEMKSPSVFRQEEDREVDKLQCFPLNIVQVQTEAEGSVRSYVAINQSQSMLEMDEQGLNMRGANETSEDQILGDSQSFSRTDSDTPTESGSGKGKPRSESSTGLDYIKFTWKRLRSHSRQYVSGLHMNRERKAAKQLGFIMAAFILCWIPYFIFFMVIAFCKSCCNERVHMFTIWLGYINSTLNPLIYPLCNENFKKTFKKILHIRS"/>
 </config>
 </config>
 <config key="36">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="MTLPNSSCVVEDKMCEGNKTTIANPQLMPLVVFLSAISLVTVGLNLLVLYAVRSERKLHTVGNLYIVSLSVADLIVGAVVMPMNILYLLMSRWSLGHPLCLFWLSMDYVASTASIFSVFILCIDRYRSVQQPLRYLKYRTKTRASATILGAWFLSFLWVIPILGWHHFMSPVSGHREDKCETDFYDVTWFKIMTAIINFYLPTLLMLWFYAKIYKAVRQHCQHRELINGSLPSFSEIKLKPENPKVGAKKPGKESPWEVLKRKSKDASGEPVMKPPSQDSEEMKCPGVFSQEEDKEMDKLHCFPLNIVQMQTEAEGSGRSYAAINQSQGQLEIDEQSLRMRAANEISEDQILGDSQSFSRTDSDTPPESASGKSKPRSGSSTGLDYIKYTWKRLRSHSRQYVSGLHMNRERKAAKQLGFIMAAFILCWIPYFIFFMVIAFCKSCCNEHVHMFTIWLGYINSTLNPLIYPLCNENFKKTFKKILHIRS"/>
+<entry key="StringCell" type="xstring" value="MTFPNSSFTLEDNMCEANKTTMANPKLMPLVVVLSAVSLVTVGLNLLVLCAVRSERKLHTVGNLYIVSLSVADLIVGAIVMPMNILYLLMSRWSLGRPLCLFWLSMDYVASTASIFSVFILCIDRYRSVQQPLRYLRYRTKTRASATILVAWLFSFLWVIPILGWHRFVSRTSRRREDKCETDFYDVTWFKVMTAIINFYLPTLLMLWFYAKIYKAVRRHCQHRELINGSLPSFSEIKLKPENPKVGAKKAGKESPWEVLKRKPKDAGGGPVLKPSSQDSVEMKSPGVSSQEDGELDKFHCFTLNIVQTQMEAEGSSKGYVAVIHSQSQLEMDEQGLNMRGANEISEDQTLGDSQSSRTDSDTPTEPVPGKSKPRSGSSTGLDYIKLTWKRLRSHSRQYVSGLHMNRERKAAKQLGFIMAAFILCWIPYFIFFMVIAFCKSCCNEHVHMFTIWLGYINSTLNPLIYPLCNENFKKTFKKILHIRS"/>
 </config>
 </config>
 <config key="37">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="CPDFCSVTLGKKMCELNKNTTNNSTVTHPIPLGLVLGSISLITVIMNILVLYAVKTERKLQTVGNLYIVSLSVADLIVGAAVMPLNMMYLLKGKWVLGSLACLFWLSMDYVASTASIFSLFILCIDRYRSVQQPLNYLKYRTKTRALVMISGAWLISLLWIIPIQGWHAFANIRNRTVGEVTCETEFSQVTWFKVLTAIVNFYVPSLLMLWFYAKIYKAVRKHCQHRELINGSFRSFSENKSVHHKGQEKQKICHKKSNKDIPSSLLKGSSADPCCNVNLHFPQSKRMEAKLQLGSFDNCPNTLITEDDSKVVNRSCFPLAIAQTQSGPDKVGIKYVSVKKGPELSDTSDEHTFIEGVLCKNDSYSTLEPTSSAEDKTNKGLGYLKSTWLRLRTQSMQGVHLNREKKAAKQLGFIMAAFMLCWIPYFVLFMVIAYCQSCCNQGFYMFTIWLGYVNSTLNPFIYPLCNENFKTTFKKILHIHS"/>
+<entry key="StringCell" type="xstring" value="MMESGLSPFTDPLHLNNSNNSWSGLLDGDSLRSNHTLTLHERFHNALLGVFLGLLSLLTVIMNLLVLYAVKKEKSLHTVGNLYIVSLSVADLIVGTTVMPLNLVYLLEDEWKLGRAVCQFWLIMDYVASTASIFSLFILCLDRYRSVRQPLKYLKYRTRGKASVMISGAWLLSMMWIIPILGWRSFTHVDLKPEEENKCDTDFRFVTWFKVITAVFNFYVPSILMLWFYTHIYLAVRQHLRDRERIIHPTDSFGENENGQNAQTPVKSDSKSPKRECEVPLTLSKKQRLLDQNTLDQTYSLEDGNKTKTASSRSHRKIGVKCQQTSFLAMTTKRLRMAKKAKRCSLSPEEKQSDIEIPLSRPSVPEDVICSEGNNENKLQASLNECHVTVPNSVSGVCDISQVSDMQRYTSVLYNNYDPSQALPWTEEGVEDDKLDPANAVTLRQTWQKFIDQSRQRIQSLRIHKEHKAAKQLGFIIAAFLLCWIPYFIAFMVMAFCKECVHHDLHMFTIWLGYINSTLNPFIYPLCNGNFKRVFKNILNIRL"/>
 </config>
 </config>
 <config key="38">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="MTFPNSSCLLEDKMCEGNKTTMASPQLMPLVVVLSTISLVTVGLNLLVLYAVRSERKLHTVGNLYIVSLSVADLIVGAVVMPMNILYLLMSRWSLGRPLCLFWLSMDYVASTASIFSVFILCIDRYRSVQQPLRYLKYRTKTRASATILGAWFLSFLWVIPILGWNHFMRQTSVRREDKCETDFYDVTWFKVMTAIINFYLPTLLMLWFYAKIYKAVRQHCQHRELINGSLPSFSEIKLRPENPKGGVKKPGKESPWEVLKRKPKDAGGGSVLKSPSQTPEEMKSPVVFSQEDDGEVDKLHCLPLDIVQMQTVAEGSSRDYAASNQSHGQLKMEEQGLNTHGASETSEDHMLGDSQSFSRTDSDTTTETAPGKGKLRSGSNTGLDYIKFTWKRLRSHSRQYVSGLHMNRERKAAKQLGFIMAAFILCWIPYFIFFMVIAFCKNCCNEHLHMFTIWLGYINSTLNPLIYPLCNENFRKTFKKILHIRS"/>
+<entry key="StringCell" type="xstring" value="VAVCVGAMALLTVIMNILVLWAIRIERALHTVGNLYIVSLSVADLIVGAIVMPLSIKDWYGFILAEKGLCQFWLITDYVASTASIFSLFILCVDRYRSVTQPLIYMKYRTKTRASLMICGSWMLSLAWMIPILAWDSKTMKDDCNQTKIKCNTGFHDCAPFKISAAVINFFIPSLIMLLFYIKIFLTVRKHCQKRRSFHCSPNYPQTKDGSASFQKCKTHPNREKPFKEPKRSPQPECTGIFHHLQGLNVQHTPNENVDFLREKQSLPDDGLDKQPDNADGSDDDDYSNNDNTRNMPVTKEDCNMRVKDSLSTVQNAHASGTEASDSIAYQNASSHNSRYELARPTADAVDNTGNNPLKRLWSQVRSYSKTRAQTSYLRKEIKAAKQLGCIMAAFMLCWIPYFVLFGIPDSTVPEMVKTLTIWLGYLNSTLNPFIYALCNENFRKTFKRIFKHLKK"/>
 </config>
 </config>
 <config key="39">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="MTLPNSSCTFEDKMCEGNKTTIASPQLMPLVVVLSAISLVTVGLNLLVLYAVRSERKLHTVGNLYIVSLSVADLIVGAVVMPMNILYLLMSRWSLGQPLCLFWLSMDYVASTASIFSVFILCIDRYRSVQQPLRYLKYRTKTRASVTILGAWFLSFLWIIPILGWHHFMSQSSGHRDDRCETDFYDVTWFKIMTAIINFYLPTLLMLWFYAKIYKAVRQHCQHRELINGSLPSFSEIKLKPENPKAGAKKPGKESPWEVLKRKSKDASGEPVLKPPSQDPDEMKSPGVFSQEEDREVDKLQCFPLNIVQVQTEAEGSGRSFVAIDQSQSPVGMDEQSLNMHVPNEMSEDQILGDSQSFSRTDSDTPTESTSGKGKPRSGSSTGLDYIKFTWKRLRSHSRQYVSGLHMNRERKAAKQLGFIMAAFILCWIPYFIFFMVIAFCKSCCNERVHMFTIWLGYINSTLNPLIYPLCNENFKKTFKKILHIRS"/>
+<entry key="StringCell" type="xstring" value="MCFLTTLTSCDTLERPMESTTTLTTANSQFKRIDNTTLLIPSAPLHHHINNAVLGIFLGMLSLLTVIMNLLVLFAVRKERTLHTVGNLYIVSLSIADLIVGATVMPLNLVYLLEDQWKLGHVVCQFWLVMDYVASTASIFSLFILCLDRYRSVRHPLQYLKYRTRGRATLLICSAWLLSMTWTIPILGWRMFASVDKKTELENQCDTDFRFVTWFKVLTAILNFYIPSFLMLVFYSQIFIAVRDHYREWENFAGPALKTDATDTLTNGLQLQITKASEKESLALNAYSQNEGLLDQYSLEQPYNSRENTEEMTSEPKRKMCYKKKAIFNLSKRMRKSVPDSEISFQSDDGETVAEGRPSLSLAFLQSENTAQPQTFINVSDCNVLVPNSVGNICESAPTVDIHNYTAVLCTPPSPPSPWAENSPPLDASIALPAKQSWQKLCEQSKQSIHSMRIRKERKAARQLGFIIGVFMVCWIPYFITFMVMALCETCVHHDLHMFTIWLGYINSTLNPFIYPLCNENFKRVFKKIFHMSR"/>
 </config>
 </config>
 <config key="40">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="MTLPNSSYVLEDKMCEGNKTTMASPQLMPLVVVLSSISLVTVALNLLVLYAVRSERKLHTVGNLYIVSLSVADLIVGAVVMPMNILYLVMTKWSLGRPLCLFWLSMDYVASTASIFSVFILCIDRYRSVQQPLRYLKYRTKTRASATILGAWFLSFLWVIPILGWHHFMSHTSRRRDDKCETDFYDVTWFKIMTAIINFYLPTLLMLWFYFKIYKAVRRHCQHRELINGSLPTFSEIKQKPENSKVGPKKSEKESPWEAPKRESKDASGGPIFKPSFQDTKEKKSPDSLSQEEDGEAAKLPCFPLDLVETQTAAKGDGRGCEAVDKSQSQLKTEGQSLNTRRVSEISVDHTLVESQSIGRMTDSDTSTEPALGRDKLRSGSNPGLDYIKFTWKRLRSHSRQYISGLHVNRERKAAKQLGFIMAAFILCWIPYFIFFMVIAFCESCCNEQVHMFTIWLGYINSTLNPLIYPLCNENFKKTFKKILHIRS"/>
+<entry key="StringCell" type="xstring" value="MTCPNSSCVFEDKMCQGNKTAPANDAQLTPLVVVLSTISLVTVGLNLLVLYAVRSERKLHTVGNLYIVSLSVADLIVGVVVMPMNILYLLMSRWSLGRPLCLFWLSMDYVASTASIFSVFILCIDRYRSVQQPLKYLRYRTKTRASITILAAWFLSFLWIIPILGWRHFQPKTPEPREDKCETDFYNVTWFKVMTAIINFYLPTLLMLWFYAKIYKAVRQHCQHRELINGSFPSFSDMKMKPENLQVGAKKPGKESPWEVLKRKPKDTGGGPVLKPPSQEPKEVTSPGVFSQEKEEKDGELGKFYCFPLDTVQAQPEAEGSGRGYATINQSQNQLEMGEQGLSMPGAKEALEDQILGDSQSFSRTDSDTPAEPAPAKGKSRSESSTGLEYIKFTWKRLRSHSRQYVSGLHMNRERKAAKQLGFIMAAFIICWIPYFIFFMVIAFCESCCNQHVHMFTIWLGYINSTLNPLIYPLCNENFKKTFKKILHIRS"/>
 </config>
 </config>
 <config key="41">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="MSLPNSSCLLEDKMCEGNKTTMASPQLMPLVVVLSTICLVTVGLNLLVLYAVRSERKLHTVGNLYIVSLSVADLIVGAVVMPMNILYLLMSKWSLGRPLCLFWLSMDYVASTASIFSVFILCIDRYRSVQQPLRYLKYRTKTRASATILGAWFLSFLWVIPILGWNHFMQQTSVRREDKCETDFYDVTWFKVMTAIINFYLPTLLMLWFYAKIYKAVRQHCQHRELINGSLPSFSEIKLRPENPKGDAKKPGKESPWEVLKRKPKDAGGGSVLKSPSQTXKEMKSPVVFSQEDDREVDKLHCFPLDIVPMQTAAEGSSRDYVAVNQSHGQLKTDEQGLNTHGASEISEDQMLGDSQSFSRTDSDTTTETAPGKGKLRSGSNTGLDYIKFTWKRLRSHSRQYVSGLHMNRERKAAKQLGFIMAAFILCWIPYFIFFMVIAFCKNCCNEHLHMFTIWLGYINSTLNPLIYPLCNENFKKTFKRILHIRS"/>
+<entry key="StringCell" type="xstring" value="IHSASLGLALGTISALTVVLNILVLYAVRTERKLHTVGNLYIVSLSIADLIVGAAVMPLNIVYLLNREWILGRPACLFWLSMDYVASTASIFSLFILCIDRYRSIQQPLRYLKYRTKTRASLMISGAWLLSFTWVVPILGWHVFANGGVRSVPESTCETEFHKVTWFKVLTATLNFYIPSLLMLWFYAKIYKAVREHYQHREVVNGSFQLFYDSKLVQSVRVLKGQQSCTKTQCKDGNLTVPEMNFPAQYTPISKEFRQSRSTQEKDPVEDYGKQKGFSHCDNNVFKLHCFPLAIIQGSPQECRNYVTVTRGALEEHNCLRPRQREEISEEHTFAEAASCMVDLSQVGKSNMEAPGRTEARLSGNFRYLKHTWERFRTHSKQHIQGLHMNRERKAAKQLGFIMAAFMLCWIPYFVLFMVIAFCHNCCNHNFHMFTIWLGYINSTLNPLIYPLCNENFKKTFKKIFHVEL"/>
 </config>
 </config>
 <config key="42">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="MMESGLSPFTDPLHLNNSNNSWSGLLDGDSLRSNHTLTLHERFHNALLGVFLGLLSLLTVIMNLLVLYAVKKEKSLHTVGNLYIVSLSVADLIVGTTVMPLNLVYLLEDEWKLGRAVCQFWLIMDYVASTASIFSLFILCLDRYRSVRQPLKYLKYRTRGKASVMISGAWLLSMMWIIPILGWRSFTHVDLKPEEENKCDTDFRFVTWFKVITAVFNFYVPSILMLWFYTHIYLAVRQHLRDRERIIHPTDSFGENENGQNAQTPVKSDSKSPKRECEVPLTLSKKQRLLDQNTLDQTYSLEDGNKTKTASSRSHRKIGVKCQQTSFLAMTTKRLRMAKKAKRCSLSPEEKQSDIEIPLSRPSVPEDVICSEGNNENKLQASLNECHVTVPNSVSGVCDISQVSDMQRYTSVLYNNYDPSQALPWTEEGVEDDKLDPANAVTLRQTWQKFIDQSRQRIQSLRIHKEHKAAKQLGFIIAAFLLCWIPYFIAFMVMAFCKECVHHDLHMFTIWLGYINSTLNPFIYPLCNGNFKRVFKNILNIRL"/>
+<entry key="StringCell" type="xstring" value="MTLPNSSCIFEDNMCEGNKTTMASPQWMPLVVVLSTISLVTVGLNLLVLYAVHSERKLHTVGNLYIVSLSVADLIVGAVVMPMNILYLLMSRWSLGRPLCLFWLSMDYVASTASIFSVFILCIDRYRSVQQPLRYLKYRTKTRASATILGAWFLSFLWVIPILGWHRFMSNTSARRQDKCETDFYDVTWFKIMTAIINFYLPTLLMLWFYAKIYKAVRQHCQHRELINGSLPSFSEIKLRPENPKVGAKKPGKESSWEVLKMKLKDAGGGPVLKPPRRDSKEVKSPVSFSQEEDGEVAKGDITQMQIVEEADGEGYLAVTQSETQLEMDEQGLDTHGVRKISEDLVLGDSQSFSQTESDTPTGPAARKGKLKSGSNTALDYIKFTWKRFRAHSREYVSGLQLNRERKAAKQLGFIMAAFILCWIPYFIFFMVIAFCENCCNEHVHMFTIWLGYINSTLNPLIYPLCNENFKKTFKKILHIRS"/>
+</config>
+</config>
+<config key="43">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="MTLPNSSCTFEDKMCEGNKTTIASPQLMPLVVVLSAISLVTVALNLLVLYAVRSERKLHTVGNLYIVSLSVADLIVGAVVMPMNILYLLMSRWSWGQPLCLFWLSMDYVASTASIFSVFILCIDRYRSVQQPLRYLKYRTKTRASATILGAWFLSFLWIIPILGWHHFMSQSSGHREDKCETDFYDVTWFKIMTAIINFYLPTLLMLWFYAKIYKAVRQHCQHRELINGSLPSFSDIKMKPENPKAGPKKSGKESPWEVLKRKSKDASGEPVLKPPSQDPEEMKSPGVFSREEDREVDKLPCFPLNIVQVQTEAEGSGRSYVAIDQSQGPLGMDEQSVNMHGANEISEDQIIGDSQSFSRTDSDTPTESASGKGKPRSASSTGLDYIKFTWKRLRSHSRQYVSGLHMNRERKAAKQLGFIMAAFILCWIPYFIFFMVIAFCKSCCNERVHMFTIWLGYINSTLNPLIYPLCNENFKKTFKKILHIRS"/>
+</config>
+</config>
+<config key="44">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="MCEANKTTMANPKLMPLVVVLSAVSLVTVGLNLLVLCAVRSERKLHTVGNLYIVSLSVADLIVGAIVMPMNILYLLMSRWSLGRPLCLFWLSMDYVASTASIFSVFILCIDRYRSVQQPLRYLRYRTKTRASATILVAWLFSFLWVIPILGWHRFVSRTSRRREDKCETDFYDVTWFKVMTAIINFYLPTLLMLWFYAKIYKAVRRHCQHRELINGSLPSFSEIKLKPENPKVGAKKAGKESPWEVLKRKPKDAGGGPVLKPSSQDSVEMKSPGISSQEDGELDKFHCFTLNIVQTQMEAEGSSKGYVAVIHSQSQLEMDEQGLNMRGANEISEDQTLGDSQSSRTDSDTPTEPVPGKSKPRSGSSTGLDYIKLTWKRLRSHSRQYVSGLHMNRERKAAKQLGFIMAAFILCWIPYFIFFMVIAFCKSCCNEHVHMFTIWLGYINSTLNPLIYPLCNENFKKTFKKILHIRS"/>
 </config>
 </config>
 </config>

@@ -18,7 +18,7 @@
 <entry key="x-coordinate" type="xint" value="1273"/>
 <entry key="y-coordinate" type="xint" value="340"/>
 <entry key="width" type="xint" value="134"/>
-<entry key="height" type="xint" value="19"/>
+<entry key="height" type="xint" value="20"/>
 <entry key="alignment" type="xstring" value="CENTER"/>
 <entry key="borderSize" type="xint" value="0"/>
 <entry key="borderColor" type="xint" value="0"/>
@@ -33,11 +33,11 @@
 <entry key="node-bundle-name" type="xstring" value="ChemAxon/Infocom Marvin Extensions"/>
 <entry key="node-bundle-symbolic-name" type="xstring" value="jp.co.infocom.cheminfo.marvin"/>
 <entry key="node-bundle-vendor" type="xstring" value="Infocom Corporation"/>
-<entry key="node-bundle-version" type="xstring" value="3.1.0.v0501"/>
+<entry key="node-bundle-version" type="xstring" value="3.1.0.v0505"/>
 <entry key="node-feature-name" type="xstring" value="ChemAxon/Infocom Marvin Extensions Feature"/>
 <entry key="node-feature-symbolic-name" type="xstring" value="jp.co.infocom.cheminfo.marvin.feature.feature.group"/>
 <entry key="node-feature-vendor" type="xstring" value="Infocom Corporation"/>
-<entry key="node-feature-version" type="xstring" value="3.1.0.v0501"/>
+<entry key="node-feature-version" type="xstring" value="3.1.0.v0505"/>
 <config key="factory_settings"/>
 <entry key="name" type="xstring" value="MarvinView"/>
 <entry key="hasContent" type="xboolean" value="true"/>
@@ -55,6 +55,6 @@
 </config>
 <config key="filestores">
 <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-<entry key="file_store_id" type="xstring" value="732c431b-6c3b-4428-a234-eb4c1eee520d"/>
+<entry key="file_store_id" type="xstring" value="bd5902a3-1c65-41a7-8eab-7296802a2f93"/>
 </config>
 </config>

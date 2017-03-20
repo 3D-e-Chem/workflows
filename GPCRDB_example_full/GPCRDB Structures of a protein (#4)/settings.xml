@@ -6,16 +6,21 @@
 <entry key="memory_policy" type="xstring" value="CacheSmallInMemory"/>
 </config>
 <config key="model">
-<config key="Base path_Internals">
-<entry key="SettingsModelID" type="xstring" value="SMID_string"/>
-<entry key="EnabledStatus" type="xboolean" value="true"/>
-</config>
-<entry key="Base path" type="xstring" value="http://gpcrdb.org/"/>
 <config key="In Column_Internals">
 <entry key="SettingsModelID" type="xstring" value="SMID_string"/>
 <entry key="EnabledStatus" type="xboolean" value="true"/>
 </config>
 <entry key="In Column" type="xstring" value="Entry name"/>
+<config key="Base path_Internals">
+<entry key="SettingsModelID" type="xstring" value="SMID_string"/>
+<entry key="EnabledStatus" type="xboolean" value="true"/>
+</config>
+<entry key="Base path" type="xstring" value="http://gpcrdb.org/"/>
+<config key="Timeout_Internals">
+<entry key="SettingsModelID" type="xstring" value="SMID_integer"/>
+<entry key="EnabledStatus" type="xboolean" value="true"/>
+</config>
+<entry key="Timeout" type="xint" value="10"/>
 </config>
 <config key="nodeAnnotation">
 <entry key="text" type="xstring" value="Fetch structures"/>
@@ -23,7 +28,7 @@
 <entry key="x-coordinate" type="xint" value="813"/>
 <entry key="y-coordinate" type="xint" value="359"/>
 <entry key="width" type="xint" value="134"/>
-<entry key="height" type="xint" value="19"/>
+<entry key="height" type="xint" value="20"/>
 <entry key="alignment" type="xstring" value="CENTER"/>
 <entry key="borderSize" type="xint" value="0"/>
 <entry key="borderColor" type="xint" value="16777215"/>
@@ -38,11 +43,11 @@
 <entry key="node-bundle-name" type="xstring" value="GPCRDB Nodes"/>
 <entry key="node-bundle-symbolic-name" type="xstring" value="nl.esciencecenter.e3dchem.gpcrdb"/>
 <entry key="node-bundle-vendor" type="xstring" value="Netherlands eScience Center"/>
-<entry key="node-bundle-version" type="xstring" value="1.0.11"/>
-<entry key="node-feature-name" type="xstring" isnull="true" value=""/>
-<entry key="node-feature-symbolic-name" type="xstring" isnull="true" value=""/>
-<entry key="node-feature-vendor" type="xstring" isnull="true" value=""/>
-<entry key="node-feature-version" type="xstring" value="0.0.0"/>
+<entry key="node-bundle-version" type="xstring" value="1.2.0"/>
+<entry key="node-feature-name" type="xstring" value="3D-e-Chem KNIME nodes"/>
+<entry key="node-feature-symbolic-name" type="xstring" value="nl.esciencecenter.e3dchem.collection.feature.feature.group"/>
+<entry key="node-feature-vendor" type="xstring" value="Netherlands eScience Center &amp; Division of Medicinal Chemistry - VU University Amsterdam &amp; CMBI Radboud University"/>
+<entry key="node-feature-version" type="xstring" value="1.0.12.v201703071314"/>
 <config key="factory_settings"/>
 <entry key="name" type="xstring" value="GPCRDB Structures of a protein"/>
 <entry key="hasContent" type="xboolean" value="true"/>
@@ -52,12 +57,12 @@
 <entry key="index" type="xint" value="1"/>
 <entry key="port_spec_class" type="xstring" value="org.knime.core.data.DataTableSpec"/>
 <entry key="port_object_class" type="xstring" value="org.knime.core.node.BufferedDataTable"/>
-<entry key="port_object_summary" type="xstring" value="Rows: 16, Cols: 10"/>
+<entry key="port_object_summary" type="xstring" value="Rows: 20, Cols: 10"/>
 <entry key="port_dir_location" type="xstring" value="port_1"/>
 </config>
 </config>
 <config key="filestores">
 <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-<entry key="file_store_id" type="xstring" value="70dd82fa-192b-44ba-b79e-fdda3fc19493"/>
+<entry key="file_store_id" type="xstring" value="f6c8ac5d-f8ce-4cb9-82be-e28213ee4d14"/>
 </config>
 </config>

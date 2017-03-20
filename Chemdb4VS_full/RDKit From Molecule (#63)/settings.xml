@@ -78,7 +78,7 @@
 <entry key="x-coordinate" type="xint" value="233"/>
 <entry key="y-coordinate" type="xint" value="200"/>
 <entry key="width" type="xint" value="134"/>
-<entry key="height" type="xint" value="19"/>
+<entry key="height" type="xint" value="20"/>
 <entry key="alignment" type="xstring" value="CENTER"/>
 <entry key="borderSize" type="xint" value="0"/>
 <entry key="borderColor" type="xint" value="0"/>
@@ -93,11 +93,11 @@
 <entry key="node-bundle-name" type="xstring" value="RDKit Nodes for Knime"/>
 <entry key="node-bundle-symbolic-name" type="xstring" value="org.rdkit.knime.nodes"/>
 <entry key="node-bundle-vendor" type="xstring" value="NIBR"/>
-<entry key="node-bundle-version" type="xstring" value="3.0.0.v201512021543"/>
+<entry key="node-bundle-version" type="xstring" value="3.2.2.v201612161513"/>
 <entry key="node-feature-name" type="xstring" value="RDKit KNIME integration"/>
 <entry key="node-feature-symbolic-name" type="xstring" value="org.rdkit.knime.feature.feature.group"/>
 <entry key="node-feature-vendor" type="xstring" value="NIBR"/>
-<entry key="node-feature-version" type="xstring" value="3.0.0.v201512021543"/>
+<entry key="node-feature-version" type="xstring" value="3.2.2.v201612161513"/>
 <config key="factory_settings"/>
 <entry key="name" type="xstring" value="RDKit From Molecule"/>
 <entry key="hasContent" type="xboolean" value="true"/>
@@ -107,7 +107,7 @@
 <entry key="index" type="xint" value="1"/>
 <entry key="port_spec_class" type="xstring" value="org.knime.core.data.DataTableSpec"/>
 <entry key="port_object_class" type="xstring" value="org.knime.core.node.BufferedDataTable"/>
-<entry key="port_object_summary" type="xstring" value="Rows: 782, Cols: 35"/>
+<entry key="port_object_summary" type="xstring" value="Rows: 779, Cols: 35"/>
 <entry key="port_dir_location" type="xstring" value="port_1"/>
 </config>
 <config key="port_2">
@@ -120,6 +120,6 @@
 </config>
 <config key="filestores">
 <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-<entry key="file_store_id" type="xstring" value="1f5fe8b1-25d9-4bf7-ace7-7ca800e13ca2"/>
+<entry key="file_store_id" type="xstring" value="85d36071-1db0-4b39-8b18-1f2270d2f0b0"/>
 </config>
 </config>

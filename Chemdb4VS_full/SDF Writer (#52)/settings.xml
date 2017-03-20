@@ -70,7 +70,7 @@
 <entry key="x-coordinate" type="xint" value="1273"/>
 <entry key="y-coordinate" type="xint" value="220"/>
 <entry key="width" type="xint" value="134"/>
-<entry key="height" type="xint" value="19"/>
+<entry key="height" type="xint" value="20"/>
 <entry key="alignment" type="xstring" value="CENTER"/>
 <entry key="borderSize" type="xint" value="0"/>
 <entry key="borderColor" type="xint" value="0"/>
@@ -85,11 +85,11 @@
 <entry key="node-bundle-name" type="xstring" value="KNIME Chemistry Base nodes"/>
 <entry key="node-bundle-symbolic-name" type="xstring" value="org.knime.chem.base"/>
 <entry key="node-bundle-vendor" type="xstring" value="KNIME GmbH, Konstanz, Germany"/>
-<entry key="node-bundle-version" type="xstring" value="3.1.1.v201601281239"/>
+<entry key="node-bundle-version" type="xstring" value="3.3.0.v201612012034"/>
 <entry key="node-feature-name" type="xstring" value="KNIME Base Chemistry Types &amp; Nodes"/>
 <entry key="node-feature-symbolic-name" type="xstring" value="org.knime.features.chem.types.feature.group"/>
 <entry key="node-feature-vendor" type="xstring" value="KNIME GmbH, Konstanz, Germany"/>
-<entry key="node-feature-version" type="xstring" value="3.1.1.v201601281239"/>
+<entry key="node-feature-version" type="xstring" value="3.3.0.v201612012034"/>
 <config key="factory_settings"/>
 <entry key="name" type="xstring" value="SDF Writer"/>
 <entry key="hasContent" type="xboolean" value="true"/>
@@ -97,6 +97,6 @@
 <config key="ports"/>
 <config key="filestores">
 <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-<entry key="file_store_id" type="xstring" value="324d4f56-cdc2-4eb5-ab2e-2b942ce45b0e"/>
+<entry key="file_store_id" type="xstring" value="a8f829cc-edc1-4686-86d7-6be2a13abebd"/>
 </config>
 </config>

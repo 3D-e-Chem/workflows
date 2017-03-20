@@ -16,7 +16,7 @@
 <entry key="x-coordinate" type="xint" value="1213"/>
 <entry key="y-coordinate" type="xint" value="-40"/>
 <entry key="width" type="xint" value="134"/>
-<entry key="height" type="xint" value="19"/>
+<entry key="height" type="xint" value="20"/>
 <entry key="alignment" type="xstring" value="CENTER"/>
 <entry key="borderSize" type="xint" value="0"/>
 <entry key="borderColor" type="xint" value="0"/>
@@ -31,11 +31,11 @@
 <entry key="node-bundle-name" type="xstring" value="KNIME CDK Integration"/>
 <entry key="node-bundle-symbolic-name" type="xstring" value="org.openscience.cdk.knime"/>
 <entry key="node-bundle-vendor" type="xstring" value="KNIME GmbH, Konstanz and EMBL-EBI, Cambridge"/>
-<entry key="node-bundle-version" type="xstring" value="1.5.400.v201511291629"/>
+<entry key="node-bundle-version" type="xstring" value="1.5.600.v201607162102"/>
 <entry key="node-feature-name" type="xstring" value="KNIME-CDK"/>
 <entry key="node-feature-symbolic-name" type="xstring" value="org.openscience.cdk.knime.feature.feature.group"/>
 <entry key="node-feature-vendor" type="xstring" value="University Konstanz and EBI"/>
-<entry key="node-feature-version" type="xstring" value="1.5.400.v201511291629"/>
+<entry key="node-feature-version" type="xstring" value="1.5.600.v201607162102"/>
 <config key="factory_settings"/>
 <entry key="name" type="xstring" value="Element Filter"/>
 <entry key="hasContent" type="xboolean" value="true"/>
@@ -45,7 +45,7 @@
 <entry key="index" type="xint" value="1"/>
 <entry key="port_spec_class" type="xstring" value="org.knime.core.data.DataTableSpec"/>
 <entry key="port_object_class" type="xstring" value="org.knime.core.node.BufferedDataTable"/>
-<entry key="port_object_summary" type="xstring" value="Rows: 3578, Cols: 34"/>
+<entry key="port_object_summary" type="xstring" value="Rows: 3586, Cols: 34"/>
 <entry key="port_dir_location" type="xstring" value="port_1"/>
 </config>
 <config key="port_2">
@@ -58,6 +58,6 @@
 </config>
 <config key="filestores">
 <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-<entry key="file_store_id" type="xstring" value="0a2931aa-4c5d-428b-a204-63f0ce871639"/>
+<entry key="file_store_id" type="xstring" value="82ef821a-1956-49e5-92fe-f252d80b044b"/>
 </config>
 </config>

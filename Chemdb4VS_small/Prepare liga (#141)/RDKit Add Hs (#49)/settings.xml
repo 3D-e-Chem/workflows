@@ -43,11 +43,11 @@
 <entry key="node-bundle-name" type="xstring" value="RDKit Nodes for Knime"/>
 <entry key="node-bundle-symbolic-name" type="xstring" value="org.rdkit.knime.nodes"/>
 <entry key="node-bundle-vendor" type="xstring" value="NIBR"/>
-<entry key="node-bundle-version" type="xstring" value="3.0.0.v201512021543"/>
-<entry key="node-feature-name" type="xstring" isnull="true" value=""/>
-<entry key="node-feature-symbolic-name" type="xstring" isnull="true" value=""/>
-<entry key="node-feature-vendor" type="xstring" isnull="true" value=""/>
-<entry key="node-feature-version" type="xstring" value="0.0.0"/>
+<entry key="node-bundle-version" type="xstring" value="3.2.2.v201612161513"/>
+<entry key="node-feature-name" type="xstring" value="RDKit KNIME integration"/>
+<entry key="node-feature-symbolic-name" type="xstring" value="org.rdkit.knime.feature.feature.group"/>
+<entry key="node-feature-vendor" type="xstring" value="NIBR"/>
+<entry key="node-feature-version" type="xstring" value="3.2.2.v201612161513"/>
 <config key="factory_settings"/>
 <entry key="name" type="xstring" value="RDKit Add Hs"/>
 <entry key="hasContent" type="xboolean" value="true"/>
@@ -57,12 +57,12 @@
 <entry key="index" type="xint" value="1"/>
 <entry key="port_spec_class" type="xstring" value="org.knime.core.data.DataTableSpec"/>
 <entry key="port_object_class" type="xstring" value="org.knime.core.node.BufferedDataTable"/>
-<entry key="port_object_summary" type="xstring" value="Rows: 100, Cols: 39"/>
+<entry key="port_object_summary" type="xstring" value="Rows: 101, Cols: 39"/>
 <entry key="port_dir_location" type="xstring" value="port_1"/>
 </config>
 </config>
 <config key="filestores">
 <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-<entry key="file_store_id" type="xstring" isnull="true" value=""/>
+<entry key="file_store_id" type="xstring" value="ab30bcd2-9c97-4a88-95b3-ea1b5665d6ea"/>
 </config>
 </config>

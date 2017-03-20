@@ -11,6 +11,11 @@
 <entry key="EnabledStatus" type="xboolean" value="true"/>
 </config>
 <entry key="Base path" type="xstring" value="http://gpcrdb.org/"/>
+<config key="Timeout_Internals">
+<entry key="SettingsModelID" type="xstring" value="SMID_integer"/>
+<entry key="EnabledStatus" type="xboolean" value="true"/>
+</config>
+<entry key="Timeout" type="xint" value="10"/>
 <config key="In Column_Internals">
 <entry key="SettingsModelID" type="xstring" value="SMID_string"/>
 <entry key="EnabledStatus" type="xboolean" value="true"/>
@@ -28,7 +33,7 @@
 <entry key="x-coordinate" type="xint" value="813"/>
 <entry key="y-coordinate" type="xint" value="199"/>
 <entry key="width" type="xint" value="134"/>
-<entry key="height" type="xint" value="19"/>
+<entry key="height" type="xint" value="20"/>
 <entry key="alignment" type="xstring" value="CENTER"/>
 <entry key="borderSize" type="xint" value="0"/>
 <entry key="borderColor" type="xint" value="16777215"/>
@@ -43,11 +48,11 @@
 <entry key="node-bundle-name" type="xstring" value="GPCRDB Nodes"/>
 <entry key="node-bundle-symbolic-name" type="xstring" value="nl.esciencecenter.e3dchem.gpcrdb"/>
 <entry key="node-bundle-vendor" type="xstring" value="Netherlands eScience Center"/>
-<entry key="node-bundle-version" type="xstring" value="1.0.11"/>
-<entry key="node-feature-name" type="xstring" isnull="true" value=""/>
-<entry key="node-feature-symbolic-name" type="xstring" isnull="true" value=""/>
-<entry key="node-feature-vendor" type="xstring" isnull="true" value=""/>
-<entry key="node-feature-version" type="xstring" value="0.0.0"/>
+<entry key="node-bundle-version" type="xstring" value="1.2.0"/>
+<entry key="node-feature-name" type="xstring" value="3D-e-Chem KNIME nodes"/>
+<entry key="node-feature-symbolic-name" type="xstring" value="nl.esciencecenter.e3dchem.collection.feature.feature.group"/>
+<entry key="node-feature-vendor" type="xstring" value="Netherlands eScience Center &amp; Division of Medicinal Chemistry - VU University Amsterdam &amp; CMBI Radboud University"/>
+<entry key="node-feature-version" type="xstring" value="1.0.12.v201703071314"/>
 <config key="factory_settings"/>
 <entry key="name" type="xstring" value="GPCRDB Protein residues"/>
 <entry key="hasContent" type="xboolean" value="true"/>
@@ -63,6 +68,6 @@
 </config>
 <config key="filestores">
 <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-<entry key="file_store_id" type="xstring" value="5b71bee7-31ce-4493-aceb-40ce1169d27a"/>
+<entry key="file_store_id" type="xstring" value="a45f322e-15ba-499f-9ff9-5596d91e0fd2"/>
 </config>
 </config>

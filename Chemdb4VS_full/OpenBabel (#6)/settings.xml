@@ -21,7 +21,7 @@
 <entry key="x-coordinate" type="xint" value="673"/>
 <entry key="y-coordinate" type="xint" value="280"/>
 <entry key="width" type="xint" value="134"/>
-<entry key="height" type="xint" value="19"/>
+<entry key="height" type="xint" value="20"/>
 <entry key="alignment" type="xstring" value="CENTER"/>
 <entry key="borderSize" type="xint" value="0"/>
 <entry key="borderColor" type="xint" value="0"/>
@@ -36,11 +36,11 @@
 <entry key="node-bundle-name" type="xstring" value="KNIME OpenBabel node"/>
 <entry key="node-bundle-symbolic-name" type="xstring" value="org.knime.ext.chem.openbabel"/>
 <entry key="node-bundle-vendor" type="xstring" value="KNIME GmbH, Konstanz, Germany"/>
-<entry key="node-bundle-version" type="xstring" value="3.1.0.v201510191254"/>
+<entry key="node-bundle-version" type="xstring" value="3.3.0.v201607181158"/>
 <entry key="node-feature-name" type="xstring" value="KNIME Chemistry Add-Ons"/>
 <entry key="node-feature-symbolic-name" type="xstring" value="org.knime.features.ext.chem.tools.feature.group"/>
 <entry key="node-feature-vendor" type="xstring" value="KNIME GmbH, Konstanz, Germany"/>
-<entry key="node-feature-version" type="xstring" value="3.1.0.v201511241214"/>
+<entry key="node-feature-version" type="xstring" value="3.3.0.v201607181158"/>
 <config key="factory_settings"/>
 <entry key="name" type="xstring" value="OpenBabel"/>
 <entry key="hasContent" type="xboolean" value="true"/>
@@ -56,6 +56,6 @@
 </config>
 <config key="filestores">
 <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-<entry key="file_store_id" type="xstring" value="67839307-9246-441f-aeb7-8380c05dd8f3"/>
+<entry key="file_store_id" type="xstring" value="e5e846f1-4105-4480-ae61-54178d8034c9"/>
 </config>
 </config>

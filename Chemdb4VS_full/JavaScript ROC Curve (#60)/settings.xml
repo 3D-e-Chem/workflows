@@ -11,6 +11,7 @@
 <entry key="showArea" type="xboolean" value="true"/>
 <entry key="showGrid" type="xboolean" value="true"/>
 <entry key="resizeToWindow" type="xboolean" value="true"/>
+<entry key="displayFullscreenButton" type="xboolean" value="true"/>
 <entry key="imageWidth" type="xint" value="800"/>
 <entry key="imageHeight" type="xint" value="600"/>
 <entry key="backgroundColor" type="xstring" value="rgba(255,255,255,1.0)"/>
@@ -34,11 +35,26 @@
 <entry key="StringCell" type="xstring" value="active"/>
 </config>
 </config>
-<config key="curves">
+<entry key="maxPoints" type="xint" value="2000"/>
+<config key="numColumns">
+<entry key="filter-type" type="xstring" value="STANDARD"/>
+<config key="included_names">
 <entry key="array-size" type="xint" value="1"/>
 <entry key="0" type="xstring" value="score"/>
 </config>
-<entry key="maxPoints" type="xint" value="2000"/>
+<config key="excluded_names">
+<entry key="array-size" type="xint" value="0"/>
+</config>
+<entry key="enforce_option" type="xstring" value="EnforceInclusion"/>
+<config key="name_pattern">
+<entry key="pattern" type="xstring" value=""/>
+<entry key="type" type="xstring" value="Wildcard"/>
+<entry key="caseSensitive" type="xboolean" value="true"/>
+</config>
+<config key="datatype">
+<config key="typelist"/>
+</config>
+</config>
 </config>
 <config key="nodeAnnotation">
 <entry key="text" type="xstring" value="ROC from score"/>
@@ -46,7 +62,7 @@
 <entry key="x-coordinate" type="xint" value="1613"/>
 <entry key="y-coordinate" type="xint" value="220"/>
 <entry key="width" type="xint" value="134"/>
-<entry key="height" type="xint" value="19"/>
+<entry key="height" type="xint" value="20"/>
 <entry key="alignment" type="xstring" value="CENTER"/>
 <entry key="borderSize" type="xint" value="0"/>
 <entry key="borderColor" type="xint" value="16777215"/>
@@ -61,11 +77,11 @@
 <entry key="node-bundle-name" type="xstring" value="KNIME JavaScript Base Views"/>
 <entry key="node-bundle-symbolic-name" type="xstring" value="org.knime.js.views"/>
 <entry key="node-bundle-vendor" type="xstring" value="KNIME.com, Zurich, Switzerland"/>
-<entry key="node-bundle-version" type="xstring" value="3.1.1.v201601291159"/>
+<entry key="node-bundle-version" type="xstring" value="3.3.1.v201612192115"/>
 <entry key="node-feature-name" type="xstring" value="KNIME JavaScript Views"/>
 <entry key="node-feature-symbolic-name" type="xstring" value="org.knime.features.js.views.feature.group"/>
 <entry key="node-feature-vendor" type="xstring" value="KNIME GmbH, Konstanz, Germany"/>
-<entry key="node-feature-version" type="xstring" value="3.1.2.v201603040957"/>
+<entry key="node-feature-version" type="xstring" value="3.3.1.v201612192115"/>
 <config key="factory_settings"/>
 <entry key="name" type="xstring" value="JavaScript ROC Curve"/>
 <entry key="hasContent" type="xboolean" value="true"/>
@@ -90,6 +106,6 @@
 </config>
 <config key="filestores">
 <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-<entry key="file_store_id" type="xstring" value="04c700bc-5480-4fbc-a306-3afb04f0c68d"/>
+<entry key="file_store_id" type="xstring" value="a399facc-6669-485f-b1e8-73ed21df73ac"/>
 </config>
 </config>

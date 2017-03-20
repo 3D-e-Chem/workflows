@@ -33,7 +33,7 @@
 <entry key="x-coordinate" type="xint" value="353"/>
 <entry key="y-coordinate" type="xint" value="200"/>
 <entry key="width" type="xint" value="134"/>
-<entry key="height" type="xint" value="19"/>
+<entry key="height" type="xint" value="20"/>
 <entry key="alignment" type="xstring" value="CENTER"/>
 <entry key="borderSize" type="xint" value="0"/>
 <entry key="borderColor" type="xint" value="16777215"/>
@@ -48,11 +48,11 @@
 <entry key="node-bundle-name" type="xstring" value="RDKit Nodes for Knime"/>
 <entry key="node-bundle-symbolic-name" type="xstring" value="org.rdkit.knime.nodes"/>
 <entry key="node-bundle-vendor" type="xstring" value="NIBR"/>
-<entry key="node-bundle-version" type="xstring" value="3.0.0.v201512021543"/>
+<entry key="node-bundle-version" type="xstring" value="3.2.2.v201612161513"/>
 <entry key="node-feature-name" type="xstring" value="RDKit KNIME integration"/>
 <entry key="node-feature-symbolic-name" type="xstring" value="org.rdkit.knime.feature.feature.group"/>
 <entry key="node-feature-vendor" type="xstring" value="NIBR"/>
-<entry key="node-feature-version" type="xstring" value="3.0.0.v201512021543"/>
+<entry key="node-feature-version" type="xstring" value="3.2.2.v201612161513"/>
 <config key="factory_settings"/>
 <entry key="name" type="xstring" value="RDKit Diversity Picker"/>
 <entry key="hasContent" type="xboolean" value="true"/>
@@ -68,6 +68,6 @@
 </config>
 <config key="filestores">
 <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-<entry key="file_store_id" type="xstring" value="a5dede25-7023-4381-8bb0-adfefb7feaaa"/>
+<entry key="file_store_id" type="xstring" value="8fc05b8d-9522-43f9-97b4-fb6237dfd3e8"/>
 </config>
 </config>

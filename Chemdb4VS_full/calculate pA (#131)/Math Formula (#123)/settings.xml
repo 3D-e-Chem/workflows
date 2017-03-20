@@ -32,11 +32,11 @@
 <entry key="node-bundle-name" type="xstring" value="KNIME Math Expression Node"/>
 <entry key="node-bundle-symbolic-name" type="xstring" value="org.knime.ext.jep"/>
 <entry key="node-bundle-vendor" type="xstring" value="KNIME GmbH, Konstanz, Germany"/>
-<entry key="node-bundle-version" type="xstring" value="3.1.0.v201511241214"/>
+<entry key="node-bundle-version" type="xstring" value="3.3.0.v201612012034"/>
 <entry key="node-feature-name" type="xstring" value="KNIME Math Expression (JEP)"/>
 <entry key="node-feature-symbolic-name" type="xstring" value="org.knime.features.ext.jep.feature.group"/>
 <entry key="node-feature-vendor" type="xstring" value="KNIME GmbH, Konstanz, Germany"/>
-<entry key="node-feature-version" type="xstring" value="3.1.0.v201511241214"/>
+<entry key="node-feature-version" type="xstring" value="3.3.0.v201612012034"/>
 <config key="factory_settings"/>
 <entry key="name" type="xstring" value="Math Formula"/>
 <entry key="hasContent" type="xboolean" value="true"/>
@@ -46,12 +46,12 @@
 <entry key="index" type="xint" value="1"/>
 <entry key="port_spec_class" type="xstring" value="org.knime.core.data.DataTableSpec"/>
 <entry key="port_object_class" type="xstring" value="org.knime.core.node.BufferedDataTable"/>
-<entry key="port_object_summary" type="xstring" value="Rows: 412, Cols: 17"/>
+<entry key="port_object_summary" type="xstring" value="Rows: 124, Cols: 17"/>
 <entry key="port_dir_location" type="xstring" value="port_1"/>
 </config>
 </config>
 <config key="filestores">
 <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-<entry key="file_store_id" type="xstring" value="7dcdecc8-33fd-47da-a3cd-c792602672a0"/>
+<entry key="file_store_id" type="xstring" value="cd3deab9-e69f-4747-bcdf-8154ac51ff2d"/>
 </config>
 </config>
