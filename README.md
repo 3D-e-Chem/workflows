@@ -29,20 +29,31 @@ Below are the workflows mentioned in the
 [3D-e-Chem-VM: Structural Cheminformatics Research Infrastructure in a Freely Available Virtual Machine](https://doi.org/10.1021/acs.jcim.6b00686)
 paper.
 
+Workflow archive files ending with `_small.knwf` are workflows with most nodes
+collapsed into metanodes. The files ending with `_full.knwf` are workflows
+mostly without metanodes.
+
 ## Chemdb4VS
+
+[Workflow archive](jcim/Chemdb4VS_full.knwf)
 
 Customizable KNIME workflow to extract GPCR ligands from ChEMBL and preparation
 for virtual screening.
 
 ## GPCR-kinase
 
+[Workflow archive](jcim/GPCR_kinase.knwf)
+
 Workflow to analyze the binding site similarity between all crystallized GPCRs
 and kinases. PDB IDs are fetched through GPCRdb and KLIFS nodes, and the KRIPO
 nodes are used to select similar binding pockets and to add ligand structures.
 
-A Pymol session file called 'GPCR-kinase.pse' is stored next to this workflow.
+A Pymol session file called [jcim/GPCR-kinase.pse](jcim/GPCR-kinase.pse) is
+stored next to this workflow.
 
 ## GCRPDB_example
+
+[Workflow archive](jcim/GPCRDB_example_full.knwf)
 
 This example fetches the residues, structures, protein-ligand interactions, and
 mutations of the human beta-2 adrenoreceptor and its similarity to other beta-2
@@ -50,10 +61,13 @@ adrenoreceptors.
 
 Data is fetched from http://gpcrdb.org website.
 
-A Pymol session file called `aminergic_alignment.pse` with an aminergic
+A Pymol session file called
+[jcim/aminergic_alignment.pse](jcim/aminergic_alignment.pse) with an aminergic
 alignment is stored next to this workflow.
 
 ## KLIFS_example
+
+[Workflow archive](jcim/KLIFS_example_workflow_full.knwf)
 
 Example for KLIFS nodes
 
@@ -64,13 +78,17 @@ Data is fetched from http://klifs.vu-compmedchem.nl/
 
 ## KRIPO_bioisosteric_replacement_workflow
 
+[Workflow archive](jcim/KRIPO_bioisosteric_replacement_full.knwf)
+
 Bioisosteric replacement workflow using
 [Kripo Knime nodes](https://github.com/3D-e-Chem/3D-e-Chem-VM/wiki/Software#kripodb).
 
+A Pymol session file called [jcim/KRIPO_3rze_2aot.pse](jcim/KRIPO_3rze_2aot.pse)
+with 3rze + 2aot Kripo fragment alignment is stored next to this workflow.
+
 ## SyGMa-example
+
+[Workflow archive](jcim/SyGMa-example.knwf)
 
 Example for the SyGMa metabolites node: predicting the metabolites of 5 (drug)
 molecules.
-
-A Pymol session file called `KRIPO_3rze_2aot.pse` with 3rze + 2aot Kripo
-fragment alignment is stored next to this workflow.
