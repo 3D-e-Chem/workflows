@@ -1,8 +1,9 @@
-# KNIME workflows
+[KNIME](http://www.knime.org) workflows developed in the
+[3D-e-Chem project](https://3d-e-chem.github.io) using KNIME nodes developed in
+the [3D-e-Chem project](https://3d-e-chem.github.io).
 
 <!-- TOC -->
 
-* [KNIME workflows](#knime-workflows)
 * ["3D-e-Chem-VM: Structural Cheminformatics Research Infrastructure in a Freely Available Virtual Machine" paper](#3d-e-chem-vm-structural-cheminformatics-research-infrastructure-in-a-freely-available-virtual-machine-paper)
   * [Chemdb4VS](#chemdb4vs)
   * [GPCR-kinase](#gpcr-kinase)
@@ -13,12 +14,14 @@
 
 <!-- /TOC -->
 
-[KNIME](http://www.knime.org) workflows developed in the
-[3D-e-Chem project](https://3d-e-chem.github.io) using
-[KNIME](http://www.knime.org) nodes developed in the
-[3D-e-Chem project](https://3d-e-chem.github.io).
-
 The workflows can be imported into KNIME by importing each \*knwf file.
+
+The 3D-e-Chem KNIME nodes are part of the
+[Community contributions](https://www.knime.com/3d-e-chem-nodes-for-knime). The
+community contribution software site is disabled by default, it can be be
+enabled by in KNIME menu goto File>Preferences>Install/Update>Available software
+sites and check the checkbox of the `Stable Community Contributions` software
+site.
 
 The Pymol session files (\*.pse) can by opened with
 [PyMol](https://github.com/NLeSC/Chemical-Analytics-Platform/wiki/Cheatsheet#applications).
