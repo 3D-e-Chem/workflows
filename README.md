@@ -5,11 +5,11 @@ the [3D-e-Chem project](https://3d-e-chem.github.io).
 <!-- TOC -->
 
 * ["3D-e-Chem: Structural Cheminformatics Workflows for Computer-Aided Drug Discovery" paper](#3d-e-chem-structural-cheminformatics-workflows-for-computer-aided-drug-discovery-paper)
-  * [Ligand-based cross-reactivity prediction](#ligand-based-cross-reactivity-prediction)
-  * [Scaffold replacements for kinase ligand design](#scaffold-replacements-for-kinase-ligand-design)
-  * [Sequence-based ligand repurposing within a protein family](#sequence-based-ligand-repurposing-within-a-protein-family)
-  * [Structure-based bioactivity data mapping of kinase inhibitors](#structure-based-bioactivity-data-mapping-of-kinase-inhibitors)
-  * [Structure-based GPCR-kinase cross-reactivity prediction](#structure-based-gpcr-kinase-cross-reactivity-prediction)
+  * [Fig. 2: Structure-based bioactivity data mapping of kinase inhibitors](#structure-based-bioactivity-data-mapping-of-kinase-inhibitors) 
+  * [Fig. 3: Scaffold replacements for kinase ligand design](#scaffold-replacements-for-kinase-ligand-design)
+  * [Fig. 4: Ligand-based cross-reactivity prediction](#ligand-based-cross-reactivity-prediction)
+  * [Fig. 5: Sequence-based ligand repurposing within a protein family](#sequence-based-ligand-repurposing-within-a-protein-family)
+  * [Fig. 6: Structure-based GPCR-kinase cross-reactivity prediction](#structure-based-gpcr-kinase-cross-reactivity-prediction)
 * ["3D-e-Chem-VM: Structural Cheminformatics Research Infrastructure in a Freely Available Virtual Machine" paper](#3d-e-chem-vm-structural-cheminformatics-research-infrastructure-in-a-freely-available-virtual-machine-paper)
   * [Chemdb4VS](#chemdb4vs)
   * [GPCR-kinase](#gpcr-kinase)
@@ -36,15 +36,31 @@ The Pymol session files (\*.pse) can by opened with
 
 # "3D-e-Chem: Structural Cheminformatics Workflows for Computer-Aided Drug Discovery" paper
 
-## Ligand-based cross-reactivity prediction
+Below are the workflows shown in Figures 2 - 6 in the
+*3D-e-Chem: Structural Cheminformatics Workflows for Computer-Aided Drug Discovery* paper (submitted).
 
-## Scaffold replacements for kinase ligand design
+## Fig. 2 - Structure-based bioactivity data mapping of kinase inhibitors
 
-## Sequence-based ligand repurposing within a protein family
+* [KNIME workflow archive](chemmedchem/Fig_2_Structural_bioactivity_mapping.knwf)
 
-## Structure-based bioactivity data mapping of kinase inhibitors
+## Fig. 3 - Scaffold replacements for kinase ligand design
 
-## Structure-based GPCR-kinase cross-reactivity prediction
+* [KNIME workflow archive](chemmedchem/Fig_3_Kinase_scaffold_hopping.knwf)
+
+## Fig. 4 - Ligand-based cross-reactivity prediction
+
+* [KNIME workflow archive](chemmedchem/Fig_4_PP_GPCR_cross-reactivity.knwf)
+* [Optional tables for shortcuts during execution](chemmedchem/Fig_4_PP_GPCR_tables/)
+
+## Fig. 5 - Sequence-based ligand repurposing within a protein family
+
+* [KNIME workflow archive](chemmedchem/Fig_5_ss-TEA_classA_GPCRs.knwf)
+
+## Fig. 6 - Structure-based GPCR-kinase cross-reactivity prediction
+
+* [KNIME workflow archive](chemmedchem/Fig_6_GPCR-kinase_cross-reactivity.knwf)
+
+--
 
 # "3D-e-Chem-VM: Structural Cheminformatics Research Infrastructure in a Freely Available Virtual Machine" paper
 
@@ -52,20 +68,20 @@ Below are the workflows mentioned in the
 [3D-e-Chem-VM: Structural Cheminformatics Research Infrastructure in a Freely Available Virtual Machine](https://doi.org/10.1021/acs.jcim.6b00686)
 paper.
 
-Workflow archive files ending with `_small.knwf` are workflows with most nodes
+KNIME workflow archive files ending with `_small.knwf` are workflows with most nodes
 collapsed into metanodes. The files ending with `_full.knwf` are workflows
 mostly without metanodes.
 
 ## Chemdb4VS
 
-[Workflow archive](jcim/Chemdb4VS_full.knwf)
+* [KNIME workflow archive](jcim/Chemdb4VS_full.knwf)
 
 Customizable KNIME workflow to extract GPCR ligands from ChEMBL and preparation
 for virtual screening.
 
 ## GPCR-kinase
 
-[Workflow archive](jcim/GPCR_kinase.knwf)
+* [KNIME workflow archive](jcim/GPCR_kinase.knwf)
 
 Workflow to analyze the binding site similarity between all crystallized GPCRs
 and kinases. PDB IDs are fetched through GPCRdb and KLIFS nodes, and the KRIPO
@@ -76,7 +92,7 @@ stored next to this workflow.
 
 ## GCRPDB_example
 
-[Workflow archive](jcim/GPCRDB_example_full.knwf)
+* [KNIME workflow archive](jcim/GPCRDB_example_full.knwf)
 
 This example fetches the residues, structures, protein-ligand interactions, and
 mutations of the human beta-2 adrenoreceptor and its similarity to other beta-2
@@ -90,7 +106,7 @@ alignment is stored next to this workflow.
 
 ## KLIFS_example
 
-[Workflow archive](jcim/KLIFS_example_workflow_full.knwf)
+* [KNIME workflow archive](jcim/KLIFS_example_workflow_full.knwf)
 
 Example for KLIFS nodes
 
@@ -101,7 +117,7 @@ Data is fetched from http://klifs.vu-compmedchem.nl/
 
 ## KRIPO_bioisosteric_replacement_workflow
 
-[Workflow archive](jcim/KRIPO_bioisosteric_replacement_full.knwf)
+* [KNIME workflow archive](jcim/KRIPO_bioisosteric_replacement_full.knwf)
 
 Bioisosteric replacement workflow using
 [Kripo Knime nodes](https://github.com/3D-e-Chem/3D-e-Chem-VM/wiki/Software#kripodb).
@@ -111,7 +127,7 @@ with 3rze + 2aot Kripo fragment alignment is stored next to this workflow.
 
 ## SyGMa-example
 
-[Workflow archive](jcim/SyGMa-example.knwf)
+* [KNIME workflow archive](jcim/SyGMa-example.knwf)
 
 Example for the SyGMa metabolites node: predicting the metabolites of 5 (drug)
 molecules.
