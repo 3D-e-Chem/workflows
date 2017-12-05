@@ -34,10 +34,10 @@ has been enabled, otherwise the 3D-e-Chem KNIME node will not be found.
 The Pymol session files (\*.pse) can by opened with
 [PyMol](https://github.com/NLeSC/Chemical-Analytics-Platform/wiki/Cheatsheet#applications).
 
-# "3D-e-Chem: Structural Cheminformatics Workflows for Computer-Aided Drug Discovery" paper
+# "3D-e-Chem: Structural Cheminformatics Workflows for Computer-Aided Drug Discovery"
 
-Below are the workflows shown in Figures 2 - 6 in the
-*3D-e-Chem: Structural Cheminformatics Workflows for Computer-Aided Drug Discovery* paper (submitted).
+Below are the workflows shown in Figures 2 - 6 of 
+*3D-e-Chem: Structural Cheminformatics Workflows for Computer-Aided Drug Discovery* (submitted).
 
 ## Fig. 2 - Structure-based bioactivity data mapping of kinase inhibitors
 
