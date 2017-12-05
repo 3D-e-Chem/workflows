@@ -5,11 +5,11 @@ the [3D-e-Chem project](https://3d-e-chem.github.io).
 <!-- TOC -->
 
 * [*3D-e-Chem: Structural Cheminformatics Workflows for Computer-Aided Drug Discovery*](#3d-e-chem-structural-cheminformatics-workflows-for-computer-aided-drug-discovery)
-  * [Fig. 2: Structure-based bioactivity data mapping of kinase inhibitors](#fig-2-structure-based-bioactivity-data-mapping-of-kinase-inhibitors) 
-  * [Fig. 3: Scaffold replacements for kinase ligand design](#fig-3-scaffold-replacements-for-kinase-ligand-design)
-  * [Fig. 4: Ligand-based cross-reactivity prediction](#fig-4-ligand-based-cross-reactivity-prediction)
-  * [Fig. 5: Sequence-based ligand repurposing within a protein family](#fig-5-sequence-based-ligand-repurposing-within-a-protein-family)
-  * [Fig. 6: Structure-based GPCR-kinase cross-reactivity prediction](#fig-6-structure-based-gpcr-kinase-cross-reactivity-prediction)
+  * [Fig. 2: Structure-based bioactivity data mapping of kinase inhibitors](#fig-2---structure-based-bioactivity-data-mapping-of-kinase-inhibitors) 
+  * [Fig. 3: Scaffold replacements for kinase ligand design](#fig-3---scaffold-replacements-for-kinase-ligand-design)
+  * [Fig. 4: Ligand-based cross-reactivity prediction](#fig-4---ligand-based-cross-reactivity-prediction)
+  * [Fig. 5: Sequence-based ligand repurposing within a protein family](#fig-5---sequence-based-ligand-repurposing-within-a-protein-family)
+  * [Fig. 6: Structure-based GPCR-kinase cross-reactivity prediction](#fig-6---structure-based-gpcr-kinase-cross-reactivity-prediction)
 * [*3D-e-Chem-VM: Structural Cheminformatics Research Infrastructure in a Freely Available Virtual Machine* paper](#3d-e-chem-vm-structural-cheminformatics-research-infrastructure-in-a-freely-available-virtual-machine-paper)
   * [Chemdb4VS](#chemdb4vs)
   * [GPCR-kinase](#gpcr-kinase)
