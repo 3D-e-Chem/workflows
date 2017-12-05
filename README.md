@@ -14,14 +14,16 @@ the [3D-e-Chem project](https://3d-e-chem.github.io).
 
 <!-- /TOC -->
 
-The workflows can be imported into KNIME by importing each \*knwf file.
-
 The 3D-e-Chem KNIME nodes are part of the
 [Community contributions](https://www.knime.com/3d-e-chem-nodes-for-knime). The
 community contribution software site is disabled by default, it can be enabled
 by in KNIME menu going to File>Preferences>Install/Update>Available software
 sites and checking the checkbox of the `Stable Community Contributions` software
 site.
+
+The workflows can be imported into KNIME by importing each KNIME archive file
+(\*.knwf). Before importing make sure the community contribution software site
+has been enabled, otherwise the 3D-e-Chem KNIME node will not be found.
 
 The Pymol session files (\*.pse) can by opened with
 [PyMol](https://github.com/NLeSC/Chemical-Analytics-Platform/wiki/Cheatsheet#applications).
