@@ -4,6 +4,12 @@ the [3D-e-Chem project](https://3d-e-chem.github.io).
 
 <!-- TOC -->
 
+* ["3D-e-Chem: Structural Cheminformatics Workflows for Computer-Aided Drug Discovery" paper](#3d-e-chem-structural-cheminformatics-workflows-for-computer-aided-drug-discovery-paper)
+  * [Ligand-based cross-reactivity prediction](#ligand-based-cross-reactivity-prediction)
+  * [Scaffold replacements for kinase ligand design](#scaffold-replacements-for-kinase-ligand-design)
+  * [Sequence-based ligand repurposing within a protein family](#sequence-based-ligand-repurposing-within-a-protein-family)
+  * [Structure-based bioactivity data mapping of kinase inhibitors](#structure-based-bioactivity-data-mapping-of-kinase-inhibitors)
+  * [Structure-based GPCR-kinase cross-reactivity prediction](#structure-based-gpcr-kinase-cross-reactivity-prediction)
 * ["3D-e-Chem-VM: Structural Cheminformatics Research Infrastructure in a Freely Available Virtual Machine" paper](#3d-e-chem-vm-structural-cheminformatics-research-infrastructure-in-a-freely-available-virtual-machine-paper)
   * [Chemdb4VS](#chemdb4vs)
   * [GPCR-kinase](#gpcr-kinase)
@@ -27,6 +33,18 @@ has been enabled, otherwise the 3D-e-Chem KNIME node will not be found.
 
 The Pymol session files (\*.pse) can by opened with
 [PyMol](https://github.com/NLeSC/Chemical-Analytics-Platform/wiki/Cheatsheet#applications).
+
+# "3D-e-Chem: Structural Cheminformatics Workflows for Computer-Aided Drug Discovery" paper
+
+## Ligand-based cross-reactivity prediction
+
+## Scaffold replacements for kinase ligand design
+
+## Sequence-based ligand repurposing within a protein family
+
+## Structure-based bioactivity data mapping of kinase inhibitors
+
+## Structure-based GPCR-kinase cross-reactivity prediction
 
 # "3D-e-Chem-VM: Structural Cheminformatics Research Infrastructure in a Freely Available Virtual Machine" paper
 
