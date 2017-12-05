@@ -18,9 +18,9 @@ The workflows can be imported into KNIME by importing each \*knwf file.
 
 The 3D-e-Chem KNIME nodes are part of the
 [Community contributions](https://www.knime.com/3d-e-chem-nodes-for-knime). The
-community contribution software site is disabled by default, it can be be
-enabled by in KNIME menu goto File>Preferences>Install/Update>Available software
-sites and check the checkbox of the `Stable Community Contributions` software
+community contribution software site is disabled by default, it can be enabled
+by in KNIME menu going to File>Preferences>Install/Update>Available software
+sites and checking the checkbox of the `Stable Community Contributions` software
 site.
 
 The Pymol session files (\*.pse) can by opened with
