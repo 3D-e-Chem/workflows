@@ -4,7 +4,7 @@ the [3D-e-Chem project](https://3d-e-chem.github.io).
 
 <!-- TOC -->
 
-* ["3D-e-Chem: Structural Cheminformatics Workflows for Computer-Aided Drug Discovery" paper](#3d-e-chem-structural-cheminformatics-workflows-for-computer-aided-drug-discovery-paper)
+* ["3D-e-Chem: Structural Cheminformatics Workflows for Computer-Aided Drug Discovery" paper](#3d-e-chem-structural-cheminformatics-workflows-for-computer-aided-drug-discovery)
   * [Ligand-based cross-reactivity prediction](#ligand-based-cross-reactivity-prediction)
   * [Scaffold replacements for kinase ligand design](#scaffold-replacements-for-kinase-ligand-design)
   * [Sequence-based ligand repurposing within a protein family](#sequence-based-ligand-repurposing-within-a-protein-family)
