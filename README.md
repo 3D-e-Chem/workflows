@@ -5,7 +5,7 @@ the [3D-e-Chem project](https://3d-e-chem.github.io).
 <!-- TOC -->
 
 * [*3D-e-Chem: Structural Cheminformatics Workflows for Computer-Aided Drug Discovery*](#3d-e-chem-structural-cheminformatics-workflows-for-computer-aided-drug-discovery)
-  * [Fig. 2: Structure-based bioactivity data mapping of kinase inhibitors](#fig-2---structure-based-bioactivity-data-mapping-of-kinase-inhibitors) 
+  * [Fig. 2: Structure-based bioactivity data mapping of kinase inhibitors](#fig-2---structure-based-bioactivity-data-mapping-of-kinase-inhibitors)
   * [Fig. 3: Scaffold replacements for kinase ligand design](#fig-3---scaffold-replacements-for-kinase-ligand-design)
   * [Fig. 4: Ligand-based cross-reactivity prediction](#fig-4---ligand-based-cross-reactivity-prediction)
   * [Fig. 5: Sequence-based ligand repurposing within a protein family](#fig-5---sequence-based-ligand-repurposing-within-a-protein-family)
@@ -36,27 +36,32 @@ The Pymol session files (\*.pse) can by opened with
 
 # *3D-e-Chem: Structural Cheminformatics Workflows for Computer-Aided Drug Discovery*
 
-Below are the workflows shown in Figures 2 - 6 of 
+Below are the workflows shown in Figures 2 - 6 of
 *3D-e-Chem: Structural Cheminformatics Workflows for Computer-Aided Drug Discovery* (submitted).
 
 ## Fig. 2 - Structure-based bioactivity data mapping of kinase inhibitors
+<a id="#structure-based-bioactivity-data-mapping-of-kinase-inhibitors"/>
 
 * [KNIME workflow archive](chemmedchem/Fig_2_Structural_bioactivity_mapping.knwf)
 
 ## Fig. 3 - Scaffold replacements for kinase ligand design
+<a id="#scaffold-replacements-for-kinase-ligand-design"/>
 
 * [KNIME workflow archive](chemmedchem/Fig_3_Kinase_scaffold_hopping.knwf)
 
 ## Fig. 4 - Ligand-based cross-reactivity prediction
+<a id="#ligand-based-cross-reactivity-prediction"/>
 
 * [KNIME workflow archive](chemmedchem/Fig_4_PP_GPCR_cross-reactivity.knwf)
 * [Optional tables for shortcuts during execution](chemmedchem/Fig_4_PP_GPCR_tables/)
 
 ## Fig. 5 - Sequence-based ligand repurposing within a protein family
+<a id="#sequence-based-ligand-repurposing-within-a-protein-family"/>
 
 * [KNIME workflow archive](chemmedchem/Fig_5_ss-TEA_classA_GPCRs.knwf)
 
 ## Fig. 6 - Structure-based GPCR-kinase cross-reactivity prediction
+<a id="#structure-based-gpcr-kinase-cross-reactivity-prediction"/>
 
 * [KNIME workflow archive](chemmedchem/Fig_6_GPCR-kinase_cross-reactivity.knwf)
 
