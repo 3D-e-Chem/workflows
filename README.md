@@ -5,11 +5,11 @@ the [3D-e-Chem project](https://3d-e-chem.github.io).
 <!-- TOC -->
 
 * [*3D-e-Chem: Structural Cheminformatics Workflows for Computer-Aided Drug Discovery*](#3d-e-chem-structural-cheminformatics-workflows-for-computer-aided-drug-discovery)
-  * [Fig. 2: Structure-based bioactivity data mapping of kinase inhibitors](#fig-2---structure-based-bioactivity-data-mapping-of-kinase-inhibitors)
-  * [Fig. 3: Scaffold replacements for kinase ligand design](#fig-3---scaffold-replacements-for-kinase-ligand-design)
-  * [Fig. 4: Ligand-based cross-reactivity prediction](#fig-4---ligand-based-cross-reactivity-prediction)
-  * [Fig. 5: Sequence-based ligand repurposing within a protein family](#fig-5---sequence-based-ligand-repurposing-within-a-protein-family)
-  * [Fig. 6: Structure-based GPCR-kinase cross-reactivity prediction](#fig-6---structure-based-gpcr-kinase-cross-reactivity-prediction)
+  * [Fig. 2: Structure-based bioactivity data mapping of kinase inhibitors](#structure-based-bioactivity-data-mapping-of-kinase-inhibitors)
+  * [Fig. 3: Scaffold replacements for kinase ligand design](#scaffold-replacements-for-kinase-ligand-design)
+  * [Fig. 4: Ligand-based cross-reactivity prediction](#ligand-based-cross-reactivity-prediction)
+  * [Fig. 5: Sequence-based ligand repurposing within a protein family](#sequence-based-ligand-repurposing-within-a-protein-family)
+  * [Fig. 6: Structure-based GPCR-kinase cross-reactivity prediction](#structure-based-gpcr-kinase-cross-reactivity-prediction)
 * [*3D-e-Chem-VM: Structural Cheminformatics Research Infrastructure in a Freely Available Virtual Machine* paper](#3d-e-chem-vm-structural-cheminformatics-research-infrastructure-in-a-freely-available-virtual-machine-paper)
   * [Chemdb4VS](#chemdb4vs)
   * [GPCR-kinase](#gpcr-kinase)
@@ -39,33 +39,36 @@ The Pymol session files (\*.pse) can by opened with
 Below are the workflows shown in Figures 2 - 6 of
 *3D-e-Chem: Structural Cheminformatics Workflows for Computer-Aided Drug Discovery* (submitted).
 
-## Fig. 2 - Structure-based bioactivity data mapping of kinase inhibitors
-<a id="#structure-based-bioactivity-data-mapping-of-kinase-inhibitors"/>
+## Structure-based bioactivity data mapping of kinase inhibitors
+
+Figure 2
 
 * [KNIME workflow archive](chemmedchem/Fig_2_Structural_bioactivity_mapping.knwf)
 
-## Fig. 3 - Scaffold replacements for kinase ligand design
-<a id="#scaffold-replacements-for-kinase-ligand-design"/>
+## Scaffold replacements for kinase ligand design
+
+Figure 3
 
 * [KNIME workflow archive](chemmedchem/Fig_3_Kinase_scaffold_hopping.knwf)
 
-## Fig. 4 - Ligand-based cross-reactivity prediction
-<a id="#ligand-based-cross-reactivity-prediction"/>
+## Ligand-based cross-reactivity prediction
+
+Figure 4
 
 * [KNIME workflow archive](chemmedchem/Fig_4_PP_GPCR_cross-reactivity.knwf)
 * [Optional tables for shortcuts during execution](chemmedchem/Fig_4_PP_GPCR_tables/)
 
-## Fig. 5 - Sequence-based ligand repurposing within a protein family
-<a id="#sequence-based-ligand-repurposing-within-a-protein-family"/>
+## Sequence-based ligand repurposing within a protein family
+
+Figure 5
 
 * [KNIME workflow archive](chemmedchem/Fig_5_ss-TEA_classA_GPCRs.knwf)
 
-## Fig. 6 - Structure-based GPCR-kinase cross-reactivity prediction
-<a id="#structure-based-gpcr-kinase-cross-reactivity-prediction"/>
+## Structure-based GPCR-kinase cross-reactivity prediction
+
+Figure 6
 
 * [KNIME workflow archive](chemmedchem/Fig_6_GPCR-kinase_cross-reactivity.knwf)
-
---
 
 # *3D-e-Chem-VM: Structural Cheminformatics Research Infrastructure in a Freely Available Virtual Machine* paper
 
