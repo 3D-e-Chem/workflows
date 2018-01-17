@@ -37,36 +37,36 @@ The Pymol session files (\*.pse) can by opened with
 # *3D-e-Chem: Structural Cheminformatics Workflows for Computer-Aided Drug Discovery*
 
 Below are the workflows shown in Figures 2 - 6 of
-*3D-e-Chem: Structural Cheminformatics Workflows for Computer-Aided Drug Discovery* (submitted).
+*3D-e-Chem: Structural Cheminformatics Workflows for Computer-Aided Drug Discovery* ([doi:10.1002/cmdc.201700754](http://onlinelibrary.wiley.com/doi/10.1002/cmdc.201700754/abstract)).
 
 ## Structure-based bioactivity data mapping of kinase inhibitors
 
-Figure 2
+Figure 2: Structure-based bioactivity data mapping workflow using KLIFS.
 
 * [KNIME workflow archive](chemmedchem/Fig_2_Structural_bioactivity_mapping.knwf)
 
 ## Scaffold replacements for kinase ligand design
 
-Figure 3
+Figure 3: A workflow for the identification of potential scaffold replacements for kinase inhibitors while maintaining the protein-ligand interaction profile by combining protein-ligand interaction fingerprint (IFP) similarity with ligand-based dissimilarity (ECFP-4) analyses.
 
 * [KNIME workflow archive](chemmedchem/Fig_3_Kinase_scaffold_hopping.knwf)
 
 ## Ligand-based cross-reactivity prediction
 
-Figure 4
+Figure 4: Ligand-based GPCR cross-reactivity prediction workflow that can also be used to derive ligand-based protein-protein assocations.
 
 * [KNIME workflow archive](chemmedchem/Fig_4_PP_GPCR_cross-reactivity.knwf)
 * [Optional tables for shortcuts during execution](chemmedchem/Fig_4_PP_GPCR_tables/)
 
 ## Sequence-based ligand repurposing within a protein family
 
-Figure 5
+Figure 5: Workflow for the identification of ligand repurposing possibilities using a sequence-based double entropy analysis (ss-TEA).
 
 * [KNIME workflow archive](chemmedchem/Fig_5_ss-TEA_classA_GPCRs.knwf)
 
 ## Structure-based GPCR-kinase cross-reactivity prediction
 
-Figure 6
+Figure 6: A structure-based ligand repurposing workflow that searches for KripoDB pharmacophore similarities between GPCRs and kinases. 
 
 * [KNIME workflow archive](chemmedchem/Fig_6_GPCR-kinase_cross-reactivity.knwf)
 
