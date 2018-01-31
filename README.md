@@ -3,7 +3,8 @@
 the [3D-e-Chem project](https://3d-e-chem.github.io).
 
 <!-- TOC -->
-
+* [*Submitted manuscript: GPCR chemical diversity*](#GPCR-chemical-diversity)
+	* [GPCR chemical diversity assessment workflow](#GPCR-chemical-diversity-workflow)
 * [*3D-e-Chem: Structural Cheminformatics Workflows for Computer-Aided Drug Discovery*](#3d-e-chem-structural-cheminformatics-workflows-for-computer-aided-drug-discovery)
   * [Fig. 2: Structure-based bioactivity data mapping of kinase inhibitors](#structure-based-bioactivity-data-mapping-of-kinase-inhibitors)
   * [Fig. 3: Scaffold replacements for kinase ligand design](#scaffold-replacements-for-kinase-ligand-design)
@@ -29,10 +30,20 @@ site.
 
 The workflows can be imported into KNIME by importing each KNIME archive file
 (\*.knwf). Before importing make sure the community contribution software site
-has been enabled, otherwise the 3D-e-Chem KNIME node will not be found.
+has been enabled, otherwise the 3D-e-Chem KNIME nodes will not be found automatically.
 
 The Pymol session files (\*.pse) can by opened with
 [PyMol](https://github.com/NLeSC/Chemical-Analytics-Platform/wiki/Cheatsheet#applications).
+
+# *Submitted manuscript: GPCR chemical diversity*
+
+Below is the workflow for a submitted manuscript regarding the chemical diversity of GPCR ligands.
+
+## GPCR chemical diversity workflow
+
+This extensive workflow compares all co-crystallized GPCR ligands (taken from [GPCRdb](http://www.gpcrdb.org)) to the known GPCR ligands (taken from [ChEMBL](https://www.ebi.ac.uk/chembl/)) and assesses: i) the number of ligands of a specific crystallized GPCR similar to its co-crystallized ligands, ii) the number of ligands of a specific crystallized GPCR similar to co-crystallized ligands of any GPCR, iii) the number of ligands of other GPCRs that are similar to the co-crystallized ligands of a specific receptor, iv) the number of ligands of other GPCR subfamilies that are similar to the co-crystallized ligands of a specific receptor.
+
+* [KNIME workflow archive](GPCR_chemical_diversity/GPCR_chemical_diversity.knwf)
 
 # *3D-e-Chem: Structural Cheminformatics Workflows for Computer-Aided Drug Discovery*
 
@@ -53,7 +64,7 @@ Figure 3: A workflow for the identification of potential scaffold replacements f
 
 ## Ligand-based cross-reactivity prediction
 
-Figure 4: Ligand-based GPCR cross-reactivity prediction workflow that can also be used to derive ligand-based protein-protein assocations.
+Figure 4: Ligand-based GPCR cross-reactivity prediction workflow that can also be used to derive ligand-based protein-protein (PP) assocations.
 
 * [KNIME workflow archive](chemmedchem/Fig_4_PP_GPCR_cross-reactivity.knwf)
 * [Optional tables for shortcuts during execution](chemmedchem/Fig_4_PP_GPCR_tables/)
