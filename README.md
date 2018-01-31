@@ -3,8 +3,8 @@
 the [3D-e-Chem project](https://3d-e-chem.github.io).
 
 <!-- TOC -->
-* [*Submitted manuscript: GPCR chemical diversity*](#GPCR-chemical-diversity)
-	* [GPCR chemical diversity assessment workflow](#GPCR-chemical-diversity-workflow)
+* [*Submitted manuscript: GPCR chemical diversity*](#gpcr-chemical-diversity)
+	* [GPCR chemical diversity assessment workflow](#gpcr-chemical-diversity-workflow)
 * [*3D-e-Chem: Structural Cheminformatics Workflows for Computer-Aided Drug Discovery*](#3d-e-chem-structural-cheminformatics-workflows-for-computer-aided-drug-discovery)
   * [Fig. 2: Structure-based bioactivity data mapping of kinase inhibitors](#structure-based-bioactivity-data-mapping-of-kinase-inhibitors)
   * [Fig. 3: Scaffold replacements for kinase ligand design](#scaffold-replacements-for-kinase-ligand-design)
