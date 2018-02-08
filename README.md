@@ -81,6 +81,12 @@ Figure 6: A structure-based ligand repurposing workflow that searches for KripoD
 
 * [KNIME workflow archive](chemmedchem/Fig_6_GPCR-kinase_cross-reactivity.knwf)
 
+## PLANTS docking example workflow
+
+The initialization and combination of PLANTS KNIME nodes for docking runs requires great care. Therefore, an example docking workflow is available here:
+
+* [PLANTS docking workflow archive](https://github.com/3D-e-Chem/knime-plants/blob/master/examples/plants-virtual-screening-example.knwf)
+
 # *3D-e-Chem-VM: Structural Cheminformatics Research Infrastructure in a Freely Available Virtual Machine* paper
 
 Below are the workflows mentioned in the
