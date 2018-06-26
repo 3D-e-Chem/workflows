@@ -3,7 +3,7 @@
 the [3D-e-Chem project](https://3d-e-chem.github.io).
 
 <!-- TOC -->
-* [*Chemical Diversity in the G Protein-Coupled Receptor Superfamily*](#chemical-diversity_in-the-g-protein-coupled-receptor-superfamily)
+* [*Chemical Diversity in the G Protein-Coupled Receptor Superfamily*](#chemical-diversity-in-the-g-protein-coupled-receptor-superfamily)
 	* [GPCR chemical diversity assessment workflow](#gpcr-chemical-diversity-workflow)
 * [*3D-e-Chem: Structural Cheminformatics Workflows for Computer-Aided Drug Discovery*](#3d-e-chem-structural-cheminformatics-workflows-for-computer-aided-drug-discovery)
   * [Fig. 2: Structure-based bioactivity data mapping of kinase inhibitors](#structure-based-bioactivity-data-mapping-of-kinase-inhibitors)
