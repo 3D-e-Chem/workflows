@@ -3,7 +3,7 @@
 the [3D-e-Chem project](https://3d-e-chem.github.io).
 
 <!-- TOC -->
-* [*Submitted manuscript: GPCR chemical diversity*](#submitted-manuscript-gpcr-chemical-diversity)
+* [*Chemical Diversity in the G Protein-Coupled Receptor Superfamily*](#chemical-diversity_in-the-g-protein-coupled-receptor-superfamily)
 	* [GPCR chemical diversity assessment workflow](#gpcr-chemical-diversity-workflow)
 * [*3D-e-Chem: Structural Cheminformatics Workflows for Computer-Aided Drug Discovery*](#3d-e-chem-structural-cheminformatics-workflows-for-computer-aided-drug-discovery)
   * [Fig. 2: Structure-based bioactivity data mapping of kinase inhibitors](#structure-based-bioactivity-data-mapping-of-kinase-inhibitors)
@@ -35,9 +35,10 @@ has been enabled, otherwise the 3D-e-Chem KNIME nodes will not be found automati
 The Pymol session files (\*.pse) can by opened with
 [PyMol](https://github.com/NLeSC/Chemical-Analytics-Platform/wiki/Cheatsheet#applications).
 
-# *Submitted manuscript: GPCR chemical diversity*
+# *Chemical Diversity in the G Protein-Coupled Receptor Superfamily*
 
-Below is the workflow for a submitted manuscript regarding the chemical diversity of GPCR ligands.
+Below is the workflow for the chemical diversity of GPCR ligands as shown in Figure 1 and Table 1 in
+*Chemical Diversity in the G Protein-Coupled Receptor Superfamily* ([doi:10.1016/j.tips.2018.02.004](http://dx.doi.org/10.1016/j.tips.2018.02.004)).
 
 ## GPCR chemical diversity workflow
 
