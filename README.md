@@ -3,6 +3,8 @@
 the [3D-e-Chem project](https://3d-e-chem.github.io).
 
 <!-- TOC -->
+* [*Searching KLIFS for analogs of a ChEMBL library*](#klifs-analog-search-chembl)
+	* [Workflow for identifying the closest analogs in KLIFS for ChEMBL library ](#klifs-analog-search-chembl)
 * [*Chemical Diversity in the G Protein-Coupled Receptor Superfamily*](#chemical-diversity-in-the-g-protein-coupled-receptor-superfamily)
 	* [GPCR chemical diversity assessment workflow](#gpcr-chemical-diversity-workflow)
 * [*3D-e-Chem: Structural Cheminformatics Workflows for Computer-Aided Drug Discovery*](#3d-e-chem-structural-cheminformatics-workflows-for-computer-aided-drug-discovery)
@@ -34,6 +36,13 @@ has been enabled, otherwise the 3D-e-Chem KNIME nodes will not be found automati
 
 The Pymol session files (\*.pse) can by opened with
 [PyMol](https://github.com/NLeSC/Chemical-Analytics-Platform/wiki/Cheatsheet#applications).
+
+# *KLIFS analog search ChEMBL*
+
+## KLIFS: searching for analogs in a compound library
+This workflow collects and processes all known inhibitors for a given kinase from ChEMBL (based on a ChEMBL identifier according to the [TeachOpenCADD workflows](https://pubs.acs.org/doi/abs/10.1021/acs.jcim.9b00662)). As an example, the workflow collects all KDR (VEGFR2) inhibitors with a pIC50 value ≥ 5 from ChEMBL. This compound library is subsequently screened against all ligands in KLIFS using the ECFP-4 and MACCS fingerprints. The best hit for each compound, with a minimum Tanimoto similarity score of ≥ 0.4 for ECFP-4 and ≥ 0.8 for MACCS, is kept. Finally, a full list of all PDBs with this best reference compound is linked to each ChEMBL compound. In addition an interactive overview is generated for the remaining compounds for which no (close) analog was found in KLIFS.
+
+* [KNIME workflow archive](KLIFS_analog_search_ChEMBL/KLIFS_analog_search_ChEMBL.knwf)
 
 # *Chemical Diversity in the G Protein-Coupled Receptor Superfamily*
 
