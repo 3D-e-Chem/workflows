@@ -39,6 +39,9 @@ The Pymol session files (\*.pse) can by opened with
 
 # *KLIFS analog search ChEMBL*
 
+Below is the workflow for identifying the most similar ligand in KLIFS for a set of kinase inhibitors obtained from ChEMBL. This workflow is described in the main text and Figure S1 in 
+*KLIFS: an overhaul after the first 5 years of supporting kinase research* in Nucleic Acids Research ([doi:10.1093/nar/gkaa895](http://dx.doi.org/10.1093/nar/gkaa895)).
+
 ## KLIFS: searching for analogs in a compound library
 This workflow collects and processes all known inhibitors for a given kinase from ChEMBL (based on a ChEMBL identifier according to the [TeachOpenCADD workflows](https://pubs.acs.org/doi/abs/10.1021/acs.jcim.9b00662)). As an example, the workflow collects all KDR (VEGFR2) inhibitors with a pIC50 value ≥ 5 from ChEMBL. This compound library is subsequently screened against all ligands in KLIFS using the ECFP-4 and MACCS fingerprints. The best hit for each compound, with a minimum Tanimoto similarity score of ≥ 0.4 for ECFP-4 and ≥ 0.8 for MACCS, is kept. Finally, a full list of all PDBs with this best reference compound is linked to each ChEMBL compound. In addition an interactive overview is generated for the remaining compounds for which no (close) analog was found in KLIFS.
 
